@@ -1,0 +1,54 @@
+.celeb {
+    background-color: rgb(51, 51, 51);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.celeb_pic {
+    height: 500px;
+    width: 500px;
+    filter: blur(15px);
+}
+
+.celeb_buttons {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    width: 100%;
+}
+
+.play_button {
+    cursor: pointer;
+    height: 75px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1.5rem;
+}
+
+.play_button:hover {
+   background-color: rgb(85, 85, 85); 
+   transition: all 0.1s;
+}
+
+
+.blur {
+    filter: blur(30px);
+}
+
+.unblur {
+    transition-duration: 22s;
+    filter: none !important;  
+}
+
+.pic img {
+    max-height: 600px;
+    max-width: 600px;
+}
+

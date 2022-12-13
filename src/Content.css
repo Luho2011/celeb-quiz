@@ -1,0 +1,35 @@
+
+.game_buttons {
+    background-color: black;
+    padding: 150px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.game_button {
+    cursor: pointer;
+    height: 250px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(59, 58, 58);
+}
+
+.game_button:hover {
+    background-color: rgb(180, 180, 180);
+    transition: all 0.5s;
+}
+
+.questionmark_logo {
+    height: 150px;
+    width: 150px;
+}
+
+.rewind_logo {
+    height: 150px;
+    width: 150px;
+}
+
