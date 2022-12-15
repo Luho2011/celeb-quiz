@@ -32,7 +32,7 @@ function Celeb() {
     const remove = (id) => {
       const newList = imageList.filter(image => image.id !== id);
       setImageList(newList);
-      
+      console.log(newList);
     }
     
 
