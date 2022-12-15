@@ -12,7 +12,7 @@ function App() {
     <div className="app">
       <Routes>
         <Route exact path='/' element={<HomeScreen />} />
-        <Route path='/celeb-quiz/celeb' element={<Celeb />} />
+        <Route path='/celeb-quiz/celeb-quiz/celeb' element={<Celeb />} />
         <Route path='/celeb-quiz/music' element={<Music />} />
       </Routes>
     </div>

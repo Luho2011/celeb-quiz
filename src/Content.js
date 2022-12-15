@@ -9,7 +9,7 @@ function Content() {
   return (
     <div className='content'>
        <div className='game_buttons'>
-        <Link to='/celeb-quiz/celeb' target="_blank">
+        <Link to='/celeb-quiz/celeb-quiz/celeb' target="_blank">
           <button className='game_button'><img className='questionmark_logo' src={questionmark} alt="" onClick={""}/></button>
         </Link>
         <Link to='/celeb-quiz/music' target="_blank">
