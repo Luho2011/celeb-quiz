@@ -43,7 +43,7 @@
 }
 
 .unblur {
-    transition-duration: 28s;
+    transition-duration: 5s;
     filter: none !important;  
 }
 
