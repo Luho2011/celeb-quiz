@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/celeb-quiz/static/css/main.ef8e2c69.css",
-    "main.js": "/celeb-quiz/static/js/main.0b1281d5.js",
+    "main.js": "/celeb-quiz/static/js/main.51059228.js",
     "static/js/787.83904489.chunk.js": "/celeb-quiz/static/js/787.83904489.chunk.js",
     "static/media/quizlogo.png": "/celeb-quiz/static/media/quizlogo.36d4d0edab316700726e.png",
     "static/media/rewind.png": "/celeb-quiz/static/media/rewind.f278d5b187280d4acf26.png",
     "static/media/question.png": "/celeb-quiz/static/media/question.e99016679957740cc02d.png",
     "index.html": "/celeb-quiz/index.html",
     "main.ef8e2c69.css.map": "/celeb-quiz/static/css/main.ef8e2c69.css.map",
-    "main.0b1281d5.js.map": "/celeb-quiz/static/js/main.0b1281d5.js.map",
+    "main.51059228.js.map": "/celeb-quiz/static/js/main.51059228.js.map",
     "787.83904489.chunk.js.map": "/celeb-quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef8e2c69.css",
-    "static/js/main.0b1281d5.js"
+    "static/js/main.51059228.js"
   ]
 }
