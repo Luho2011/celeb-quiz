@@ -6,6 +6,7 @@ import images from "../Index.json"
 
 function Celeb() {
   const [image, setImage] = useState();
+  const [name, setName] = useState();
   const [imageList, setImageList] = useState(images);
   
   /*
@@ -22,11 +23,17 @@ function Celeb() {
     const handleNext = () => {
       let random = Math.floor(Math.random() * images.length);
       setImage(imageList[random].image);
+      // setName(imageList)
+      setName(imageList[random].name);
       const unblurit = document.querySelector(".pic img");
       unblurit.classList.remove("unblur");
+      unblurit.classList.remove("unblurFast");
       unblurit.classList.add("blur");
+      const solution = document.getElementById("h1");
+      solution.innerHTML = "";
+      solution.classList.remove("unblurFast");
+      solution.classList.add("blur");
       remove(imageList[random].id);
-      
     }
 
     const remove = (id) => {
@@ -41,6 +48,14 @@ function Celeb() {
     blurit.classList.toggle("unblur");
   }
 
+  const handleSolution = () => {
+    const blurit = document.querySelector(".pic img");
+    blurit.classList.add("unblurFast");
+    const solution = document.getElementById("h1");
+    solution.innerHTML = name;
+    solution.classList.add("unblurFast");
+  }
+
   
 
   return (
@@ -48,20 +63,11 @@ function Celeb() {
       <div className='celeb_buttons'>
         <button className='play_button' onClick={handleNext}>Next</button>
         <button className='play_button' onClick={handleStart}>Start</button>
+        <button className='play_button' onClick={handleSolution}>Solution</button>
       </div>
       <div className='pic'>
         <img src={image} />
-        {/*
-        <img src={image}></img>
- {
-        images.map((item) =>
-        <div key={item.id}>
-          <img src={item.image}/>
-          </div>
-        )
-      }
-    */ }
-       
+       <h1 id='h1'></h1>
       </div>
     </div>
   )

@@ -47,6 +47,11 @@
     filter: none !important;  
 }
 
+.unblurFast {
+    transition-duration: 5s;
+    filter: none !important;  
+}
+
 .pic img {
     max-height: 600px;
     max-width: 600px;
