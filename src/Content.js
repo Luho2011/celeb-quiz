@@ -3,6 +3,7 @@ import './Content.css'
 import { Link } from "react-router-dom";
 import questionmark from "./img/question.png";
 import rewindlogo from "./img/rewind.png";
+import geo from "./img/geo.png";
 
 
 function Content() {
@@ -14,6 +15,9 @@ function Content() {
         </Link>
         <Link to='/music' target="_blank">
           <button className='game_button'><img className='rewind_logo' src={rewindlogo} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/geography' target="_blank">
+          <button className='game_button'><img className='geo_logo' src={geo} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>

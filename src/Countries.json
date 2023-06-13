@@ -1,0 +1,38 @@
+[
+    {
+       "id": 1,
+       "image": "countries/pics/Deutschland.jpg",
+       "area": "357,592 km²",
+       "population": "84.270.625",
+       "continent": "Europa",
+       "president": "Olaf Scholz",
+       "currency": "Euro",
+       "language": "Deutsch",
+       "flag": "countries/pics/flag_germany.png"
+
+
+    },
+    {
+        "id": 2,
+        "image": "countries/pics/Frankreich.jpg",
+        "area": "632,733 km²",
+        "population": "68.042.591",
+        "continent": "Europa",
+        "president": "Emmanuel Macron",
+        "currency": "Euro",
+        "language": "Französisch",
+        "flag": "countries/pics/flag_french.png"
+    },
+    {
+        "id": 3,
+        "image": "countries/pics/Spanien.jpg",
+        "area": "505,970 km²",
+        "population": "47.400.000",
+        "continent": "Europa",
+        "president": "Pedro Sanchez",
+        "currency": "Euro",
+        "language": "Spanisch",
+        "flag": "countries/pics/flag_spain.png"
+    }
+
+]
