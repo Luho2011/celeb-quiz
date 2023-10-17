@@ -4,6 +4,7 @@ import HomeScreen from './HomeScreen';
 import Celeb from './pages/Celeb';
 import Music from './pages/Music';
 import Geography from './pages/Geography';
+import Zoom from './pages/Zoom';
 import Nav from './Nav';
 import { Route, Routes } from "react-router-dom"; 
 
@@ -16,6 +17,7 @@ function App() {
         <Route path='/celeb' element={<Celeb />} />
         <Route path='/music' element={<Music />} />
         <Route path='/geography' element={<Geography />} />
+        <Route path='/zoom' element={<Zoom />} />
       </Routes>
     </div>
     </>

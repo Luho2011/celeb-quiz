@@ -1,15 +1,33 @@
 [
     {
-        "id": 300,
-        "song": "audio/1.mp3" 
+        "id": 1,
+        "song": "audio/AdeleR.mp3", 
+        "songO": "audio/Adele.mp3",
+        "songName": "Adele - Someone Like You" 
     },
     {
-        "id": 301,
-        "song": "audio/2.mp3" 
+        "id": 2,
+        "song": "audio/jacksonR.mp3",
+        "songO": "audio/jackson.mp3",
+        "songName": "Michael Jackson - Billie Jean"  
     },
     {
-        "id": 302,
-        "song": "audio/3.mp3" 
+        "id": 3,
+        "song": "audio/NirvanaR.mp3",
+        "songO": "audio/Nirvana.mp3",
+        "songName": "Nirvana - Smells Like Teen Spirit"  
+    },
+    {
+        "id": 4,
+        "song": "audio/KateR.mp3",
+        "songO": "audio/Kate.mp3",
+        "songName": "Kate Bush - Running Up That Hill"  
+    },
+    {
+        "id": 5,
+        "song": "audio/DepecheR.mp3",
+        "songO": "audio/Depeche.mp3",
+        "songName": "Depeche Mode - Enjoy The Silence"  
     }
 
 ]

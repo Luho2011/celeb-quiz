@@ -1,4 +1,5 @@
 .songpage {
+    position: relative;
     background-color: rgb(51, 51, 51);
     height: 100vh;
     display: flex;
@@ -8,7 +9,56 @@
     gap: 50px;
 }
 
-h1 {
+.songpage > h1 {
     color: rgb(255, 255, 255);
+    position: absolute;
+    top: 100px;
 }
 
+.songPlayer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.songPlayer > h2 {
+    margin-bottom: 10px;
+}
+
+.songPlayer > button {
+    margin-bottom: 10px;
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1.5rem;
+}
+
+.songPlayer > button:hover {
+    background-color: rgb(85, 85, 85); 
+    transition: all 0.1s;
+}
+
+.reverse_button {
+    cursor: pointer;
+    height: 75px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1.5rem;
+}
+
+.reverse_button:hover {
+    background-color: rgb(85, 85, 85); 
+    transition: all 0.1s;
+ }
+
+ .title {
+    display: none;
+ }

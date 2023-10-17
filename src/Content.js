@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import questionmark from "./img/question.png";
 import rewindlogo from "./img/rewind.png";
 import geo from "./img/geo.png";
+import Lupe from "./img/Lupe.png";
 
 
 function Content() {
@@ -18,6 +19,9 @@ function Content() {
         </Link>
         <Link to='/geography' target="_blank">
           <button className='game_button'><img className='geo_logo' src={geo} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/zoom' target="_blank">
+          <button className='game_button'><img className='lupe_logo' src={Lupe} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>
