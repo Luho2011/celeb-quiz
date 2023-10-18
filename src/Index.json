@@ -908,6 +908,126 @@
         "id": 187,
         "image": "img/pics/187.jpg",
         "name" : "Louis Armstrong" 
+    },
+    {
+        "id": 188,
+        "image": "img/pics/188.jpg",
+        "name" : "Astrid Lindgren" 
+    },
+    {
+        "id": 189,
+        "image": "img/pics/189.jpg",
+        "name" : "Christopher Columbus" 
+    },
+    {
+        "id": 190,
+        "image": "img/pics/190.jpg",
+        "name" : "Sinead O'Connor" 
+    },
+    {
+        "id": 191,
+        "image": "img/pics/191.jpg",
+        "name" : "Ole Einar Björndalen" 
+    },
+    {
+        "id": 192,
+        "image": "img/pics/192.jpg",
+        "name" : "Dschingis Khan" 
+    },
+    {
+        "id": 193,
+        "image": "img/pics/193.jpg",
+        "name" : "Ernst Ludwig Kirchner" 
+    },
+    {
+        "id": 194,
+        "image": "img/pics/194.jpg",
+        "name" : "Samson" 
+    },
+    {
+        "id": 195,
+        "image": "img/pics/195.jpg",
+        "name" : "Stefan Raab" 
+    },
+    {
+        "id": 196,
+        "image": "img/pics/196.jpg",
+        "name" : "Benjamin Netanjahu" 
+    },
+    {
+        "id": 197,
+        "image": "img/pics/197.jpg",
+        "name" : "Lothar Matthäus" 
+    },
+    {
+        "id": 198,
+        "image": "img/pics/198.jpg",
+        "name" : "Captain Hook" 
+    },
+    {
+        "id": 199,
+        "image": "img/pics/199.jpg",
+        "name" : "Mario" 
+    },
+    {
+        "id": 200,
+        "image": "img/pics/200.jpg",
+        "name" : "Lara Croft" 
+    },
+    {
+        "id": 201,
+        "image": "img/pics/201.jpg",
+        "name" : "Bruce Lee" 
+    },
+    {
+        "id": 202,
+        "image": "img/pics/202.jpg",
+        "name" : "Hugh Hefner" 
+    },
+    {
+        "id": 203,
+        "image": "img/pics/203.jpg",
+        "name" : "Tabaluga" 
+    },
+    {
+        "id": 204,
+        "image": "img/pics/204.jpg",
+        "name" : "Dr. Julius No" 
+    },
+    {
+        "id": 205,
+        "image": "img/pics/205.jpg",
+        "name" : "Guildo Horn" 
+    },
+    {
+        "id": 206,
+        "image": "img/pics/206.jpg",
+        "name" : "Flip" 
+    },
+    {
+        "id": 207,
+        "image": "img/pics/207.jpg",
+        "name" : "Antony Blinken" 
+    },
+    {
+        "id": 208,
+        "image": "img/pics/208.jpg",
+        "name" : "Claus Kleber" 
+    },
+    {
+        "id": 209,
+        "image": "img/pics/209.jpg",
+        "name" : "Charlie Brown" 
+    },
+    {
+        "id": 210,
+        "image": "img/pics/210.jpg",
+        "name" : "Dieter Bohlen" 
+    },
+    {
+        "id": 211,
+        "image": "img/pics/211.jpg",
+        "name" : "Jesus Christus" 
     }
    
 ]

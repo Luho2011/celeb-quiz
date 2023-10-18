@@ -28,6 +28,234 @@
         "song": "audio/DepecheR.mp3",
         "songO": "audio/Depeche.mp3",
         "songName": "Depeche Mode - Enjoy The Silence"  
+    },
+    {
+        "id": 6,
+        "song": "audio/NenaR.mp3",
+        "songO": "audio/Nena.mp3",
+        "songName": "Nena - 99 Luftballons"  
+    },
+    {
+        "id": 7,
+        "song": "audio/AbbaR.mp3",
+        "songO": "audio/Abba.mp3",
+        "songName": "Abba - Dancing Queen"  
+    },
+    {
+        "id": 8,
+        "song": "audio/AvrilR.mp3",
+        "songO": "audio/Avril.mp3",
+        "songName": "Avril Lavigne - Complicated"  
+    },
+    {
+        "id": 9,
+        "song": "audio/BeatlesR.mp3",
+        "songO": "audio/Beatles.mp3",
+        "songName": "Beatles - Here comes the Sun"  
+    },
+    {
+        "id": 10,
+        "song": "audio/BritneyR.mp3",
+        "songO": "audio/Britney.mp3",
+        "songName": "Britney Spears - ...Baby One More Time"  
+    },
+    {
+        "id": 11,
+        "song": "audio/BrunoR.mp3",
+        "songO": "audio/Bruno.mp3",
+        "songName": "Bruno Mars - Just The Way You Are"  
+    },
+    {
+        "id": 12,
+        "song": "audio/CreedenceR.mp3",
+        "songO": "audio/Creedence.mp3",
+        "songName": "Creedence Clearwater Revival: Fortunate Son" 
+    },
+    {
+        "id": 13,
+        "song": "audio/DavidR.mp3",
+        "songO": "audio/David.mp3",
+        "songName": "David Bowie - Space Oddity"  
+    },
+    {
+        "id": 14,
+        "song": "audio/DidoR.mp3",
+        "songO": "audio/Dido.mp3",
+        "songName": "Dido - Thank You"  
+    },
+    {
+        "id": 15,
+        "song": "audio/DuaR.mp3",
+        "songO": "audio/Dua.mp3",
+        "songName": "Calvin Harris, Dua Lipa - One Kiss"  
+    },
+    {
+        "id": 16,
+        "song": "audio/EaglesR.mp3",
+        "songO": "audio/Eagles.mp3",
+        "songName": "Eagles - Hotel California"  
+    },
+    {
+        "id": 17,
+        "song": "audio/EminemR.mp3",
+        "songO": "audio/Eminem.mp3",
+        "songName": "Eminem - Lose Yourself"  
+    },
+    {
+        "id": 18,
+        "song": "audio/FalcoR.mp3",
+        "songO": "audio/Falco.mp3",
+        "songName": "Falco - Der Kommissar"  
+    },
+    {
+        "id": 19,
+        "song": "audio/GagaR.mp3",
+        "songO": "audio/Gaga.mp3",
+        "songName": "Lady Gaga - Poker Face"  
+    },
+    {
+        "id": 20,
+        "song": "audio/GorillazR.mp3",
+        "songO": "audio/Gorillaz.mp3",
+        "songName": "Gorillaz - Feel Good"  
+    },
+    {
+        "id": 21,
+        "song": "audio/GunsR.mp3",
+        "songO": "audio/Guns.mp3",
+        "songName": "Guns N' Roses - Sweet Child O' Mine"  
+    },
+    {
+        "id": 22,
+        "song": "audio/HerbertR.mp3",
+        "songO": "audio/Herbert.mp3",
+        "songName": "Herbert Grönemeyer - Mensch"  
+    },
+    {
+        "id": 23,
+        "song": "audio/HorseR.mp3",
+        "songO": "audio/Horse.mp3",
+        "songName": "America - A Horse With No Name"  
+    },
+    {
+        "id": 24,
+        "song": "audio/JohnnyR.mp3",
+        "songO": "audio/Johnny.mp3",
+        "songName": "Johnny Cash - Ring of Fire"  
+    },
+    {
+        "id": 25,
+        "song": "audio/LemonR.mp3",
+        "songO": "audio/Lemon.mp3",
+        "songName": "Lemon tree - Fool's Garden"  
+    },
+    {
+        "id": 26,
+        "song": "audio/MadonnaR.mp3",
+        "songO": "audio/Madonna.mp3",
+        "songName": "Madonna - Like A Prayer"  
+    },
+    {
+        "id": 27,
+        "song": "audio/MariusR.mp3",
+        "songO": "audio/Marius.mp3",
+        "songName": "Westernhagen - Freiheit"  
+    },
+    {
+        "id": 28,
+        "song": "audio/MetallicaR.mp3",
+        "songO": "audio/Metallica.mp3",
+        "songName": "Metallica: Nothing Else Matters"  
+    },
+    {
+        "id": 29,
+        "song": "audio/ParkR.mp3",
+        "songO": "audio/Park.mp3",
+        "songName": "Linkin Park - In the End"  
+    },
+    {
+        "id": 30,
+        "song": "audio/PoliceR.mp3",
+        "songO": "audio/Police.mp3",
+        "songName": "The Police - Message In A Bottle"  
+    },
+    {
+        "id": 31,
+        "song": "audio/QueensR.mp3",
+        "songO": "audio/Queens.mp3",
+        "songName": "Queen - I Want To Break Free"  
+    },
+    {
+        "id": 32,
+        "song": "audio/RainR.mp3",
+        "songO": "audio/Rain.mp3",
+        "songName": "Gene Kelly - Singin' in the Rain"  
+    },
+    {
+        "id": 33,
+        "song": "audio/ReinhardR.mp3",
+        "songO": "audio/Reinhard.mp3",
+        "songName": "Reinhard Mey - Aller guten Dinge sind drei"  
+    },
+    {
+        "id": 34,
+        "song": "audio/SandmanR.mp3",
+        "songO": "audio/Sandman.mp3",
+        "songName": "Mr. Sandman - The Chordettes"  
+    },
+    {
+        "id": 35,
+        "song": "audio/StevieR.mp3",
+        "songO": "audio/Stevie.mp3",
+        "songName": "Stevie Wonder - Superstition"  
+    },
+    {
+        "id": 36,
+        "song": "audio/StromaeR.mp3",
+        "songO": "audio/Stromae.mp3",
+        "songName": "Stromae - Alors on danse"  
+    },
+    {
+        "id": 37,
+        "song": "audio/WeekendR.mp3",
+        "songO": "audio/Weekend.mp3",
+        "songName": "The Weeknd - Blinding Lights"  
+    },
+    {
+        "id": 38,
+        "song": "audio/WhatsupR.mp3",
+        "songO": "audio/Whatsup.mp3",
+        "songName": "4 Non Blondes - What's Up"  
+    },
+    {
+        "id": 39,
+        "song": "audio/HaddawayR.mp3",
+        "songO": "audio/Haddaway.mp3",
+        "songName": "Haddaway - What Is Love"  
+    },
+    {
+        "id": 40,
+        "song": "audio/KissR.mp3",
+        "songO": "audio/Kiss.mp3",
+        "songName": "Kiss - I Was Made For Lovin' You"  
+    },
+    {
+        "id": 41,
+        "song": "audio/TotoR.mp3",
+        "songO": "audio/Toto.mp3",
+        "songName": "Toto - Africa"  
+    },
+    {
+        "id": 42,
+        "song": "audio/CherR.mp3",
+        "songO": "audio/Cher.mp3",
+        "songName": "Cher - Believe"  
+    },
+    {
+        "id": 43,
+        "song": "audio/KatyR.mp3",
+        "songO": "audio/Katy.mp3",
+        "songName": "Katy Perry - I Kissed A Girl"  
     }
 
 ]
