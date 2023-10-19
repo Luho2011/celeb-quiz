@@ -256,6 +256,108 @@
         "song": "audio/KatyR.mp3",
         "songO": "audio/Katy.mp3",
         "songName": "Katy Perry - I Kissed A Girl"  
+    },
+    {
+        "id": 44,
+        "song": "audio/RobbieR.mp3",
+        "songO": "audio/Robbie.mp3",
+        "songName": "Robbie Williams - Angels"  
+    },
+    {
+        "id": 45,
+        "song": "audio/WhitneyR.mp3",
+        "songO": "audio/Whitney.mp3",
+        "songName": "Whitney Houston - I Will Always Love You"  
+    },
+    {
+        "id": 46,
+        "song": "audio/AmyR.mp3",
+        "songO": "audio/Amy.mp3",
+        "songName": "Amy Winehouse - Back To Black"  
+    },
+    {
+        "id": 47,
+        "song": "audio/WhamR.mp3",
+        "songO": "audio/Wham.mp3",
+        "songName": "Wham! - Last Christmas"  
+    },
+    {
+        "id": 48,
+        "song": "audio/SinatraR.mp3",
+        "songO": "audio/Sinatra.mp3",
+        "songName": "Frank Sinatra - Jingle Bells"  
+    },
+    {
+        "id": 49,
+        "song": "audio/GotyeR.mp3",
+        "songO": "audio/Gotye.mp3",
+        "songName": "Gotye - Somebody That I Used To Know"  
+    },
+    {
+        "id": 50,
+        "song": "audio/GarfunkelR.mp3",
+        "songO": "audio/Garfunkel.mp3",
+        "songName": "Simon & Garfunkel - The Sound of Silence"  
+    },
+    {
+        "id": 51,
+        "song": "audio/ElvisR.mp3",
+        "songO": "audio/Elvis.mp3",
+        "songName": "Elvis Presley - Hound Dog"  
+    },
+    {
+        "id": 52,
+        "song": "audio/DenverR.mp3",
+        "songO": "audio/Denver.mp3",
+        "songName": "John Denver - Leaving, On a Jet Plane"  
+    },
+    {
+        "id": 53,
+        "song": "audio/RainbowR.mp3",
+        "songO": "audio/Rainbow.mp3",
+        "songName": "Israel Kamakawiwo'ole - Somewhere Over the Rainbow"  
+    },
+    {
+        "id": 54,
+        "song": "audio/CyrusR.mp3",
+        "songO": "audio/Cyrus.mp3",
+        "songName": "Miley Cyrus - Flowers"  
+    },
+    {
+        "id": 55,
+        "song": "audio/WorryR.mp3",
+        "songO": "audio/Worry.mp3",
+        "songName": "Bobby McFerrin - Don't Worry Be Happy"  
+    },
+    {
+        "id": 56,
+        "song": "audio/OasisR.mp3",
+        "songO": "audio/Oasis.mp3",
+        "songName": "Oasis - Wonderwall"  
+    },
+    {
+        "id": 57,
+        "song": "audio/GreenR.mp3",
+        "songO": "audio/Green.mp3",
+        "songName": "Green Day - Boulevard Of Broken Dreams"  
+    },
+    {
+        "id": 58,
+        "song": "audio/WolleR.mp3",
+        "songO": "audio/Wolle.mp3",
+        "songName": "Wolle Petry - Verlieben, verloren, vergessen, verzeih'n"  
+    },
+    {
+        "id": 59,
+        "song": "audio/FloydR.mp3",
+        "songO": "audio/Floyd.mp3",
+        "songName": "Pink Floyd - Another Brick in The Wall"  
+    },
+    {
+        "id": 60,
+        "song": "audio/LennonR.mp3",
+        "songO": "audio/Lennon.mp3",
+        "songName": "John Lennon - Imagine"  
     }
 
 ]
