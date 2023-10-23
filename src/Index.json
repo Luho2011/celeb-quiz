@@ -1028,6 +1028,26 @@
         "id": 211,
         "image": "img/pics/211.jpg",
         "name" : "Jesus Christus" 
+    },
+    {
+        "id": 212,
+        "image": "img/pics/212.jpg",
+        "name" : "julian Assange" 
+    },
+    {
+        "id": 213,
+        "image": "img/pics/213.jpg",
+        "name" : "Sandra Maischberger" 
+    },
+    {
+        "id": 214,
+        "image": "img/pics/214.jpg",
+        "name" : "E.T." 
+    },
+    {
+        "id": 215,
+        "image": "img/pics/215.jpg",
+        "name" : "Anne Frank" 
     }
    
 ]

@@ -358,6 +358,66 @@
         "song": "audio/LennonR.mp3",
         "songO": "audio/Lennon.mp3",
         "songName": "John Lennon - Imagine"  
+    },
+    {
+        "id": 61,
+        "song": "audio/MajaR.mp3",
+        "songO": "audio/Maja.mp3",
+        "songName": "Karel Gott - Die Biene Maja"
+    },
+    {
+        "id": 62,
+        "song": "audio/CollinsR.mp3",
+        "songO": "audio/Collins.mp3",
+        "songName": "Phil Collins - In The Air Tonight"  
+    },
+    {
+        "id": 63,
+        "song": "audio/EltonR.mp3",
+        "songO": "audio/Elton.mp3",
+        "songName": "Elton John - Rocket Man"  
+    },
+    {
+        "id": 64,
+        "song": "audio/PeppersR.mp3",
+        "songO": "audio/Peppers.mp3",
+        "songName": "Red Hot Chili Peppers - Can't Stop"  
+    },
+    {
+        "id": 65,
+        "song": "audio/MacarenaR.mp3",
+        "songO": "audio/Macarena.mp3",
+        "songName": "Los Del Rio - Macarena"  
+    },
+    {
+        "id": 66,
+        "song": "audio/StonesR.mp3",
+        "songO": "audio/Stones.mp3",
+        "songName": "The Rolling Stones - (I Can't Get No) Satisfaction"  
+    },
+    {
+        "id": 67,
+        "song": "audio/PrinceR.mp3",
+        "songO": "audio/Prince.mp3",
+        "songName": "Prince & The Revolution - Kiss"  
+    },
+    {
+        "id": 68,
+        "song": "audio/BrownR.mp3",
+        "songO": "audio/Brown.mp3",
+        "songName": "James Brown - It's A Man's Man's Man's World"  
+    },
+    {
+        "id": 69,
+        "song": "audio/BlondieR.mp3",
+        "songO": "audio/Blondie.mp3",
+        "songName": "Blondie - Heart Of Glass"  
+    },
+    {
+        "id": 70,
+        "song": "audio/SheeranR.mp3",
+        "songO": "audio/Sheeran.mp3",
+        "songName": "Ed Sheeran - Shape of You"  
     }
 
 ]
