@@ -10,7 +10,7 @@ function Zoom() {
 
   return (
     <div>
-        <h1>hallo</h1>
+        <h1>hallo1</h1>
     </div>
   )
 }
