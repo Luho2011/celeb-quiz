@@ -418,6 +418,30 @@
         "song": "audio/SheeranR.mp3",
         "songO": "audio/Sheeran.mp3",
         "songName": "Ed Sheeran - Shape of You"  
+    },
+    {
+        "id": 71,
+        "song": "audio/FunR.mp3",
+        "songO": "audio/Fun.mp3",
+        "songName": "Cyndi Lauper - Girls Just Want To Have Fun"  
+    },
+    {
+        "id": 72,
+        "song": "audio/AceR.mp3",
+        "songO": "audio/Ace.mp3",
+        "songName": "Ace of Base - All That She Wants"  
+    },
+    {
+        "id": 73,
+        "song": "audio/ScorpionR.mp3",
+        "songO": "audio/Scorpion.mp3",
+        "songName": "Scorpions - Wind Of Change"  
+    },
+    {
+        "id": 74,
+        "song": "audio/ModernR.mp3",
+        "songO": "audio/Modern.mp3",
+        "songName": "Modern Talking - You're My Heart, You're My Soul"  
     }
 
 ]
