@@ -36,20 +36,7 @@ function Celeb() {
       console.log(newList);
     }
     
-/*
-  const handleStart = () => {
-    const blurit = document.querySelector(".pic img");
-    blurit.classList.toggle("unblur");
-  }*/
 
-  /*
-  const handleSolution = () => {
-    const blurit = document.querySelector(".pic img");
-    blurit.classList.add("unblurFast");
-    const solution = document.getElementById("h1");
-    solution.innerHTML = name;
-    solution.classList.add("unblurFast");
-  }*/
 
   
 
