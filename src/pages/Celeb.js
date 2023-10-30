@@ -23,7 +23,7 @@ function Celeb() {
     }*/
 
     const handleNext = () => {
-      let random = Math.floor(Math.random() * images.length);
+      let random = Math.floor(Math.random() * imageList.length);
       setImage(imageList[random].image);
       // setName(imageList)
       setName(imageList[random].name);
