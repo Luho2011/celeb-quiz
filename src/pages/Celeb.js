@@ -8,19 +8,10 @@ function Celeb() {
   const [image, setImage] = useState();
   const [name, setName] = useState();
   const [unblur, setUnblur] = useState(true);
-  const [unblurSolution, setUnblurSolution] = useState(true);
+  const [unblurSolution, setUnblurSolution] = useState(false);
   const [imageList, setImageList] = useState(images);
   
-  /*
-  const handleNext = () => {
-    fetch('https://randomfox.ca/floof/')
-    .then(res => res.json())
-    .then(data => 
-      setImage(data.image))
-      const unblurit = document.querySelector(".pic img");
-      unblurit.classList.remove("unblur");
-      unblurit.classList.add("blur");
-    }*/
+  
 
     const handleNext = () => {
       let random = Math.floor(Math.random() * imageList.length);
@@ -28,6 +19,7 @@ function Celeb() {
       // setName(imageList)
       setName(imageList[random].name);
       remove(imageList[random].id);
+      setUnblurSolution(true);
     }
 
     const remove = (id) => {
@@ -36,8 +28,6 @@ function Celeb() {
       console.log(newList);
     }
     
-
-
   
 
   return (

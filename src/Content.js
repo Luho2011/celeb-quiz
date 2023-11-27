@@ -5,6 +5,7 @@ import questionmark from "./img/question.png";
 import rewindlogo from "./img/rewind.png";
 import geo from "./img/geo.png";
 import Lupe from "./img/Lupe.png";
+import Sanduhr from "./img/sanduhr.png";
 
 
 function Content() {
@@ -22,6 +23,9 @@ function Content() {
         </Link>
         <Link to='/zoom' target="_blank">
           <button className='game_button'><img className='lupe_logo' src={Lupe} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/history' target="_blank">
+          <button className='game_button'><img className='sanduhr_logo' src={Sanduhr} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>

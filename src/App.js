@@ -6,6 +6,7 @@ import Music from './pages/Music';
 import Geography from './pages/Geography';
 import Zoom from './pages/Zoom';
 import Nav from './Nav';
+import History from './pages/History';
 import { Route, Routes } from "react-router-dom"; 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path='/music' element={<Music />} />
         <Route path='/geography' element={<Geography />} />
         <Route path='/zoom' element={<Zoom />} />
+        <Route path='/history' element={<History />} />
       </Routes>
     </div>
     </>

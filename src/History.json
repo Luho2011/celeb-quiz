@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image": "img/history/1.jpg",
+        "name" : "2001"
+    },
+    {
+        "id": 2,
+        "image": "img/history/2.jpg",
+        "name" : "2023"
+    },
+    {
+        "id": 3,
+        "image": "img/history/3.jpg",
+        "name" : "ka wann"
+    }
+]
