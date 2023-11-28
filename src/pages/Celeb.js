@@ -32,6 +32,9 @@ function Celeb() {
 
   return (
     <div className='celeb'>
+      <div className='headline'>
+        <h1>Wer ist das?</h1>
+      </div>
       <div className='celeb_buttons'>
         <button className='play_button' onClick={handleNext}>Next</button>
         <button className='play_button' onClick={()=> setUnblur(!unblur)}>Start</button>

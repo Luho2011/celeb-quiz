@@ -11,7 +11,7 @@ function Music() {
   const [songName, setSongName] = useState();
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentSong, setCurrentSong] = useState(songs[0]);
-  const [titleSolution, setTitleSolution] = useState(true);
+  const [titleSolution, setTitleSolution] = useState(false);
 
   const nextSong = () => {
     let random = Math.floor(Math.random() * songList.length);
@@ -19,6 +19,7 @@ function Music() {
     setSongO(songList[random].songO);
     setSongName(songList[random].songName);
     remove(songList[random].id);
+    setTitleSolution(true);
   }
 
 

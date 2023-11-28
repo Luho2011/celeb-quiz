@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: relative;
 }
 
 .history_buttons {
@@ -13,13 +14,36 @@
     justify-content: center;
     gap: 35px;
     width: 100%;
+    position: absolute;
+    top: 100px;
 }
 
-.pic > h1 {
-    font-size: 55px;
+
+.pic__history > h1 {
+    font-size: 50px;
     color: white;
+}
+
+.pic__history img {
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.pic__history {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    z-index: 5;
 }
 
 .solution {
     display: none;
+}
+
+.headline__history {
+    top: 0;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 25px;
 }

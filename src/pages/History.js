@@ -29,11 +29,14 @@ function History() {
 
   return (
     <div className='history'>
+      <div className='headline__history'>
+        <h1>Wann war das?</h1>
+      </div>
       <div className='history_buttons'>
         <button className='play_button' onClick={handleNext}>Next</button>
         <button className='play_button' onClick={()=> setSolution(!solution)}>Solution</button>
       </div>
-      <div className='pic'>
+      <div className='pic__history'>
         <img className="history__pic" src={image} />
        <h1 className={solution ? "solution" : ""}>{name}</h1>
       </div>

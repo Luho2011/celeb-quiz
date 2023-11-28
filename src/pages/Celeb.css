@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: relative;
 }
 
 .celeb_pic {
@@ -19,17 +20,20 @@
     justify-content: center;
     gap: 35px;
     width: 100%;
+    position: absolute;
+    top: 100px;
 }
 
 .play_button {
     cursor: pointer;
-    height: 75px;
-    width: 150px;
+    height: 50px;
+    width: 110px;
     border: none;
     border-radius: 20px;
     background-color: rgb(128, 128, 128);
     color: black;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
+    font-weight: bold;
 }
 
 .play_button:hover {
@@ -61,16 +65,25 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 100px;
+    z-index: 5;
 }
 
 .pic > h1 {
-    font-size: 50px;
-    color: white;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
 }
 
 
 .solution {
     filter: blur(30px);
     display: none;
+}
+
+.headline {
+    top: 0;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 25px;
 }
 
