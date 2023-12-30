@@ -1,0 +1,273 @@
+[
+    {
+        "id": 1,
+        "song": "audio/1R.mp3", 
+        "songO": "audio/1.mp3",
+        "songName": "Andreas Gabalier - I sing a Liad für Di" 
+    },
+    {
+        "id": 2,
+        "song": "audio/2R.mp3",
+        "songO": "audio/2.mp3",
+        "songName": "Coldplay - Viva La Vida"  
+    },
+    {
+        "id": 3,
+        "song": "audio/3R.mp3",
+        "songO": "audio/3.mp3",
+        "songName": "Trio - Da Da Da"  
+    },
+    {
+        "id": 4,
+        "song": "audio/4R.mp3",
+        "songO": "audio/4.mp3",
+        "songName": "Abba - Mamma Mia"  
+    },
+    {
+        "id": 5,
+        "song": "audio/5R.mp3",
+        "songO": "audio/5.mp3",
+        "songName": "a-ha - Take On Me"  
+    },
+    {
+        "id": 6,
+        "song": "audio/6R.mp3",
+        "songO": "audio/6.mp3",
+        "songName": "Backstreet Boys - Everybody"  
+    },
+    {
+        "id": 7,
+        "song": "audio/7R.mp3",
+        "songO": "audio/7.mp3",
+        "songName": "Bee Gees - Stayin' Alive"  
+    },
+    {
+        "id": 8,
+        "song": "audio/8R.mp3",
+        "songO": "audio/8.mp3",
+        "songName": "Ben E. King - Stand By Me"  
+    },
+    {
+        "id": 9,
+        "song": "audio/9R.mp3",
+        "songO": "audio/9.mp3",
+        "songName": "Bob Marley - Three Little Birds"  
+    },
+    {
+        "id": 10,
+        "song": "audio/10R.mp3",
+        "songO": "audio/10.mp3",
+        "songName": "Bon Jovi - It's My Life"  
+    },
+    {
+        "id": 11,
+        "song": "audio/11R.mp3",
+        "songO": "audio/11.mp3",
+        "songName": "Coolio - Gangsta's Paradise"  
+    },
+    {
+        "id": 12,
+        "song": "audio/12R.mp3",
+        "songO": "audio/12.mp3",
+        "songName": "Creedence Clearwater Revival - Have You Ever Seen The Rain"  
+    },
+    {
+        "id": 13,
+        "song": "audio/13R.mp3",
+        "songO": "audio/13.mp3",
+        "songName": "Die Ärzte - Männer sind Schweine"  
+    },
+    {
+        "id": 14,
+        "song": "audio/14R.mp3",
+        "songO": "audio/14.mp3",
+        "songName": "Eric Clapton - Tears In Heaven"  
+    },
+    {
+        "id": 15,
+        "song": "audio/15R.mp3",
+        "songO": "audio/15.mp3",
+        "songName": "Eurythmics - Sweet Dreams"  
+    },
+    {
+        "id": 16,
+        "song": "audio/16R.mp3",
+        "songO": "audio/16.mp3",
+        "songName": "Alicia Keys - Fallin"  
+    },
+    {
+        "id": 17,
+        "song": "audio/17R.mp3",
+        "songO": "audio/17.mp3",
+        "songName": "Fleetwood Mac - Dreams"  
+    },
+    {
+        "id": 18,
+        "song": "audio/18R.mp3",
+        "songO": "audio/18.mp3",
+        "songName": "Frank Sinatra - Fly Me To The Moon"  
+    },
+    {
+        "id": 19,
+        "song": "audio/19R.mp3",
+        "songO": "audio/19.mp3",
+        "songName": "Fugees - Killing Me Softly With His Song"  
+    },
+    {
+        "id": 20,
+        "song": "audio/20R.mp3",
+        "songO": "audio/20.mp3",
+        "songName": "Genesis - Land Of Confusion"  
+    },
+    {
+        "id": 21,
+        "song": "audio/21R.mp3",
+        "songO": "audio/21.mp3",
+        "songName": "George Ezra - Budapest"  
+    },
+    {
+        "id": 22,
+        "song": "audio/22R.mp3",
+        "songO": "audio/22.mp3",
+        "songName": "Tom Jones - It's not Unusual"  
+    },
+    {
+        "id": 23,
+        "song": "audio/23R.mp3",
+        "songO": "audio/23.mp3",
+        "songName": "Seal - Kiss from a Rose"  
+    },
+    {
+        "id": 24,
+        "song": "audio/24R.mp3",
+        "songO": "audio/24.mp3",
+        "songName": "Led Zeppelin - Stairway To Heaven"  
+    },
+    {
+        "id": 25,
+        "song": "audio/25R.mp3",
+        "songO": "audio/25.mp3",
+        "songName": "Lou Bega - Mambo No. 5"  
+    },
+    {
+        "id": 26,
+        "song": "audio/26R.mp3",
+        "songO": "audio/26.mp3",
+        "songName": "Neil Young - Heart of Gold"  
+    },
+    {
+        "id": 27,
+        "song": "audio/27R.mp3",
+        "songO": "audio/27.mp3",
+        "songName": "No Doubt - Don't Speak"  
+    },
+    {
+        "id": 28,
+        "song": "audio/28R.mp3",
+        "songO": "audio/28.mp3",
+        "songName": "Paul Simon - You Can Call Me Al"  
+    },
+    {
+        "id": 29,
+        "song": "audio/29R.mp3",
+        "songO": "audio/29.mp3",
+        "songName": "Peter Fox - Schwarz zu Blau"  
+    },
+    {
+        "id": 30,
+        "song": "audio/30R.mp3",
+        "songO": "audio/30.mp3",
+        "songName": "Pink Floyd - Another Brick in the Wall"  
+    },
+    {
+        "id": 31,
+        "song": "audio/31R.mp3",
+        "songO": "audio/31.mp3",
+        "songName": "Queen - Radio Ga Ga"  
+    },
+    {
+        "id": 32,
+        "song": "audio/32R.mp3",
+        "songO": "audio/32.mp3",
+        "songName": "R.E.M. - Losing My Religion"  
+    },
+    {
+        "id": 33,
+        "song": "audio/33R.mp3",
+        "songO": "audio/33.mp3",
+        "songName": "Radiohead - Creep"  
+    },
+    {
+        "id": 34,
+        "song": "audio/34R.mp3",
+        "songO": "audio/34.mp3",
+        "songName": "Rammstein - Engel"  
+    },
+    {
+        "id": 35,
+        "song": "audio/35R.mp3",
+        "songO": "audio/35.mp3",
+        "songName": "Ricky Martin - Livin' La Vida Loca"  
+    },
+    {
+        "id": 36,
+        "song": "audio/36R.mp3",
+        "songO": "audio/36.mp3",
+        "songName": "Santana - Maria Maria"  
+    },
+    {
+        "id": 37,
+        "song": "audio/37R.mp3",
+        "songO": "audio/37.mp3",
+        "songName": "Shakira - Waka Waka"  
+    },
+    {
+        "id": 38,
+        "song": "audio/38R.mp3",
+        "songO": "audio/38.mp3",
+        "songName": "Simon & Garfunkel - The Boxer"  
+    },
+    {
+        "id": 39,
+        "song": "audio/39R.mp3",
+        "songO": "audio/39.mp3",
+        "songName": "Sinéad O'Connor - Nothing Compares 2 U"  
+    },
+    {
+        "id": 40,
+        "song": "audio/40R.mp3",
+        "songO": "audio/40.mp3",
+        "songName": "Spice Girls - Wannabe"  
+    },
+    {
+        "id": 41,
+        "song": "audio/41R.mp3",
+        "songO": "audio/41.mp3",
+        "songName": "Sting - Englishman In New York"  
+    },
+    {
+        "id": 42,
+        "song": "audio/42R.mp3",
+        "songO": "audio/42.mp3",
+        "songName": "Survivor - Eye Of The Tiger"  
+    },
+    {
+        "id": 43,
+        "song": "audio/43R.mp3",
+        "songO": "audio/43.mp3",
+        "songName": "The Cranberries - Zombie"  
+    },
+    {
+        "id": 44,
+        "song": "audio/44R.mp3",
+        "songO": "audio/44.mp3",
+        "songName": "The Mamas & The Papas - California Dreamin"  
+    },
+    {
+        "id": 45,
+        "song": "audio/45R.mp3",
+        "songO": "audio/45.mp3",
+        "songName": "Tracy Chapman - Fast Car"  
+    }
+
+]

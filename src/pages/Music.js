@@ -1,5 +1,6 @@
 import React from 'react'
 import songs from "../Songs.json";
+import songs2 from "../Songs2.json";
 import {useState} from "react";
 import "./Music.css";
 import ReactAudioPlayer from 'react-audio-player';
@@ -7,7 +8,7 @@ import ReactAudioPlayer from 'react-audio-player';
 function Music() {
   const [song, setSong] = useState();
   const [songO, setSongO] = useState();
-  const [songList, setSongList] = useState(songs);
+  const [songList, setSongList] = useState(songs2);
   const [songName, setSongName] = useState();
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentSong, setCurrentSong] = useState(songs[0]);
