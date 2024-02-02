@@ -1,0 +1,107 @@
+[
+
+{
+    "ids": 1,
+    "items" :
+    [   
+        {"id": "4", "name": "Pferd", "solution": "800kg", "category1": "schwer"},
+        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
+        {"id": "1", "name": "Elefant", "solution": "4000kg"},
+        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
+        {"id": "6", "name": "Anakonda", "solution": "250kg"},
+        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
+        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
+        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+
+    ]
+
+},
+
+{
+    
+    "ids": 2,
+    "items" :
+    [
+        {"id": "7", "name": "Niere", "solution": "0.16kg", "category1": "schwer"},
+        {"id": "6", "name": "Milz", "solution": "0.2kg", "category2": "leicht"},
+        {"id": "4", "name": "Lunge", "solution": "1.3kg"},
+        {"id": "2", "name": "Leber", "solution": "2kg"},
+        {"id": "5", "name": "Herz", "solution": "0.3kg"},
+        {"id": "3", "name": "Gehirn", "solution": "1.4kg"},
+        {"id": "1", "name": "Darm", "solution": "2.5kg"},
+        {"id": "8", "name": "Zunge", "solution": "0.07kg"}
+
+    ]
+
+},
+{
+    "ids": 3,
+    "items" :
+    [   
+        {"id": "4", "name": "Matterhorn", "solution": "800kg", "category1": "schwer"},
+        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
+        {"id": "1", "name": "Elefant", "solution": "4000kg"},
+        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
+        {"id": "6", "name": "Anakonda", "solution": "250kg"},
+        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
+        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
+        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+
+    ]
+
+},
+{
+    "ids": 4,
+    "items" :
+    [   
+        {"id": "4", "name": "Pferjajajajad", "solution": "800kg", "category1": "spät"},
+        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
+        {"id": "1", "name": "Elefant", "solution": "4000kg"},
+        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
+        {"id": "6", "name": "Anakonda", "solution": "250kg"},
+        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
+        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
+        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+
+    ]
+
+},
+{
+    "ids": 5,
+    "items" :
+    [   
+        {"id": "4", "name": "xxxxx", "solution": "800kg", "category1": "groß"},
+        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
+        {"id": "1", "name": "Elefant", "solution": "4000kg"},
+        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
+        {"id": "6", "name": "Anakonda", "solution": "250kg"},
+        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
+        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
+        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+
+    ]
+
+},
+{
+    "ids": 6,
+    "items" :
+    [   
+        {"id": "4", "name": "rerererer", "solution": "800kg", "category1": "hoch"},
+        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
+        {"id": "1", "name": "Elefant", "solution": "4000kg"},
+        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
+        {"id": "6", "name": "Anakonda", "solution": "250kg"},
+        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
+        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
+        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+
+    ]
+
+}
+
+  
+]
+
+
+
+
