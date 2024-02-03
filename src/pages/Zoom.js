@@ -98,8 +98,8 @@ function Zoom() {
                             <Droppable droppableId="a" type="droppableItem">
                               {(provided) => (
                                 <div ref={provided.innerRef}>
-                                <div className="zoom__words">                   
-                                 {remainingWords.map((item, index) => (                                                        
+                                <div className="zoom__words">                                 
+                                 {remainingWords.map((item, index) => (                                                                                         
                                     <Draggable
                                       draggableId={item.id}
                                       key={item.id}
@@ -110,15 +110,20 @@ function Zoom() {
                                           ref={provided.innerRef}
                                           {...provided.draggableProps}
                                           {...provided.dragHandleProps}
-                                        >
-                                           <div className='words'>
+                                        >                                        
+                                           <div className='words'>                                    
                                               <h1>{item.name}</h1>
                                            </div>                                    
                                         </div>
                                       )}
                                     </Draggable>                                
                                   ))}
-                                  {provided.placeholder}                            
+                                  {provided.placeholder} 
+                                    {remainingWords.map((item) => (  
+                                        <div className='specific'>
+                                          <h2>{item.specific}</h2> 
+                                        </div>                                                                                                                                         
+                                      ))}                            
                                </div>
                                </div>
                              )}

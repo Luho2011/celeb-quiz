@@ -38,14 +38,14 @@
     "ids": 3,
     "items" :
     [   
-        {"id": "4", "name": "Matterhorn", "solution": "800kg", "category1": "schwer"},
-        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
-        {"id": "1", "name": "Elefant", "solution": "4000kg"},
-        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
-        {"id": "6", "name": "Anakonda", "solution": "250kg"},
-        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
-        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
-        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+        {"id": "4", "name": "Matterhorn", "solution": "4478m", "category1": "hoch"},
+        {"id": "5", "name": "Fuji", "solution": "3776m", "category2": "niedrig"},
+        {"id": "1", "name": "Kilimandscharo", "solution": "5895m"},
+        {"id": "7", "name": "Tafelberg", "solution": "1086m"},
+        {"id": "3", "name": "Mont Blanc", "solution": "4809m"},
+        {"id": "2", "name": "Popocatepetl", "solution": "5452m"},
+        {"id": "8", "name": "Ayers Rock", "solution": "863m"},
+        {"id": "6", "name": "Zugspitze", "solution": "2962m"}
 
     ]
 
@@ -54,14 +54,14 @@
     "ids": 4,
     "items" :
     [   
-        {"id": "4", "name": "Pferjajajajad", "solution": "800kg", "category1": "spät"},
-        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
-        {"id": "1", "name": "Elefant", "solution": "4000kg"},
-        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
-        {"id": "6", "name": "Anakonda", "solution": "250kg"},
-        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
-        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
-        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
+        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
+        {"id": "7", "name": "Golfball", "solution": "48g"},
+        {"id": "2", "name": "Handball", "solution": "475g"},
+        {"id": "6", "name": "Tennisball", "solution": "58g"},
+        {"id": "3", "name": "Fußball", "solution": "450g"},
+        {"id": "4", "name": "Puck", "solution": "170g"},
+        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
 
     ]
 
@@ -70,14 +70,14 @@
     "ids": 5,
     "items" :
     [   
-        {"id": "4", "name": "xxxxx", "solution": "800kg", "category1": "groß"},
-        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
-        {"id": "1", "name": "Elefant", "solution": "4000kg"},
-        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
-        {"id": "6", "name": "Anakonda", "solution": "250kg"},
-        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
-        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
-        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+        {"id": "7", "name": "Italien", "solution": "301.340km²", "category1": "groß"},
+        {"id": "2", "name": "Türkei", "solution": "783.562km²", "category2": "klein"},
+        {"id": "4", "name": "Schweden", "solution": "450.295km²"},
+        {"id": "5", "name": "Deutschland", "solution": "357.022km²"},
+        {"id": "8", "name": "Griechenland", "solution": "131.957km²"},
+        {"id": "1", "name": "Mongolei", "solution": "1.564.116km²"},
+        {"id": "3", "name": "Spanien", "solution": "505.370km²"},
+        {"id": "6", "name": "Polen", "solution": "312.685km²"}
 
     ]
 
@@ -86,19 +86,131 @@
     "ids": 6,
     "items" :
     [   
-        {"id": "4", "name": "rerererer", "solution": "800kg", "category1": "hoch"},
-        {"id": "8", "name": "Ente", "solution": "1.2kg", "category2": "leicht"},
-        {"id": "1", "name": "Elefant", "solution": "4000kg"},
-        {"id": "7", "name": "Schäferhund", "solution": "35kg"},
-        {"id": "6", "name": "Anakonda", "solution": "250kg"},
-        {"id": "2", "name": "Flusspferd", "solution": "1800kg"},
-        {"id": "3", "name": "Leistenkrokodil", "solution": "1100kg"},
-        {"id": "5", "name": "Eisbär", "solution": "450kg"}
+        {"id": "4", "name": "Trivial Pursuit", "solution": "1981", "category1": "spät"},
+        {"id": "3", "name": "Das verrückte Labyrinth", "solution": "1986", "category2": "früh"},
+        {"id": "7", "name": "Monopoly", "solution": "1935"},
+        {"id": "1", "name": "Keltis", "solution": "2008"},
+        {"id": "2", "name": "Die Siedler von Catan", "solution": "1995"},
+        {"id": "8", "name": "Mensch ärgere Dich nicht", "solution": "1914"},
+        {"id": "5", "name": "Kniffel", "solution": "1972"},
+        {"id": "6", "name": "Risiko", "solution": "1957"}
+
+    ]
+
+},
+
+{
+    "ids": 7,
+    "items" :
+    [   
+        {"id": "2", "name": "Mobiltelefon", "solution": "1983", "category1": "spät"},
+        {"id": "6", "name": "Mikrowelle", "solution": "1950", "category2": "früh"},
+        {"id": "8", "name": "Staubsauger", "solution": "1906"},
+        {"id": "5", "name": "Die Pille", "solution": "1960"},
+        {"id": "7", "name": "Farbfernsehen", "solution": "1940"},
+        {"id": "1", "name": "USB Stick", "solution": "2000"},
+        {"id": "3", "name": "Walkman", "solution": "1979"},
+        {"id": "4", "name": "Airbag", "solution": "1971"}
+
+    ]
+
+},
+{
+    "ids": 8,
+    "items" :
+    [   
+        {"id": "5", "name": "Erde", "solution": "12.756km", "category1": "groß"},
+        {"id": "2", "name": "Saturn", "solution": "120.536km", "category2": "klein"},
+        {"id": "6", "name": "Venus", "solution": "12.104km"},
+        {"id": "3", "name": "Uranus", "solution": "51.118km"},
+        {"id": "4", "name": "Neptun", "solution": "49.528km"},
+        {"id": "8", "name": "Merkur", "solution": "4879km"},
+        {"id": "1", "name": "Jupiter", "solution": "142.984km"},
+        {"id": "7", "name": "Mars", "solution": "6794km"}
+
+    ]
+
+},
+{
+    "ids": 9,
+    "items" :
+    [   
+        {"id": "7", "name": "Krautsalat", "solution": "12g", "category1": "viel", "specific": "Zucker pro 100g"},
+        {"id": "6", "name": "Ketchup", "solution": "22g", "category2": "wenig"},
+        {"id": "2", "name": "Nutella", "solution": "55.9"},
+        {"id": "1", "name": "Marsriegel", "solution": "61.7g"},
+        {"id": "3", "name": "Haribo Goldbären", "solution": "46g"},
+        {"id": "5", "name": "Nussecke", "solution": "29.6g"},
+        {"id": "8", "name": "Coca-Cola", "solution": "10.6g"},
+        {"id": "4", "name": "Smacks", "solution": "34g"}
+
+    ]
+
+},
+{
+    "ids": 10,
+    "items" :
+    [   
+        {"id": "4", "name": "Dreißigjähriger Krieg", "solution": "1618", "category1": "spät", "specific": "Kriegsbeginn"},
+        {"id": "2", "name": "Vietnamkrieg", "solution": "1955", "category2": "früh"},
+        {"id": "8", "name": "Alexanderzug", "solution": "334 v. Chr."},
+        {"id": "6", "name": "Gallischer Krieg", "solution": "85 v. Chr."},
+        {"id": "1", "name": "Erster Golfkrieg", "solution": "1980"},
+        {"id": "7", "name": "Punischer Krieg 2", "solution": "218 v. Chr."},
+        {"id": "3", "name": "Deutsch-Französischer Krieg", "solution": "1870"},
+        {"id": "5", "name": "Erster Kreuzzug", "solution": "1096"}
+
+    ]
+
+},
+{
+    "ids": 11,
+    "items" :
+    [   
+        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
+        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
+        {"id": "7", "name": "Golfball", "solution": "48g"},
+        {"id": "2", "name": "Handball", "solution": "475g"},
+        {"id": "6", "name": "Tennisball", "solution": "58g"},
+        {"id": "3", "name": "Fußball", "solution": "450g"},
+        {"id": "4", "name": "Puck", "solution": "170g"},
+        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
+
+    ]
+
+},
+{
+    "ids": 12,
+    "items" :
+    [   
+        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
+        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
+        {"id": "7", "name": "Golfball", "solution": "48g"},
+        {"id": "2", "name": "Handball", "solution": "475g"},
+        {"id": "6", "name": "Tennisball", "solution": "58g"},
+        {"id": "3", "name": "Fußball", "solution": "450g"},
+        {"id": "4", "name": "Puck", "solution": "170g"},
+        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
+
+    ]
+
+},
+{
+    "ids": 13,
+    "items" :
+    [   
+        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
+        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
+        {"id": "7", "name": "Golfball", "solution": "48g"},
+        {"id": "2", "name": "Handball", "solution": "475g"},
+        {"id": "6", "name": "Tennisball", "solution": "58g"},
+        {"id": "3", "name": "Fußball", "solution": "450g"},
+        {"id": "4", "name": "Puck", "solution": "170g"},
+        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
 
     ]
 
 }
-
   
 ]
 
