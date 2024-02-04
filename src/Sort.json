@@ -167,14 +167,14 @@
     "ids": 11,
     "items" :
     [   
-        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
-        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
-        {"id": "7", "name": "Golfball", "solution": "48g"},
-        {"id": "2", "name": "Handball", "solution": "475g"},
-        {"id": "6", "name": "Tennisball", "solution": "58g"},
-        {"id": "3", "name": "Fußball", "solution": "450g"},
-        {"id": "4", "name": "Puck", "solution": "170g"},
-        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
+        {"id": "6", "name": "Star Wars", "solution": "1977", "category1": "spät"},
+        {"id": "1", "name": "Brokeback Mountain", "solution": "2005", "category2": "früh"},
+        {"id": "2", "name": "Herr der Ringe", "solution": "2001"},
+        {"id": "5", "name": "Terminator", "solution": "1984"},
+        {"id": "8", "name": "Das Dschungelbuch", "solution": "1967"},
+        {"id": "3", "name": "Fight Club", "solution": "1999"},
+        {"id": "4", "name": "Forrest Gump", "solution": "1994"},
+        {"id": "7", "name": "Der Pate", "solution": "1972"}
 
     ]
 
@@ -183,14 +183,14 @@
     "ids": 12,
     "items" :
     [   
-        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
-        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
-        {"id": "7", "name": "Golfball", "solution": "48g"},
-        {"id": "2", "name": "Handball", "solution": "475g"},
-        {"id": "6", "name": "Tennisball", "solution": "58g"},
-        {"id": "3", "name": "Fußball", "solution": "450g"},
-        {"id": "4", "name": "Puck", "solution": "170g"},
-        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
+        {"id": "6", "name": "Macarena", "solution": "11 Millionen", "category1": "viel", "specific": "Verkaufte Singles"},
+        {"id": "8", "name": "Poker Face", "solution": "9.8 Millionen", "category2": "wenig"},
+        {"id": "1", "name": "White Christmas", "solution": "50 Millionen"},
+        {"id": "7", "name": "Waka Waka", "solution": "10 Millionen"},
+        {"id": "2", "name": "Candle in the Wind", "solution": "33 Millionen"},
+        {"id": "4", "name": "My Heart Will Go On", "solution": "18 Millionen"},
+        {"id": "5", "name": "Yes Sir, I Can Boogie", "solution": "16 Millionen"},
+        {"id": "3", "name": "I Will Always Love You", "solution": "24 Millionen"}
 
     ]
 
@@ -199,14 +199,14 @@
     "ids": 13,
     "items" :
     [   
-        {"id": "5", "name": "Baseball", "solution": "149g", "category1": "schwer"},
-        {"id": "1", "name": "Basketball", "solution": "650g", "category2": "leicht"},
-        {"id": "7", "name": "Golfball", "solution": "48g"},
-        {"id": "2", "name": "Handball", "solution": "475g"},
-        {"id": "6", "name": "Tennisball", "solution": "58g"},
-        {"id": "3", "name": "Fußball", "solution": "450g"},
-        {"id": "4", "name": "Puck", "solution": "170g"},
-        {"id": "8", "name": "Tischtennisball", "solution": "2.7g"}
+        {"id": "3", "name": "Arkansas", "solution": "", "category1": "westen"},
+        {"id": "2", "name": "Michigan", "solution": "", "category2": "osten"},
+        {"id": "6", "name": "New Mexico", "solution": ""},
+        {"id": "1", "name": "North Carolina", "solution": ""},
+        {"id": "8", "name": "Washington", "solution": ""},
+        {"id": "7", "name": "Nevada", "solution": ""},
+        {"id": "5", "name": "North Dakota", "solution": ""},
+        {"id": "4", "name": "Texas", "solution": ""}
 
     ]
 
