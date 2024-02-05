@@ -92,9 +92,13 @@ function Zoom() {
          <button className='play_button' onClick={handleNext}>Next</button>
          <button className='play_button' onClick={() => setShowSolution(!showSolution)}>Solution</button>
       </div>   
-
+            {remainingWords.map((item) => (
+                   <div className='specific'>
+                      <h2>{item.specific}</h2> 
+                    </div>                                                             
+            ))}  
        <DragDropContext onDragEnd={onDragEnd}>           
-                          <div className='boxes'>
+                          <div className='boxes'>                                                          
                             <Droppable droppableId="a" type="droppableItem">
                               {(provided) => (
                                 <div ref={provided.innerRef}>
@@ -110,7 +114,7 @@ function Zoom() {
                                           ref={provided.innerRef}
                                           {...provided.draggableProps}
                                           {...provided.dragHandleProps}
-                                        >                                        
+                                        >                                                                                                                                                                                              
                                            <div className='words'>                                    
                                               <h1>{item.name}</h1>
                                            </div>                                    
@@ -118,12 +122,7 @@ function Zoom() {
                                       )}
                                     </Draggable>                                
                                   ))}
-                                  {provided.placeholder} 
-                                    {remainingWords.map((item) => (  
-                                        <div className='specific'>
-                                          <h2>{item.specific}</h2> 
-                                        </div>                                                                                                                                         
-                                      ))}                            
+                                  {provided.placeholder}                                                            
                                </div>
                                </div>
                              )}

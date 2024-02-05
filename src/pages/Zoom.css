@@ -9,8 +9,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    justify-content: space-between;
-    
+    justify-content: space-between;  
 }
 
 .zoom__words {
@@ -132,7 +131,7 @@ h1 {
 
 .specific > h2 {
     color: white;
-    font-size: 25px;
-    margin-top: 60px;
-    margin-left: 65px;
+    font-size: 22px;
+    text-align: center;
+    margin-right: 1045px;
 }
