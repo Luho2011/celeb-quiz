@@ -210,6 +210,102 @@
 
     ]
 
+},
+{
+    "ids": 14,
+    "items" :
+    [   
+        {"id": "6", "name": "Macarena", "solution": "11 Millionen", "category1": "viel", "specific": "Verkaufte Singles"},
+        {"id": "8", "name": "Poker Face", "solution": "9.8 Millionen", "category2": "wenig"},
+        {"id": "1", "name": "White Christmas", "solution": "50 Millionen"},
+        {"id": "7", "name": "Waka Waka", "solution": "10 Millionen"},
+        {"id": "2", "name": "Candle in the Wind", "solution": "33 Millionen"},
+        {"id": "4", "name": "My Heart Will Go On", "solution": "18 Millionen"},
+        {"id": "5", "name": "Yes Sir, I Can Boogie", "solution": "16 Millionen"},
+        {"id": "3", "name": "I Will Always Love You", "solution": "24 Millionen"}
+
+    ]
+
+},
+{
+    "ids": 15,
+    "items" :
+    [   
+        {"id": "3", "name": "Weißkopfseeadler", "solution": "230cm", "category1": "lang", "specific": "Spannweite in cm"},
+        {"id": "6", "name": "Wanderfalke", "solution": "120cm", "category2": "kurz"},
+        {"id": "4", "name": "Uhu", "solution": "180cm"},
+        {"id": "2", "name": "Andenkondor", "solution": "320cm"},
+        {"id": "7", "name": "Taube", "solution": "77cm"},
+        {"id": "5", "name": "Mantelmöwe", "solution": "170cm"},
+        {"id": "1", "name": "Wanderalbatros", "solution": "350cm"},
+        {"id": "8", "name": "Elster", "solution": "62cm"}
+
+    ]
+
+},
+{
+    "ids": 16,
+    "items" :
+    [   
+        {"id": "4", "name": "Rom - Ankara", "solution": "1716km", "category1": "lang", "specific": "Luftlinie"},
+        {"id": "1", "name": "Jerusalem - Neu-Delhi", "solution": "4023km", "category2": "kurz"},
+        {"id": "8", "name": "Wien - Budapest", "solution": "213km"},
+        {"id": "6", "name": "Berlin - Paris", "solution": "882km"},
+        {"id": "3", "name": "London - Moskau", "solution": "2500km"},
+        {"id": "5", "name": "Prag - Helsinki", "solution": "1307km"},
+        {"id": "2", "name": "Madrid - Kiew", "solution": "2861km"},
+        {"id": "7", "name": "Lissabon - Rabat", "solution": "566km"}
+
+    ]
+
+},
+{
+    "ids": 17,
+    "items" :
+    [   
+        {"id": "4", "name": "Moskau", "solution": "1980", "category1": "spät", "specific": "Sommerolympiade"},
+        {"id": "2", "name": "Sydney", "solution": "2000", "category2": "früh"},
+        {"id": "7", "name": "Rom", "solution": "1960"},
+        {"id": "5", "name": "München", "solution": "1972"},
+        {"id": "6", "name": "Mexico-Stadt", "solution": "1968"},
+        {"id": "3", "name": "Barcelona", "solution": "1992"},
+        {"id": "1", "name": "Rio deJaneiro", "solution": "2016"},
+        {"id": "8", "name": "Amsterdam", "solution": "1928"}
+
+    ]
+
+},
+{
+    "ids": 18,
+    "items" :
+    [   
+        {"id": "5", "name": "Schiefer Turm von Pisa", "solution": "1372", "category1": "spät", "specific": "Fertigstellung"},
+        {"id": "7", "name": "Kolosseum", "solution": "80 n. Chr.", "category2": "früh"},
+        {"id": "2", "name": "Wiener Staatsoper", "solution": "1869"},
+        {"id": "1", "name": "Empire State Building", "solution": "1931"},
+        {"id": "6", "name": "Hagia Sophia", "solution": "537 n. Chr."},
+        {"id": "3", "name": "Petersdrom", "solution": "1626"},
+        {"id": "4", "name": "Machu Picchu", "solution": "1420"},
+        {"id": "8", "name": "Parthenon", "solution": "432 v. Chr."}
+
+    ]
+
+},
+{
+    "ids": 19,
+    "items" :
+    [   
+        {"id": "1", "name": "Ronald Reagan", "solution": "1981", "category1": "spät", "specific": "Amtsantretung"},
+        {"id": "5", "name": "Herbert Hoover", "solution": "1929", "category2": "früh"},
+        {"id": "4", "name": "Harry S. Truman", "solution": "1945"},
+        {"id": "8", "name": "Thomas Jefferson", "solution": "1801"},
+        {"id": "7", "name": "Andrew jackson", "solution": "1829"},
+        {"id": "6", "name": "Abraham Lincoln", "solution": "1861"},
+        {"id": "2", "name": "Richard Nixon", "solution": "1969"},
+        {"id": "3", "name": "Dwight Eisenhower", "solution": "1953"}
+
+    ]
+
 }
   
 ]
