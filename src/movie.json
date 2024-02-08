@@ -1,0 +1,126 @@
+[
+
+    {
+        "ids": 1,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/american gangster/gangster1.JPG"},
+            {"id": "2", "image2": "pics/american gangster/gangster2.JPG"},
+            {"id": "3", "image3": "pics/american gangster/gangster3.JPG"},
+            {"id": "4", "image4": "pics/american gangster/gangster4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 2,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/batman begins/batman1.JPG"},
+            {"id": "2", "image2": "pics/batman begins/batman2.JPG"},
+            {"id": "3", "image3": "pics/batman begins/batman3.JPG"},
+            {"id": "4", "image4": "pics/batman begins/batman4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 3,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/cast away/1.JPG"},
+            {"id": "2", "image2": "pics/cast away/2.JPG"},
+            {"id": "3", "image3": "pics/cast away/3.JPG"},
+            {"id": "4", "image4": "pics/cast away/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 4,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/dune/1.JPG"},
+            {"id": "2", "image2": "pics/dune/2.JPG"},
+            {"id": "3", "image3": "pics/dune/3.JPG"},
+            {"id": "4", "image4": "pics/dune/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 5,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/Gladiator/1.JPG"},
+            {"id": "2", "image2": "pics/Gladiator/2.JPG"},
+            {"id": "3", "image3": "pics/Gladiator/3.JPG"},
+            {"id": "4", "image4": "pics/Gladiator/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 6,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/inglourious basterds/1.JPG"},
+            {"id": "2", "image2": "pics/inglourious basterds/2.JPG"},
+            {"id": "3", "image3": "pics/inglourious basterds/3.JPG"},
+            {"id": "4", "image4": "pics/inglourious basterds/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 7,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/the town/1.JPG"},
+            {"id": "2", "image2": "pics/the town/2.JPG"},
+            {"id": "3", "image3": "pics/the town/3.JPG"},
+            {"id": "4", "image4": "pics/the town/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 8,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/interstellar/1.JPG"},
+            {"id": "2", "image2": "pics/interstellar/2.JPG"},
+            {"id": "3", "image3": "pics/interstellar/3.JPG"},
+            {"id": "4", "image4": "pics/interstellar/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 9,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/jurassic park/1.JPG"},
+            {"id": "2", "image2": "pics/jurassic park/2.JPG"},
+            {"id": "3", "image3": "pics/jurassic park/3.JPG"},
+            {"id": "4", "image4": "pics/jurassic park/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 10,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/matrix/1.JPG"},
+            {"id": "2", "image2": "pics/matrix/2.JPG"},
+            {"id": "3", "image3": "pics/matrix/3.JPG"},
+            {"id": "4", "image4": "pics/matrix/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 1,
+        "items" :
+        [   
+            {"id": "1", "image": "pics/sieben/1.JPG"},
+            {"id": "2", "image2": "pics/sieben/2.JPG"},
+            {"id": "3", "image3": "pics/sieben/3.JPG"},
+            {"id": "4", "image4": "pics/sieben/4.JPG"}
+        ]
+    
+    }
+     
+
+]
