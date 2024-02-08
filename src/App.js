@@ -24,7 +24,7 @@ function App() {
             <Route path='/geography' element={<Geography />} />
             <Route path='/zoom' element={<Zoom />} />
             <Route path='/history' element={<History />} />
-            <Route path='/movie' element={<Movie />} />
+            <Route path='/movies' element={<Movie />} />
           </Routes>
         </div>
         </>
