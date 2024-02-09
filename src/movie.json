@@ -4,7 +4,7 @@
         "ids": 1,
         "items" :
         [   
-            {"id": "1", "image": "img/american gangster/gangster1.JPG"},
+            {"id": "1", "image": "img/american gangster/gangster1.JPG", "cover": "img/american gangster/cover.JPG"},
             {"id": "2", "image2": "img/american gangster/gangster2.JPG"},
             {"id": "3", "image3": "img/american gangster/gangster3.JPG"},
             {"id": "4", "image4": "img/american gangster/gangster4.JPG"}
@@ -15,7 +15,7 @@
         "ids": 2,
         "items" :
         [   
-            {"id": "1", "image": "img/batman begins/batman1.JPG"},
+            {"id": "1", "image": "img/batman begins/batman1.JPG", "cover": "img/batman begins/cover.JPG"},
             {"id": "2", "image2": "img/batman begins/batman2.JPG"},
             {"id": "3", "image3": "img/batman begins/batman3.JPG"},
             {"id": "4", "image4": "img/batman begins/batman4.JPG"}
@@ -26,7 +26,7 @@
         "ids": 3,
         "items" :
         [   
-            {"id": "1", "image": "img/cast away/1.JPG"},
+            {"id": "1", "image": "img/cast away/1.JPG", "cover": "img/cast away/cover.JPG"},
             {"id": "2", "image2": "img/cast away/2.JPG"},
             {"id": "3", "image3": "img/cast away/3.JPG"},
             {"id": "4", "image4": "img/cast away/4.JPG"}
@@ -37,7 +37,7 @@
         "ids": 4,
         "items" :
         [   
-            {"id": "1", "image": "img/dune/1.JPG"},
+            {"id": "1", "image": "img/dune/1.JPG", "cover": "img/dune/cover.JPG"},
             {"id": "2", "image2": "img/dune/2.JPG"},
             {"id": "3", "image3": "img/dune/3.JPG"},
             {"id": "4", "image4": "img/dune/4.JPG"}
@@ -48,7 +48,7 @@
         "ids": 5,
         "items" :
         [   
-            {"id": "1", "image": "img/Gladiator/1.JPG"},
+            {"id": "1", "image": "img/Gladiator/1.JPG", "cover": "img/Gladiator/cover.JPG"},
             {"id": "2", "image2": "img/Gladiator/2.JPG"},
             {"id": "3", "image3": "img/Gladiator/3.JPG"},
             {"id": "4", "image4": "img/Gladiator/4.JPG"}
@@ -59,7 +59,7 @@
         "ids": 6,
         "items" :
         [   
-            {"id": "1", "image": "img/inglourious basterds/1.JPG"},
+            {"id": "1", "image": "img/inglourious basterds/1.JPG", "cover": "img/inglourious/cover.JPG"},
             {"id": "2", "image2": "img/inglourious basterds/2.JPG"},
             {"id": "3", "image3": "img/inglourious basterds/3.JPG"},
             {"id": "4", "image4": "img/inglourious basterds/4.JPG"}
@@ -70,7 +70,7 @@
         "ids": 7,
         "items" :
         [   
-            {"id": "1", "image": "img/the town/1.JPG"},
+            {"id": "1", "image": "img/the town/1.JPG", "cover": "img/the town/cover.JPG"},
             {"id": "2", "image2": "img/the town/2.JPG"},
             {"id": "3", "image3": "img/the town/3.JPG"},
             {"id": "4", "image4": "img/the town/4.JPG"}
@@ -81,7 +81,7 @@
         "ids": 8,
         "items" :
         [   
-            {"id": "1", "image": "img/interstellar/1.JPG"},
+            {"id": "1", "image": "img/interstellar/1.JPG", "cover": "img/interstellar/cover.JPG"},
             {"id": "2", "image2": "img/interstellar/2.JPG"},
             {"id": "3", "image3": "img/interstellar/3.JPG"},
             {"id": "4", "image4": "img/interstellar/4.JPG"}
@@ -92,7 +92,7 @@
         "ids": 9,
         "items" :
         [   
-            {"id": "1", "image": "img/jurassic park/1.JPG"},
+            {"id": "1", "image": "img/jurassic park/1.JPG", "cover": "img/jurassic park/cover.JPG"},
             {"id": "2", "image2": "img/jurassic park/2.JPG"},
             {"id": "3", "image3": "img/jurassic park/3.JPG"},
             {"id": "4", "image4": "img/jurassic park/4.JPG"}
@@ -103,7 +103,7 @@
         "ids": 10,
         "items" :
         [   
-            {"id": "1", "image": "img/matrix/1.JPG"},
+            {"id": "1", "image": "img/matrix/1.JPG", "cover": "img/matrix/cover.JPG"},
             {"id": "2", "image2": "img/matrix/2.JPG"},
             {"id": "3", "image3": "img/matrix/3.JPG"},
             {"id": "4", "image4": "img/matrix/4.JPG"}
@@ -111,13 +111,79 @@
     
     },
     {
-        "ids": 1,
+        "ids": 11,
         "items" :
         [   
-            {"id": "1", "image": "img/sieben/1.JPG"},
+            {"id": "1", "image": "img/sieben/1.JPG", "cover": "img/sieben/cover.JPG"},
             {"id": "2", "image2": "img/sieben/2.JPG"},
             {"id": "3", "image3": "img/sieben/3.JPG"},
             {"id": "4", "image4": "img/sieben/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 12,
+        "items" :
+        [   
+            {"id": "1", "image": "img/edge/1.JPG", "cover": "img/edge/cover.JPG"},
+            {"id": "2", "image2": "img/edge/2.JPG"},
+            {"id": "3", "image3": "img/edge/3.JPG"},
+            {"id": "4", "image4": "img/edge/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 13,
+        "items" :
+        [   
+            {"id": "1", "image": "img/men/1.JPG", "cover": "img/men/cover.JPG"},
+            {"id": "2", "image2": "img/men/2.JPG"},
+            {"id": "3", "image3": "img/men/3.JPG"},
+            {"id": "4", "image4": "img/men/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 14,
+        "items" :
+        [   
+            {"id": "1", "image": "img/mumie/1.JPG", "cover": "img/mumie/cover.JPG"},
+            {"id": "2", "image2": "img/mumie/2.JPG"},
+            {"id": "3", "image3": "img/mumie/3.JPG"},
+            {"id": "4", "image4": "img/mumie/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 15,
+        "items" :
+        [   
+            {"id": "1", "image": "img/ocean/1.JPG", "cover": "img/ocean/cover.JPG"},
+            {"id": "2", "image2": "img/ocean/2.JPG"},
+            {"id": "3", "image3": "img/ocean/3.JPG"},
+            {"id": "4", "image4": "img/ocean/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 16,
+        "items" :
+        [   
+            {"id": "1", "image": "img/prisoners/1.JPG", "cover": "img/prisoners/cover.JPG"},
+            {"id": "2", "image2": "img/prisoners/2.JPG"},
+            {"id": "3", "image3": "img/prisoners/3.JPG"},
+            {"id": "4", "image4": "img/prisoners/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 17,
+        "items" :
+        [   
+            {"id": "1", "image": "img/verblendung/1.JPG", "cover": "img/verblendung/cover.JPG"},
+            {"id": "2", "image2": "img/verblendung/2.JPG"},
+            {"id": "3", "image3": "img/verblendung/3.JPG"},
+            {"id": "4", "image4": "img/verblendung/4.JPG"}
         ]
     
     }

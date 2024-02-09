@@ -5,6 +5,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    position: relative;
 }
 
 .movie__buttons {
@@ -28,6 +29,23 @@
     font-weight: bold;
 }
 
+.movie__solutionButton {
+    cursor: pointer;
+    height: 25px;
+    width: 75px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.movie__solutionButton:hover {
+    background-color: rgb(85, 85, 85); 
+    transition: all 0.1s;
+} 
+
 .movie__button:hover {
     background-color: rgb(85, 85, 85); 
     transition: all 0.1s;
@@ -42,12 +60,35 @@
 }
 
 .image-wrapper {
-    display: flex;
-    
+    display: flex; 
   }
 
 .image-wrapper > img {
     height: auto;
     max-width: 800px;
   }
+
+.image__cover {
+    position: absolute;
+    margin-top: 130px;
+    transition: all 2s;
+} 
+
+.noShow {
+    opacity: 0;
+}
+
+.image-container-blur {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    gap: 20px;
+    filter: blur(10px);
+}
+
+.image__cover > img {
+    height: 600px;
+    width: 420px;
+}  
 
