@@ -4,10 +4,10 @@
         "ids": 1,
         "items" :
         [   
-            {"id": "1", "image": "img/american gangster/gangster1.JPG", "cover": "img/american gangster/cover.JPG"},
-            {"id": "2", "image2": "img/american gangster/gangster2.JPG"},
-            {"id": "3", "image3": "img/american gangster/gangster3.JPG"},
-            {"id": "4", "image4": "img/american gangster/gangster4.JPG"}
+            {"id": "1", "image": "img/american gangster/gangster1.JPG", "cover": "img/american gangster/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/american gangster/gangster2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/american gangster/gangster3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/american gangster/gangster4.JPG", "scale": "1"}
         ]
     
     },
@@ -26,10 +26,10 @@
         "ids": 3,
         "items" :
         [   
-            {"id": "1", "image": "img/cast away/1.JPG", "cover": "img/cast away/cover.JPG"},
-            {"id": "2", "image2": "img/cast away/2.JPG"},
-            {"id": "3", "image3": "img/cast away/3.JPG"},
-            {"id": "4", "image4": "img/cast away/4.JPG"}
+            {"id": "1", "image": "img/cast away/1.JPG", "cover": "img/cast away/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/cast away/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/cast away/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/cast away/4.JPG", "scale": "1"}
         ]
     
     },
@@ -59,7 +59,7 @@
         "ids": 6,
         "items" :
         [   
-            {"id": "1", "image": "img/inglourious basterds/1.JPG", "cover": "img/inglourious/cover.JPG"},
+            {"id": "1", "image": "img/inglourious basterds/1.JPG", "cover": "img/inglourious basterds/cover.JPG"},
             {"id": "2", "image2": "img/inglourious basterds/2.JPG"},
             {"id": "3", "image3": "img/inglourious basterds/3.JPG"},
             {"id": "4", "image4": "img/inglourious basterds/4.JPG"}
@@ -92,10 +92,10 @@
         "ids": 9,
         "items" :
         [   
-            {"id": "1", "image": "img/jurassic park/1.JPG", "cover": "img/jurassic park/cover.JPG"},
-            {"id": "2", "image2": "img/jurassic park/2.JPG"},
-            {"id": "3", "image3": "img/jurassic park/3.JPG"},
-            {"id": "4", "image4": "img/jurassic park/4.JPG"}
+            {"id": "1", "image": "img/jurassic park/1.JPG", "cover": "img/jurassic park/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/jurassic park/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/jurassic park/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/jurassic park/4.JPG", "scale": "1"}
         ]
     
     },
@@ -136,10 +136,10 @@
         "ids": 13,
         "items" :
         [   
-            {"id": "1", "image": "img/men/1.JPG", "cover": "img/men/cover.JPG"},
-            {"id": "2", "image2": "img/men/2.JPG"},
-            {"id": "3", "image3": "img/men/3.JPG"},
-            {"id": "4", "image4": "img/men/4.JPG"}
+            {"id": "1", "image": "img/men/1.JPG", "cover": "img/men/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/men/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/men/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/men/4.JPG", "scale": "1"}
         ]
     
     },
@@ -169,10 +169,10 @@
         "ids": 16,
         "items" :
         [   
-            {"id": "1", "image": "img/prisoners/1.JPG", "cover": "img/prisoners/cover.JPG"},
-            {"id": "2", "image2": "img/prisoners/2.JPG"},
-            {"id": "3", "image3": "img/prisoners/3.JPG"},
-            {"id": "4", "image4": "img/prisoners/4.JPG"}
+            {"id": "1", "image": "img/prisoners/1.JPG", "cover": "img/prisoners/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/prisoners/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/prisoners/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/prisoners/4.JPG", "scale": "1"}
         ]
     
     },
@@ -184,6 +184,193 @@
             {"id": "2", "image2": "img/verblendung/2.JPG"},
             {"id": "3", "image3": "img/verblendung/3.JPG"},
             {"id": "4", "image4": "img/verblendung/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 18,
+        "items" :
+        [   
+            {"id": "1", "image": "img/brügge/1.JPG", "cover": "img/brügge/cover.JPG"},
+            {"id": "2", "image2": "img/brügge/2.JPG"},
+            {"id": "3", "image3": "img/brügge/3.JPG"},
+            {"id": "4", "image4": "img/brügge/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 19,
+        "items" :
+        [   
+            {"id": "1", "image": "img/forrest/1.JPG", "cover": "img/forrest/cover.JPG"},
+            {"id": "2", "image2": "img/forrest/2.JPG"},
+            {"id": "3", "image3": "img/forrest/3.JPG"},
+            {"id": "4", "image4": "img/forrest/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 20,
+        "items" :
+        [   
+            {"id": "1", "image": "img/legend/1.JPG", "cover": "img/legend/cover.JPG"},
+            {"id": "2", "image2": "img/legend/2.JPG"},
+            {"id": "3", "image3": "img/legend/3.JPG"},
+            {"id": "4", "image4": "img/legend/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 21,
+        "items" :
+        [   
+            {"id": "1", "image": "img/training/1.JPG", "cover": "img/training/cover.JPG"},
+            {"id": "2", "image2": "img/training/2.JPG"},
+            {"id": "3", "image3": "img/training/3.JPG"},
+            {"id": "4", "image4": "img/training/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 22,
+        "items" :
+        [   
+            {"id": "1", "image": "img/transformers/1.JPG", "cover": "img/transformers/cover.JPG"},
+            {"id": "2", "image2": "img/transformers/2.JPG"},
+            {"id": "3", "image3": "img/transformers/3.JPG"},
+            {"id": "4", "image4": "img/transformers/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 23,
+        "items" :
+        [   
+            {"id": "1", "image": "img/wind/1.JPG", "cover": "img/wind/cover.JPG"},
+            {"id": "2", "image2": "img/wind/2.JPG"},
+            {"id": "3", "image3": "img/wind/3.JPG"},
+            {"id": "4", "image4": "img/wind/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 24,
+        "items" :
+        [   
+            {"id": "1", "image": "img/catch/1.JPG", "cover": "img/catch/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/catch/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/catch/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/catch/4.JPG", "scale": "1"}
+        ]
+    
+    },
+    {
+        "ids": 25,
+        "items" :
+        [   
+            {"id": "1", "image": "img/deep/1.JPG", "cover": "img/deep/cover.JPG"},
+            {"id": "2", "image2": "img/deep/2.JPG"},
+            {"id": "3", "image3": "img/deep/3.JPG"},
+            {"id": "4", "image4": "img/deep/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 26,
+        "items" :
+        [   
+            {"id": "1", "image": "img/revenant/1.JPG", "cover": "img/revenant/cover.JPG"},
+            {"id": "2", "image2": "img/revenant/2.JPG"},
+            {"id": "3", "image3": "img/revenant/3.JPG"},
+            {"id": "4", "image4": "img/revenant/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 27,
+        "items" :
+        [   
+            {"id": "1", "image": "img/dunkirk/1.JPG", "cover": "img/dunkirk/cover.JPG"},
+            {"id": "2", "image2": "img/dunkirk/2.JPG"},
+            {"id": "3", "image3": "img/dunkirk/3.JPG"},
+            {"id": "4", "image4": "img/dunkirk/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 28,
+        "items" :
+        [   
+            {"id": "1", "image": "img/joker/1.JPG", "cover": "img/joker/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/joker/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/joker/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/joker/4.JPG", "scale": "1"}
+        ]
+    
+    },
+    {
+        "ids": 29,
+        "items" :
+        [   
+            {"id": "1", "image": "img/maske/1.JPG", "cover": "img/maske/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/maske/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/maske/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/maske/4.JPG", "scale": "1"}
+        ]
+    
+    },
+    {
+        "ids": 30,
+        "items" :
+        [   
+            {"id": "1", "image": "img/mile/1.JPG", "cover": "img/mile/cover.JPG"},
+            {"id": "2", "image2": "img/mile/2.JPG"},
+            {"id": "3", "image3": "img/mile/3.JPG"},
+            {"id": "4", "image4": "img/mile/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 31,
+        "items" :
+        [   
+            {"id": "1", "image": "img/murmeltier/1.JPG", "cover": "img/murmeltier/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/murmeltier/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/murmeltier/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/murmeltier/4.JPG", "scale": "1"}
+        ]
+    
+    },
+    {
+        "ids": 32,
+        "items" :
+        [   
+            {"id": "1", "image": "img/spider/1.JPG", "cover": "img/spider/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/spider/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/spider/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/spider/4.JPG", "scale": "1"}
+        ]
+    
+    },
+    {
+        "ids": 33,
+        "items" :
+        [   
+            {"id": "1", "image": "img/troja/1.JPG", "cover": "img/troja/cover.JPG"},
+            {"id": "2", "image2": "img/troja/2.JPG"},
+            {"id": "3", "image3": "img/troja/3.JPG"},
+            {"id": "4", "image4": "img/troja/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 34,
+        "items" :
+        [   
+            {"id": "1", "image": "img/freunde/1.JPG", "cover": "img/freunde/cover.JPG", "scale": "1"},
+            {"id": "2", "image2": "img/freunde/2.JPG", "scale": "1"},
+            {"id": "3", "image3": "img/freunde/3.JPG", "scale": "1"},
+            {"id": "4", "image4": "img/freunde/4.JPG", "scale": "1"}
         ]
     
     }

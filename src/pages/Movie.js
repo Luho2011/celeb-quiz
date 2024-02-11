@@ -41,7 +41,7 @@ function Movie() {
         <div className='movie__pics'>
         <div className={showCover ? "image-container" : "image-container-blur"}>
           {remainingWords.map((item, index) => (  
-            <div className="image-wrapper">          
+            <div className={item.scale === "1" ? "image-wrapper2" : "image-wrapper"}>          
                 <img src={item.image} />
                 {currentIndex >= 1 && <img src={item.image2} />}
                 {currentIndex >= 2 && <img src={item.image3} />}

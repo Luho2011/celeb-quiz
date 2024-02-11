@@ -306,6 +306,53 @@
 
     ]
 
+},
+{
+    "ids": 20,
+    "items" :
+    [   
+        {"id": "1", "name": "Russland", "solution": "11", "category1": "viel", "specific": "Anzahl der Zeitzonen"},
+        {"id": "6", "name": "Mongolei", "solution": "2", "category2": "wenig"},
+        {"id": "4", "name": "Mexiko", "solution": "4"},
+        {"id": "3", "name": "USA", "solution": "5"},
+        {"id": "7", "name": "Equador", "solution": "1"},
+        {"id": "2", "name": "Kanada", "solution": "6"},
+        {"id": "5", "name": "Australien", "solution": "3"}
+
+    ]
+
+},
+{
+    "ids": 21,
+    "items" :
+    [   
+        {"id": "5", "name": "Basketball", "solution": "420m²", "category1": "groß", "specific": "Fläche in m²"},
+        {"id": "3", "name": "Feldhockey", "solution": "5027m²", "category2": "klein"},
+        {"id": "6", "name": "Tennis", "solution": "195m²"},
+        {"id": "4", "name": "Handball", "solution": "800m²"},
+        {"id": "8", "name": "Squash", "solution": "62m²"},
+        {"id": "2", "name": "American Football", "solution": "5320m²"},
+        {"id": "7", "name": "Volleyball", "solution": "162m²"},
+        {"id": "1", "name": "Fußball", "solution": "7140m²"}
+
+    ]
+
+},
+{
+    "ids": 22,
+    "items" :
+    [   
+        {"id": "7", "name": "Idefix", "solution": "Obelix", "category1": "A", "specific": "Herrchen Anfangsbuchstabe"},
+        {"id": "6", "name": "Pluto", "solution": "Micky Mouse", "category2": "Z"},
+        {"id": "5", "name": "Rantanplan", "solution": "Lucky Luke"},
+        {"id": "2", "name": "Snoopy", "solution": "Charlie Brown"},
+        {"id": "3", "name": "Azrael", "solution": "Gargamel"},
+        {"id": "4", "name": "Hedwig", "solution": "Harry Potter"},
+        {"id": "1", "name": "Sebastian", "solution": "Arielle"},
+        {"id": "8", "name": "Iltschi", "solution": "Winnetou"}
+
+    ]
+
 }
   
 ]
