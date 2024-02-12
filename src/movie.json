@@ -373,6 +373,50 @@
             {"id": "4", "image4": "img/freunde/4.JPG", "scale": "1"}
         ]
     
+    },
+    {
+        "ids": 35,
+        "items" :
+        [   
+            {"id": "1", "image": "img/potter/1.JPG", "cover": "img/potter/cover.JPG"},
+            {"id": "2", "image2": "img/potter/2.JPG"},
+            {"id": "3", "image3": "img/potter/3.JPG"},
+            {"id": "4", "image4": "img/potter/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 36,
+        "items" :
+        [   
+            {"id": "1", "image": "img/madagaskar/1.JPG", "cover": "img/madagaskar/cover.JPG"},
+            {"id": "2", "image2": "img/madagaskar/2.JPG"},
+            {"id": "3", "image3": "img/madagaskar/3.JPG"},
+            {"id": "4", "image4": "img/madagaskar/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 37,
+        "items" :
+        [   
+            {"id": "1", "image": "img/ringe/1.JPG", "cover": "img/ringe/cover.JPG"},
+            {"id": "2", "image2": "img/ringe/2.JPG"},
+            {"id": "3", "image3": "img/ringe/3.JPG"},
+            {"id": "4", "image4": "img/ringe/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 38,
+        "items" :
+        [   
+            {"id": "1", "image": "img/tierwesen/1.JPG", "cover": "img/tierwesen/cover.JPG"},
+            {"id": "2", "image2": "img/tierwesen/2.JPG"},
+            {"id": "3", "image3": "img/tierwesen/3.JPG"},
+            {"id": "4", "image4": "img/tierwesen/4.JPG"}
+        ]
+    
     }
      
 

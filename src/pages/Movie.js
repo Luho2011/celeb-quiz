@@ -23,6 +23,7 @@ function Movie() {
     setCurrentIndex(0);
     remove(words[random].ids);
     setShowCover(true);
+    console.log(words.length)
   };
 
   const remove = (id) => {
