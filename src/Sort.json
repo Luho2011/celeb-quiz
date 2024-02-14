@@ -353,6 +353,22 @@
 
     ]
 
+},
+{
+    "ids": 23,
+    "items" :
+    [   
+        {"id": "6", "name": "Fronleichnam", "solution": "30.5.24", "category1": "spät"},
+        {"id": "4", "name": "Deutsche Einheit", "solution": "3.10.24", "category2": "früh"},
+        {"id": "7", "name": "Karfreitag", "solution": "29.3.24"},
+        {"id": "1", "name": "Barbaratag", "solution": "4.12.24"},
+        {"id": "2", "name": "1. Advent", "solution": "1.12.24"},
+        {"id": "5", "name": "Weltkindertag", "solution": "20.9.24"},
+        {"id": "8", "name": "Aschermittwoch", "solution": "14.2.24"},
+        {"id": "3", "name": "Buß- und Bettag", "solution": "20.11.24"}
+
+    ]
+
 }
   
 ]
