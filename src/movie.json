@@ -417,6 +417,72 @@
             {"id": "4", "image4": "img/tierwesen/4.JPG"}
         ]
     
+    },
+    {
+        "ids": 39,
+        "items" :
+        [   
+            {"id": "1", "image": "img/avengers/1.JPG", "cover": "img/avengers/cover.JPG"},
+            {"id": "2", "image2": "img/avengers/2.JPG"},
+            {"id": "3", "image3": "img/avengers/3.JPG"},
+            {"id": "4", "image4": "img/avengers/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 40,
+        "items" :
+        [   
+            {"id": "1", "image": "img/blood/1.JPG", "cover": "img/blood/cover.JPG"},
+            {"id": "2", "image2": "img/blood/2.JPG"},
+            {"id": "3", "image3": "img/blood/3.JPG"},
+            {"id": "4", "image4": "img/blood/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 41,
+        "items" :
+        [   
+            {"id": "1", "image": "img/dallas/1.JPG", "cover": "img/dallas/cover.JPG"},
+            {"id": "2", "image2": "img/dallas/2.JPG"},
+            {"id": "3", "image3": "img/dallas/3.JPG"},
+            {"id": "4", "image4": "img/dallas/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 42,
+        "items" :
+        [   
+            {"id": "1", "image": "img/drive/1.JPG", "cover": "img/drive/cover.JPG"},
+            {"id": "2", "image2": "img/drive/2.JPG"},
+            {"id": "3", "image3": "img/drive/3.JPG"},
+            {"id": "4", "image4": "img/drive/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 43,
+        "items" :
+        [   
+            {"id": "1", "image": "img/sicario/1.JPG", "cover": "img/sicario/cover.JPG"},
+            {"id": "2", "image2": "img/sicario/2.JPG"},
+            {"id": "3", "image3": "img/sicario/3.JPG"},
+            {"id": "4", "image4": "img/sicario/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 44,
+        "items" :
+        [   
+            {"id": "1", "image": "img/short/1.JPG", "cover": "img/short/cover.JPG"},
+            {"id": "2", "image2": "img/short/2.JPG"},
+            {"id": "3", "image3": "img/short/3.JPG"},
+            {"id": "4", "image4": "img/short/4.JPG"}
+        ]
+    
     }
      
 
