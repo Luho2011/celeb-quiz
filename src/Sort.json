@@ -369,6 +369,70 @@
 
     ]
 
+},
+{
+    "ids": 24,
+    "items" :
+    [   
+        {"id": "7", "name": "Realismus", "solution": "1840", "category1": "spät", "specific": "Kunstepochen Start"},
+        {"id": "2", "name": "Surrealismus", "solution": "1924", "category2": "früh"},
+        {"id": "8", "name": "Renaissance", "solution": "1490"},
+        {"id": "1", "name": "Pop-Art", "solution": "1958"},
+        {"id": "6", "name": "Impressionismus", "solution": "1870"},
+        {"id": "4", "name": "Kubismus", "solution": "1907"},
+        {"id": "5", "name": "Expressionismus", "solution": "1900"},
+        {"id": "3", "name": "Dadaismus", "solution": "1912"}
+
+    ]
+
+},
+{
+    "ids": 25,
+    "items" :
+    [   
+        {"id": "8", "name": "1 Planck-Länge", "solution": "", "category1": "lang"},
+        {"id": "1", "name": "1 Seemeile", "solution": "1,852km", "category2": "kurz"},
+        {"id": "3", "name": "1 Kilometer", "solution": "1km"},
+        {"id": "5", "name": "1 Zentimeter", "solution": "1 cm"},
+        {"id": "4", "name": "1 inch", "solution": "2,54cm"},
+        {"id": "6", "name": "1 Nanometer", "solution": ""},
+        {"id": "2", "name": "1 Meile", "solution": "1,609km"},
+        {"id": "7", "name": "1 Attometer", "solution": ""}
+
+    ]
+
+},
+{
+    "ids": 26,
+    "items" :
+    [   
+        {"id": "2", "name": "Ägypten", "solution": "23,88", "category1": "heiß", "specific": "Durchschnittstemperatur"},
+        {"id": "4", "name": "Italien", "solution": "13,50", "category2": "kalt"},
+        {"id": "8", "name": "Grönland", "solution": "-17,56"},
+        {"id": "5", "name": "Deutschland", "solution": "10,50"},
+        {"id": "3", "name": "Portugal", "solution": "16,09"},
+        {"id": "1", "name": "Brasilien", "solution": "25,58"},
+        {"id": "7", "name": "Kanada", "solution": "-3,71"},
+        {"id": "6", "name": "Schweden", "solution": "3,02"}
+
+    ]
+
+},
+{
+    "ids": 27,
+    "items" :
+    [   
+        {"id": "1", "name": "Kornblume", "solution": "blau", "category1": "A", "specific": "Anfangsbuchstabe der Farbe"},
+        {"id": "4", "name": "Lavendel", "solution": "lila", "category2": "Z"},
+        {"id": "6", "name": "Zierkirschen", "solution": "rosa"},
+        {"id": "3", "name": "Kaktus", "solution": "grün"},
+        {"id": "8", "name": "Jasmin", "solution": "weiß"},
+        {"id": "2", "name": "Winterling", "solution": "gelb"},
+        {"id": "5", "name": "Feuerranke", "solution": "orange"},
+        {"id": "7", "name": "Klatschmohn", "solution": "rot"}
+
+    ]
+
 }
   
 ]
