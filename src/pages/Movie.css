@@ -65,13 +65,13 @@
 
 .image-wrapper > img {
     height: auto;
-    max-width: 920px;
+    max-width: 800px;
     padding: 0;
   }
 
   .image-wrapper2 > img {
     height: 390px;
-    max-width: 770px;
+    max-width: 650px;
     padding: 0;
   }
 
