@@ -16,6 +16,7 @@
     border: none;
     border-radius: 20px;
     background-color: rgb(59, 58, 58);
+    margin-top: 20px;
 }
 
 .game_button:hover {

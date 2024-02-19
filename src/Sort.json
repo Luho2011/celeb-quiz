@@ -199,8 +199,8 @@
     "ids": 13,
     "items" :
     [   
-        {"id": "3", "name": "Arkansas", "solution": "", "category1": "westen"},
-        {"id": "2", "name": "Michigan", "solution": "", "category2": "osten"},
+        {"id": "3", "name": "Arkansas", "solution": "", "category1": "osten"},
+        {"id": "2", "name": "Michigan", "solution": "", "category2": "westen"},
         {"id": "6", "name": "New Mexico", "solution": ""},
         {"id": "1", "name": "North Carolina", "solution": ""},
         {"id": "8", "name": "Washington", "solution": ""},
