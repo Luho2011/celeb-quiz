@@ -1,19 +1,51 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./Zoom.css";
 import list from "../Sort.json";
 import {useState} from "react";
 import {DragDropContext, Droppable, Draggable} from "react-beautiful-dnd";
+import {db} from '../firebase'
+import {getDocs, collection, collectionGroup} from 'firebase/firestore'
 
 
 function Zoom() {
 
   const [words, setWords] = useState(list);
+  const [wordsTest, setWordsTest] = useState([]);
   const [remainingWords, setRemainingWords] = useState([]);
   const [solutionList, setSolutionList] = useState([]);
   const [solution, setSolution] = useState([]);
   const [showSolution, setShowSolution] = useState(false);
   const [draggedItemIndex, setDraggedItemIndex] = useState(null);
+  const [fetchData, setFetchData] = useState(false);
+  const [newList, setNewList] = useState([]);
+
   
+
+  useEffect(() => {
+    const getCollectionSize = async () => {
+      
+      const rnd = Math.floor(Math.random() * 3) +1
+      const wordsCollection = collection(db, `sort/B5WJdSrsvNUlCEtcjG1p/${rnd}`);
+      const data = await getDocs(wordsCollection);
+      
+      const filteredData = data.docs.map((doc) => ({
+        ...doc.data(),
+      
+      }));
+
+      
+      setWordsTest(filteredData);
+      const newSolution = filteredData.slice();
+      setSolution(newSolution)
+      console.log(filteredData)
+      setSolutionList([]);
+      setShowSolution(false);
+
+      
+    };
+    getCollectionSize();
+  }, [fetchData]);
+
  
   const handleNext = () => {
     console.log(words.length)
@@ -24,14 +56,16 @@ function Zoom() {
     setSolutionList([]);
     setShowSolution(true);
     remove(words[random].ids);
+    console.log(remainingWords)
   };
 
   const sortedSolution = solution.slice().sort((a, b) => a.id - b.id);
-  console.log(sortedSolution)
+  
 
   const remove = (id) => {
-    const newList = words.filter(item => item.ids !== id);
-    setWords(newList);
+    const newList1 = newList.filter(item => item.id !== id);
+    setNewList(newList1);
+    console.log(newList.length)
   }
 
 
@@ -55,7 +89,7 @@ function Zoom() {
       const sourceIndex = source.index;
       const destinationIndex = destination.index;
   
-      const [removedItem] = remainingWords.splice(sourceIndex, 1);
+      const [removedItem] = wordsTest.splice(sourceIndex, 1);
   
       if (removedItem.category !== destination.droppableId.toString()) {
         solution.splice(destinationIndex, 0, removedItem);
@@ -89,7 +123,7 @@ function Zoom() {
   return (
     <div className="zoom">
       <div className='zoom__buttons'>
-         <button className='play_button' onClick={handleNext}>Next</button>
+         <button className='play_button' onClick={() => setFetchData(!fetchData)}>Next</button>
          <button className='play_button' onClick={() => setShowSolution(!showSolution)}>Solution</button>
       </div>   
             {remainingWords.map((item) => (
@@ -103,10 +137,10 @@ function Zoom() {
                               {(provided) => (
                                 <div ref={provided.innerRef}>
                                 <div className="zoom__words">                                 
-                                 {remainingWords.map((item, index) => (                                                                                         
+                                 {wordsTest.map((item, index) => (                                                                                         
                                     <Draggable
-                                      draggableId={item.id}
-                                      key={item.id}
+                                      draggableId={(item.id || index).toString()}
+                                      key={item.id || index}
                                       index={index}
                                     >
                                       {(provided) => (

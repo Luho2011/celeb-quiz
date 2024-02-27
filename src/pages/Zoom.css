@@ -94,7 +94,12 @@ h1 {
 }
 
 .no__solution {
-    display: none;
+    background-color: rgb(235, 235, 81);
+    margin-bottom: 25px;
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(26, 26, 26);
+    padding-left: 5px;
 }
 
 .category1 {
@@ -121,12 +126,7 @@ h1 {
 }
 
 .words__solution {
-    background-color: rgb(235, 235, 81);
-    margin-bottom: 25px;
-    border: solid;
-    border-radius: 10px;
-    border-color: rgb(26, 26, 26);
-    padding-left: 5px;
+  display: none;
 }
 
 .specific > h2 {

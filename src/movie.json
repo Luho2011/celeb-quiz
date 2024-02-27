@@ -681,6 +681,50 @@
             {"id": "4", "image4": "img/x/4.JPG"}
         ]
     
+    },
+    {
+        "ids": 63,
+        "items" :
+        [   
+            {"id": "1", "image": "img/fighter/1.JPG", "cover": "img/fighter/cover.JPG"},
+            {"id": "2", "image2": "img/fighter/2.JPG"},
+            {"id": "3", "image3": "img/fighter/3.JPG"},
+            {"id": "4", "image4": "img/fighter/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 64,
+        "items" :
+        [   
+            {"id": "1", "image": "img/inside/1.JPG", "cover": "img/inside/cover.JPG"},
+            {"id": "2", "image2": "img/inside/2.JPG"},
+            {"id": "3", "image3": "img/inside/3.JPG"},
+            {"id": "4", "image4": "img/inside/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 65,
+        "items" :
+        [   
+            {"id": "1", "image": "img/staatsfeind/1.JPG", "cover": "img/staatsfeind/cover.JPG"},
+            {"id": "2", "image2": "img/staatsfeind/2.JPG"},
+            {"id": "3", "image3": "img/staatsfeind/3.JPG"},
+            {"id": "4", "image4": "img/staatsfeind/4.JPG"}
+        ]
+    
+    },
+    {
+        "ids": 66,
+        "items" :
+        [   
+            {"id": "1", "image": "img/z/1.JPG", "cover": "img/z/cover.JPG"},
+            {"id": "2", "image2": "img/z/2.JPG"},
+            {"id": "3", "image3": "img/z/3.JPG"},
+            {"id": "4", "image4": "img/z/4.JPG"}
+        ]
+    
     }
      
 
