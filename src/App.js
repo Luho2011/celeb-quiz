@@ -3,7 +3,7 @@ import './App.css';
 import HomeScreen from './HomeScreen';
 import Celeb from './pages/Celeb';
 import Music from './pages/Music';
-import Geography from './pages/Geography';
+import Belong from './pages/Belong';
 import Zoom from './pages/Zoom';
 import Movie from './pages/Movie';
 import Nav from './Nav';
@@ -14,21 +14,19 @@ import {HTML5Backend} from "react-dnd-html5-backend"
 
 function App() {
   return (
-    <DndProvider backend={HTML5Backend}>
-        <>
+    
         <div className="app">
           <Routes>
             <Route exact path='/' element={<HomeScreen />} />
             <Route path='/celeb' element={<Celeb />} />
             <Route path='/music' element={<Music />} />
-            <Route path='/geography' element={<Geography />} />
+            <Route path='/belong' element={<Belong />} />
             <Route path='/zoom' element={<Zoom />} />
             <Route path='/history' element={<History />} />
             <Route path='/movies' element={<Movie />} />
           </Routes>
         </div>
-        </>
-    </DndProvider>
+       
    
   );
 }

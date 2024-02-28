@@ -19,7 +19,7 @@ function Content() {
         <Link to='/music' target="_blank">
           <button className='game_button'><img className='rewind_logo' src={rewindlogo} alt="" onClick={""}/></button>
         </Link>
-        <Link to='/geography' target="_blank">
+        <Link to='/belong' target="_blank">
           <button className='game_button'><img className='geo_logo' src={geo} alt="" onClick={""}/></button>
         </Link>
         <Link to='/zoom' target="_blank">

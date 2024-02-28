@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react'
-import "./Zoom.css";
-import list from "../Sort.json";
+import "./Belong.css";
 import {useState} from "react";
 import {DragDropContext, Droppable, Draggable} from "react-beautiful-dnd";
 import {db} from '../firebase'
@@ -15,11 +14,10 @@ function shuffleArray(array) {
 }
 
 
-function Zoom() {
+function Belong() {
 
-  const [words, setWords] = useState(list);
   const [wordsTest, setWordsTest] = useState([]);
-  const [remainingWords, setRemainingWords] = useState([]);
+  const [wordsBelong, setWordsBelong] = useState([]);
   const [solutionList, setSolutionList] = useState([]);
   const [solution, setSolution] = useState([]);
   const [showSolution, setShowSolution] = useState(false);
@@ -28,12 +26,12 @@ function Zoom() {
   const [newList, setNewList] = useState([]);
   const [usedNumbers, setUsedNumbers] = useState([]);
 
-  
 
   useEffect(() => {
     const getCollectionSize = async () => {
       const rnd = getRandomNumber();
-      const wordsCollection = collection(db, `sort/B5WJdSrsvNUlCEtcjG1p/${rnd}`);
+      const wordsCollection = collection(db, `sort/rvo0bgDUH9oHF6wlSE0q/${rnd}`);
+      const wordsCollection2 = collection(db, `sort/gQCCfBS7HXdnnwDniuat/${rnd}`);
       const data = await getDocs(wordsCollection);
       
       const filteredData = data.docs.map((doc) => ({
@@ -41,10 +39,19 @@ function Zoom() {
       
       }));
 
+      const data2 = await getDocs(wordsCollection2);
+      
+      const filteredData2 = data2.docs.map((doc) => ({
+        ...doc.data(),
+      
+      }));
+
       setWordsTest(shuffleArray(filteredData));
+      setWordsBelong(shuffleArray(filteredData2));
       const newSolution = filteredData.slice();
       setSolution(newSolution)
       console.log(filteredData)
+      console.log(filteredData2)
       setSolutionList([]);
       setShowSolution(false);
       
@@ -56,35 +63,15 @@ function Zoom() {
   const getRandomNumber = () => {
     let rnd;
     do {
-      rnd = Math.floor(Math.random() * 6) + 1;
+      rnd = Math.floor(Math.random() * 3) + 1;
     } while (usedNumbers.includes(rnd));
     setUsedNumbers(prevState => [...prevState, rnd]);
     return rnd;
   };
   
 
-  const handleNext = () => {
-    console.log(words.length)
-    const random = Math.floor(Math.random() * words.length);
-    setRemainingWords(words[random].items);
-    const newSolution = words[random].items.slice();
-    setSolution(newSolution);
-    setSolutionList([]);
-    setShowSolution(true);
-    remove(words[random].ids);
-    console.log(remainingWords)
-  };
-
   const sortedSolution = solution.slice().sort((a, b) => a.id - b.id);
   
-
-  const remove = (id) => {
-    const newList1 = newList.filter(item => item.id !== id);
-    setNewList(newList1);
-    console.log(newList.length)
-  }
-
-
 
   const onDragEnd = (result) => {
     console.log(result);
@@ -138,15 +125,11 @@ function Zoom() {
  
   return (
     <div className="zoom">
-      <div className='zoom__buttons'>
-         <button className='play_button' onClick={() => setFetchData(!fetchData)}>Next</button>
-         <button className='play_button' onClick={() => setShowSolution(!showSolution)}>Solution</button>
+      <div className='belong__buttons'>
+         <button className='belong__play_button' onClick={() => setFetchData(!fetchData)}>Next</button>
+         <button className='belong__play_button' onClick={() => setShowSolution(!showSolution)}>Solution</button>
       </div>   
-            {remainingWords.map((item) => (
-                   <div className='specific'>
-                      <h2>{item.specific}</h2> 
-                    </div>                                                             
-            ))}  
+           
        <DragDropContext onDragEnd={onDragEnd}>           
                           <div className='boxes'>                                                          
                             <Droppable droppableId="a" type="droppableItem">
@@ -166,7 +149,7 @@ function Zoom() {
                                           {...provided.dragHandleProps}
                                         >                                                                                                                                                                                              
                                            <div className='words'>                                    
-                                              <h1>{item.name}</h1>
+                                              <h2>{item.name}</h2>
                                            </div>                                    
                                         </div>
                                       )}
@@ -178,14 +161,14 @@ function Zoom() {
                              )}
                             </Droppable> 
                         
-                          <Droppable droppableId="b" type="droppableItem">
-                             {(provided) => (
-                               <div ref={provided.innerRef}>
-                                  <div className='zoom__list'> 
-                                      {wordsTest.map((item) => (
-                                        <div className='category1'>
-                                            <h2>{item.category1}</h2>      
-                                        </div>                                                             
+                         
+                                  <div className='belong__list'> 
+                                      {wordsBelong.map((item) => (            
+                                        <div className='belong__words__div'>
+                                          <div className='words'>
+                                            <h2>{item.name}</h2>    
+                                          </div>  
+                                        </div>                                                                                     
                                       ))}
                                      {solutionList                             
                                        .map((item, index) => (
@@ -200,23 +183,18 @@ function Zoom() {
                                             {...provided.draggableProps}
                                             {...provided.dragHandleProps}
                                             >
-                                              <div className={index === draggedItemIndex ? "wordsInvalid" : "wordsValid"}>
-                                                 <h1>{item.name}</h1>                                                                                                                                                                                                                                                                                    
+                                              <div className={index === draggedItemIndex ? "belong__wordsInvalid" : "belong__wordsValid"}>
+                                                 <h2>{item.name}</h2>                                                                                                                                                                                                                                                                                    
                                               </div> 
                                             </div>
                                           )}                                                                                                                
                                       </Draggable>  
                                     ))}
-                                     {provided.placeholder}
-                                     {wordsTest.map((item) => (
-                                        <div className='category2'>
-                                            <h2>{item.category2}</h2>      
-                                        </div> 
-                                        ))}
+                                   
+                                     
                                   </div>                                            
-                               </div>
-                                 )}
-                            </Droppable>   
+                               
+
                           <div className='zoom__solution'>
                                 {sortedSolution.map((item) => (
                                   <div className={showSolution ? "no__solution" : "words__solution"}>
@@ -231,4 +209,5 @@ function Zoom() {
   
 }
 
-export default Zoom
+
+export default Belong
