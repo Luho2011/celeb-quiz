@@ -56,7 +56,7 @@ function Zoom() {
   const getRandomNumber = () => {
     let rnd;
     do {
-      rnd = Math.floor(Math.random() * 6) + 1;
+      rnd = Math.floor(Math.random() * 13) + 1;
     } while (usedNumbers.includes(rnd));
     setUsedNumbers(prevState => [...prevState, rnd]);
     return rnd;
@@ -106,6 +106,7 @@ function Zoom() {
       const destinationIndex = destination.index;
   
       const [removedItem] = wordsTest.splice(sourceIndex, 1);
+      
   
       if (removedItem.category !== destination.droppableId.toString()) {
         solution.splice(destinationIndex, 0, removedItem);
@@ -142,7 +143,7 @@ function Zoom() {
          <button className='play_button' onClick={() => setFetchData(!fetchData)}>Next</button>
          <button className='play_button' onClick={() => setShowSolution(!showSolution)}>Solution</button>
       </div>   
-            {remainingWords.map((item) => (
+            {wordsTest.map((item) => (
                    <div className='specific'>
                       <h2>{item.specific}</h2> 
                     </div>                                                             

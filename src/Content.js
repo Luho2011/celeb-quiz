@@ -7,6 +7,7 @@ import geo from "./img/geo.png";
 import Sort from "./img/sort.png";
 import Sanduhr from "./img/sanduhr.png";
 import Movie from "./img/movie.png";
+import belong from "./img/belong.png";
 
 
 function Content() {
@@ -20,7 +21,7 @@ function Content() {
           <button className='game_button'><img className='rewind_logo' src={rewindlogo} alt="" onClick={""}/></button>
         </Link>
         <Link to='/belong' target="_blank">
-          <button className='game_button'><img className='geo_logo' src={geo} alt="" onClick={""}/></button>
+          <button className='game_button'><img className='geo_logo' src={belong} alt="" onClick={""}/></button>
         </Link>
         <Link to='/zoom' target="_blank">
           <button className='game_button'><img className='sort_logo' src={Sort} alt="" onClick={""}/></button>
