@@ -56,7 +56,7 @@ function Zoom() {
   const getRandomNumber = () => {
     let rnd;
     do {
-      rnd = Math.floor(Math.random() * 13) + 1;
+      rnd = Math.floor(Math.random() * 26) + 1;
     } while (usedNumbers.includes(rnd));
     setUsedNumbers(prevState => [...prevState, rnd]);
     return rnd;
