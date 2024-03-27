@@ -208,10 +208,10 @@ function Belong() {
           <div className='belong__solution'>
             {sortedSolution.map((item, index) => (
               <div className={showSolution ? "belong__no__solution" : "words__solution"} key={item.id}>
-                <h2>{item.name} {item.id}</h2>
+                <h2>{item.name}</h2>
                 {index < sortedSolution2.length && (
               <div className={showSolution ? "belong__no__solution2" : "words__solution"}>
-                <h2>{sortedSolution2[index].name} {sortedSolution2[index].id}</h2>
+                <h2>{sortedSolution2[index].name}</h2>
               </div>
             )}
               </div>
