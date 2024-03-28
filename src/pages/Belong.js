@@ -69,7 +69,7 @@ function Belong() {
   const getRandomNumber = () => {
     let rnd;
     do {
-      rnd = Math.floor(Math.random() * 29) + 1;
+      rnd = Math.floor(Math.random() * 31) + 1;
     } while (usedNumbers.includes(rnd));
     setUsedNumbers(prevState => [...prevState, rnd]);
     return rnd;
