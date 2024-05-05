@@ -1,0 +1,75 @@
+.theme {
+    position: relative;
+    background-color: rgb(51, 51, 51);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.theme > h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 5px;
+    font-size: 30px;
+}
+
+
+
+.theme__solution {
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.theme__solution:hover {
+    background-color: rgb(85, 85, 85); 
+    transition: all 0.1s;
+}
+
+.theme__button {
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.theme__button:hover {
+    background-color: rgb(85, 85, 85); 
+    transition: all 0.1s;
+ }
+
+ .cover__noShow > img {
+   display: none;
+ }
+
+ .theme__cover {
+    position: absolute;
+    margin-top: 100px;
+} 
+
+.theme__cover > img {
+    height: 700px;
+    width: 500px;
+    object-fit: contain;
+}  
+
+.theme__content {
+    position: absolute;
+    margin-top: -750px;
+    display: flex;
+    gap: 10px;
+}

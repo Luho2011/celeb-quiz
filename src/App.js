@@ -6,6 +6,7 @@ import Music from './pages/Music';
 import Belong from './pages/Belong';
 import Zoom from './pages/Zoom';
 import Movie from './pages/Movie';
+import Theme from './pages/Theme';
 import Nav from './Nav';
 import History from './pages/History';
 import { Route, Routes } from "react-router-dom"; 
@@ -24,6 +25,7 @@ function App() {
             <Route path='/zoom' element={<Zoom />} />
             <Route path='/history' element={<History />} />
             <Route path='/movies' element={<Movie />} />
+            <Route path='/theme' element={<Theme />} />
           </Routes>
         </div>
        

@@ -8,6 +8,7 @@ import Sort from "./img/sort.png";
 import Sanduhr from "./img/sanduhr.png";
 import Movie from "./img/movie.png";
 import belong from "./img/belong.png";
+import theme from "./img/theme.png";
 
 
 function Content() {
@@ -31,6 +32,9 @@ function Content() {
         </Link>
         <Link to='/movies' target="_blank">
           <button className='game_button'><img className='movie_logo' src={Movie} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/theme' target="_blank">
+          <button className='game_button'><img className='rewind_logo' src={theme} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>
