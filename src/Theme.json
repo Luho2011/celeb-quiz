@@ -269,6 +269,31 @@
         "id": 54,
         "intro": "themes/54.mp3", 
         "cover": "themes/familie.jpg" 
+    },
+    {
+        "id": 55,
+        "intro": "themes/55.mp3", 
+        "cover": "themes/gänsehaut.jpg" 
+    },
+    {
+        "id": 56,
+        "intro": "themes/56.mp3", 
+        "cover": "themes/pate.jpg" 
+    },
+    {
+        "id": 57,
+        "intro": "themes/57.mp3", 
+        "cover": "themes/saul.jpg" 
+    },
+    {
+        "id": 58,
+        "intro": "themes/58.mp3", 
+        "cover": "themes/dead.jpg" 
+    },
+    {
+        "id": 59,
+        "intro": "themes/59.mp3", 
+        "cover": "themes/lion.jpg" 
     }
     
 ]
