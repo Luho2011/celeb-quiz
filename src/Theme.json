@@ -294,6 +294,11 @@
         "id": 59,
         "intro": "themes/59.mp3", 
         "cover": "themes/lion.jpg" 
+    },
+    {
+        "id": 60,
+        "intro": "themes/60.mp3", 
+        "cover": "themes/maja.jpg" 
     }
     
 ]
