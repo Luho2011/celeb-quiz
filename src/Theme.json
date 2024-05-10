@@ -299,6 +299,16 @@
         "id": 60,
         "intro": "themes/60.mp3", 
         "cover": "themes/maja.jpg" 
+    },
+    {
+        "id": 61,
+        "intro": "themes/61.mp3", 
+        "cover": "themes/bares.jpg" 
+    },
+    {
+        "id": 62,
+        "intro": "themes/62.mp3", 
+        "cover": "themes/park.jpg" 
     }
     
 ]
