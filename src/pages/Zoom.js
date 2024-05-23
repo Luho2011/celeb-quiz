@@ -167,7 +167,7 @@ function Zoom() {
                                           {...provided.dragHandleProps}
                                         >                                                                                                                                                                                              
                                            <div className='words'>                                    
-                                              <h1>{item.name}</h1>
+                                              <h2>{item.name}</h2>
                                            </div>                                    
                                         </div>
                                       )}
@@ -202,7 +202,7 @@ function Zoom() {
                                             {...provided.dragHandleProps}
                                             >
                                               <div className={index === draggedItemIndex ? "wordsInvalid" : "wordsValid"}>
-                                                 <h1>{item.name}</h1>                                                                                                                                                                                                                                                                                    
+                                                 <h2>{item.name}</h2>                                                                                                                                                                                                                                                                                    
                                               </div> 
                                             </div>
                                           )}                                                                                                                
@@ -221,7 +221,7 @@ function Zoom() {
                           <div className='zoom__solution'>
                                 {sortedSolution.map((item) => (
                                   <div className={showSolution ? "no__solution" : "words__solution"}>
-                                      <h1>{item.name} ({item.solution})</h1>                                    
+                                      <h2>{item.name} ({item.solution})</h2>                                    
                                   </div>                      
                                 ))}
                           </div>                                                                                                                                                                                       
