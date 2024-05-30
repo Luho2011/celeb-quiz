@@ -9,7 +9,7 @@
 }
 
 .history_buttons {
-    margin-bottom: 20px;
+    margin-top: -45px;
     display: flex;
     justify-content: center;
     gap: 35px;
@@ -37,7 +37,42 @@
     z-index: 5;
 }
 
+.history__hints {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 675px;
+    margin-top: 100px;
+    width: 650px;
+    margin-left: 20px;
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(128, 128, 128);
+
+}
+
+.history__hintBox {
+    background-color: rgb(235, 235, 81);
+    margin-bottom: 25px;
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    border-color: rgb(26, 26, 26);
+    padding: 5px;   
+}
+
+.history__hints > img {
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+}
+
 .solution {
+    display: none;
+}
+
+.show {
     display: none;
 }
 
@@ -48,6 +83,12 @@
     font-size: 25px;
 }
 
-.headline__history > h1 {
+.headline__history > h2 {
     color: rgb(255, 255, 255);
+    margin-top: -25px;
+}
+
+.history__quiz {
+    display: flex;
+    flex-direction: row;
 }

@@ -1,214 +1,517 @@
 [
     {
         "id": 1,
-        "image": "img/history/1.jpg",
-        "name" : "1985"
+        "image": "img/history/1.mp4",
+        "name" : "Österreich",
+        "Entfernung": "Liegt 500km südöstlich von Deutschland",
+        "population": "Population beträgt 9,1 Millionen", 
+        "währung": "Ein Nachbarland ist Schweiz",
+        "flagge": "img/history/1.png"
     },
+
     {
         "id": 2,
-        "image": "img/history/2.jpg",
-        "name" : "1963"
+        "image": "img/history/2.mp4",
+        "name" : "Albanien",
+        "Entfernung": "Liegt 1300km südöstlich von Deutschland",
+        "population": "Population beträgt 2,8 Millionen",
+        "währung": "Ein Nachbarland ist Kosovo",
+        "flagge": "img/history/2.png"
     },
     {
         "id": 3,
-        "image": "img/history/3.jpg",
-        "name" : "1969"
+        "image": "img/history/3.mp4",
+        "name" : "Mexiko",
+        "Entfernung": "Liegt 9400km südwestlich von Deutschland",
+        "population": "Population beträgt 127,5 Millionen",
+        "währung": "Ein Nachbarland ist Belize",
+        "flagge": "img/history/3.png"
     },
     {
         "id": 4,
-        "image": "img/history/4.jpg",
-        "name" : "1492"
+        "image": "img/history/Vietnam.mp4",
+        "name" : "Vietnam",
+        "Entfernung": "Liegt 8600km südöstlich von Deutschland",
+        "population": "Population beträgt 98,19 Millionen",
+        "währung": "Ein Nachbarland ist Laos",
+        "flagge": "img/history/4.png"
     },
     {
         "id": 5,
-        "image": "img/history/5.jpg",
-        "name" : "1912"
+        "image": "img/history/USA.mp4",
+        "name" : "USA",
+        "Entfernung": "Liegt 7800km westlich von Deutschland",
+        "population": "Population beträgt 333,3 Millionen",
+        "währung": "Ein Nachbarland ist Kanada",
+        "flagge": "img/history/5.png"
     },
     {
         "id": 6,
-        "image": "img/history/6.jpg",
-        "name" : "1997"
+        "image": "img/history/Uruguay.mp4",
+        "name" : "Uruguay",
+        "Entfernung": "Liegt 11300km südwestlich von Deutschland",
+        "population": "Population beträgt 3,423 Millionen",
+        "währung": "Ein Nachbarland ist Brasilien",
+        "flagge": "img/history/6.png"
     },
     {
         "id": 7,
-        "image": "img/history/7.jpg",
-        "name" : "1994"
+        "image": "img/history/Türkei.mp4",
+        "name" : "Türkei",
+        "Entfernung": "Liegt 2300km südöstlich von Deutschland",
+        "population": "Population beträgt 84,98 Millionen",
+        "währung": "Ein Nachbarland ist Bulgarien",
+        "flagge": "img/history/7.png"
     },
     {
         "id": 8,
-        "image": "img/history/8.jpg",
-        "name" : "1963"
+        "image": "img/history/Tunesien.mp4",
+        "name" : "Tunesien",
+        "Entfernung": "Liegt 1800km südlich von Deutschland",
+        "population": "Population beträgt 12,36 Millionen",
+        "währung": "Ein Nachbarland ist Libyen",
+        "flagge": "img/history/8.png"
     },
     {
         "id": 9,
-        "image": "img/history/9.jpg",
-        "name" : "64 n. Chr."
+        "image": "img/history/Tschechien.mp4",
+        "name" : "Tschechien",
+        "Entfernung": "Liegt 370km östlich von Deutschland",
+        "population": "Population beträgt 10,67 Millionen",
+        "währung": "Ein Nachbarland ist Slowakei",
+        "flagge": "img/history/9.png"
     },
     {
         "id": 10,
-        "image": "img/history/10.jpg",
-        "name" : "218 v. Chr."
+        "image": "img/history/Tansania.mp4",
+        "name" : "Tansania",
+        "Entfernung": "Liegt 6700km südöstlich von Deutschland",
+        "population": "Population beträgt 65,5 Millionen",
+        "währung": "Ein Nachbarland ist Ruanda",
+        "flagge": "img/history/10.png"
     },
     {
         "id": 11,
-        "image": "img/history/11.jpg",
-        "name" : "1933"
+        "image": "img/history/Südkorea.mp4",
+        "name" : "Südkorea",
+        "Entfernung": "Liegt 8600km südöstlich von Deutschland",
+        "population": "Population beträgt 51,63 Millionen",
+        "währung": "Präsident ist Yoon Suk-yeol",
+        "flagge": "img/history/11.png"
     },
     {
         "id": 12,
-        "image": "img/history/12.jpg",
-        "name" : "1986"
+        "image": "img/history/Sudan.mp4",
+        "name" : "Sudan",
+        "Entfernung": "Liegt 4300km südöstlich von Deutschland",
+        "population": "Population beträgt 46,87 Millionen",
+        "währung": "Ein Nachbarland ist Ägypten",
+        "flagge": "img/history/12.png"
     },
     {
         "id": 13,
-        "image": "img/history/13.jpg",
-        "name" : "2019"
+        "image": "img/history/Südafrika.mp4",
+        "name" : "Südafrika",
+        "Entfernung": "Liegt 9000km südlich von Deutschland",
+        "population": "Population beträgt 59,89 Millionen",
+        "währung": "Ein Nachbarland ist Botswana",
+        "flagge": "img/history/13.png"
     },
     {
         "id": 14,
-        "image": "img/history/14.jpg",
-        "name" : "2000"
+        "image": "img/history/Sri Lanka.mp4",
+        "name" : "Sri Lanka",
+        "Entfernung": "Liegt 8000km südöstlich von Deutschland",
+        "population": "Population beträgt 22,18 Millionen",
+        "währung": "Ein Nachbarland ist Indien",
+        "flagge": "img/history/14.png"
     },
     {
         "id": 15,
-        "image": "img/history/15.jpg",
-        "name" : "1962"
+        "image": "img/history/Spanien.mp4",
+        "name" : "Spanien",
+        "Entfernung": "Liegt 1500km südwestlich von Deutschland",
+        "population": "Population beträgt 47,78 Millionen",
+        "währung": "Ein Nachbarland ist Frankreich",
+        "flagge": "img/history/15.png"
     },
     {
         "id": 16,
-        "image": "img/history/16.jpg",
-        "name" : "2011"
+        "image": "img/history/Schweiz.mp4",
+        "name" : "Schweiz",
+        "Entfernung": "Liegt 437km südlich von Deutschland",
+        "population": "Population beträgt 8,776 Millionen",
+        "währung": "Ein Nachbarland ist Liechtenstein",
+        "flagge": "img/history/16.png"
     },
     {
         "id": 17,
-        "image": "img/history/17.jpg",
-        "name" : "1937"
+        "image": "img/history/Schweden.mp4",
+        "name" : "Schweden",
+        "Entfernung": "Liegt 1400km nördlich von Deutschland",
+        "population": "Population beträgt 10,49 Millionen",
+        "währung": "Ein Nachbarland ist Finnland",
+        "flagge": "img/history/17.png"
     },
     {
         "id": 18,
-        "image": "img/history/18.jpg",
-        "name" : "1953"
+        "image": "img/history/Saudi Arabien.mp4",
+        "name" : "Saudi Arabien",
+        "Entfernung": "Liegt 4100km südöstlich von Deutschland",
+        "population": "Population beträgt 36,41 Millionen",
+        "währung": "Ein Nachbarland ist Jordanien",
+        "flagge": "img/history/18.png"
     },
     {
         "id": 19,
-        "image": "img/history/19.jpg",
-        "name" : "1982"
+        "image": "img/history/Rumänien.mp4",
+        "name" : "Rumänien",
+        "Entfernung": "Liegt 1200km südöstlich von Deutschland",
+        "population": "Population beträgt 19,05 Millionen",
+        "währung": "Ein Nachbarland ist Serbien",
+        "flagge": "img/history/19.png"
     },
     {
         "id": 20,
-        "image": "img/history/20.jpg",
-        "name" : "2007"
+        "image": "img/history/Portugal.mp4",
+        "name" : "Portugal",
+        "Entfernung": "Liegt 1900km südwestlich von Deutschland",
+        "population": "Population beträgt 10,41 Millionen",
+        "währung": "Präsident ist Marcelo Rebelo de Sousa",
+        "flagge": "img/history/20.png"
     },
     {
         "id": 21,
-        "image": "img/history/21.jpg",
-        "name" : "1963"
+        "image": "img/history/Polen.mp4",
+        "name" : "Polen",
+        "Entfernung": "Liegt 640km westlich von Deutschland",
+        "population": "Population beträgt 36,82 Millionen",
+        "währung": "Ein Nachbarland ist Litauen",
+        "flagge": "img/history/21.png"
     },
     {
         "id": 22,
-        "image": "img/history/22.jpg",
-        "name" : "1965"
+        "image": "img/history/Philippinen.mp4",
+        "name" : "Philippinen",
+        "Entfernung": "Liegt 10200km südöstlich von Deutschland",
+        "population": "Population beträgt 115,6 Millionen",
+        "währung": "Präsident ist Ferdinand Marcos Jr.",
+        "flagge": "img/history/22.png"
     },
     {
         "id": 23,
-        "image": "img/history/23.jpg",
-        "name" : "2008"
+        "image": "img/history/Panama.mp4",
+        "name" : "Panama",
+        "Entfernung": "Liegt 9100km südwestlich von Deutschland",
+        "population": "Population beträgt 4,409 Millionen",
+        "währung": "Ein Nachbarland ist Kolumbien",
+        "flagge": "img/history/23.png"
     },
     {
         "id": 24,
-        "image": "img/history/24.jpg",
-        "name" : "1996"
+        "image": "img/history/Norwegen.mp4",
+        "name" : "Norwegen",
+        "Entfernung": "Liegt 1300km nördlich von Deutschland",
+        "population": "Population beträgt 5,457 Millionen",
+        "währung": "Ein Nachbarland ist Russland",
+        "flagge": "img/history/24.png"
     },
     {
         "id": 25,
-        "image": "img/history/25.jpg",
-        "name" : "1789"
+        "image": "img/history/Niederlande.mp4",
+        "name" : "Niederlande",
+        "Entfernung": "Liegt 370km westlich von Deutschland",
+        "population": "Population beträgt 17,7 Millionen",
+        "währung": "Ein Nachbarland ist Deutschland",
+        "flagge": "img/history/25.png"
     },
     {
         "id": 26,
-        "image": "img/history/26.jpg",
-        "name" : "1517"
+        "image": "img/history/Nepal.mp4",
+        "name" : "Nepal",
+        "Entfernung": "Liegt 6400km südöstlich von Deutschland",
+        "population": "Population beträgt 30,55 Millionen",
+        "währung": "Ein Nachbarland ist Indien",
+        "flagge": "img/history/26.png"
     },
     {
         "id": 27,
-        "image": "img/history/27.jpg",
-        "name" : "1886"
+        "image": "img/history/Namibia.mp4",
+        "name" : "Namibia",
+        "Entfernung": "Liegt 8000km südlich von Deutschland",
+        "population": "Population beträgt 2,567 Millionen",
+        "währung": "Ein Nachbarland ist Südafrika",
+        "flagge": "img/history/27.png"
     },
     {
         "id": 28,
-        "image": "img/history/28.jpg",
-        "name" : "1776"
+        "image": "img/history/Mongolei.mp4",
+        "name" : "Mongolei",
+        "Entfernung": "Liegt 6300km östlich von Deutschland",
+        "population": "Population beträgt 3,398 Millionen",
+        "währung": "Ein Nachbarland ist Russland",
+        "flagge": "img/history/28.png"
     },
     {
         "id": 29,
-        "image": "img/history/29.jpg",
-        "name" : "220 v. Chr."
+        "image": "img/history/Marokko.mp4",
+        "name" : "Marokko",
+        "Entfernung": "Liegt 2500km südwestlich von Deutschland",
+        "population": "Population beträgt 37,46 Millionen",
+        "währung": "Ein Nachbarland ist Mauretanien",
+        "flagge": "img/history/29.png"
     },
     {
         "id": 30,
-        "image": "img/history/30.jpg",
-        "name" : "1993"
+        "image": "img/history/Malta.mp4",
+        "name" : "Malta",
+        "Entfernung": "Liegt 1700km südlich von Deutschland",
+        "population": "Population beträgt 531.113 Tausend",
+        "währung": "Präsident ist Myriam Spiteri Debono",
+        "flagge": "img/history/30.png"
     },
     {
         "id": 31,
-        "image": "img/history/31.jpg",
-        "name" : "1982"
+        "image": "img/history/Madagaskar.mp4",
+        "name" : "Madagaskar",
+        "Entfernung": "Liegt 8600km südöstlich von Deutschland",
+        "population": "Population beträgt 29,61 Millionen",
+        "währung": "Präsident ist Andry Rajoelina",
+        "flagge": "img/history/31.png"
     },
     {
         "id": 32,
-        "image": "img/history/32.jpg",
-        "name" : "1972"
+        "image": "img/history/Kroatien.mp4",
+        "name" : "Kroatien",
+        "Entfernung": "Liegt 725km südöstlich von Deutschland",
+        "population": "Population beträgt 3,856 Millionen",
+        "währung": "Ein Nachbarland ist Ungarn",
+        "flagge": "img/history/32.png"
     },
     {
         "id": 33,
-        "image": "img/history/33.jpg",
-        "name" : "2005"
+        "image": "img/history/Kasachstan.mp4",
+        "name" : "Kasachstan",
+        "Entfernung": "Liegt 4000km östlich von Deutschland",
+        "population": "Population beträgt 19,62 Millionen",
+        "währung": "Ein Nachbarland ist Usbekistan",
+        "flagge": "img/history/33.png"
     },
     {
         "id": 34,
-        "image": "img/history/34.jpg",
-        "name" : "1981"
+        "image": "img/history/Kambodscha.mp4",
+        "name" : "Kambodscha",
+        "Entfernung": "Liegt 9200km südöstlich von Deutschland",
+        "population": "Population beträgt 16,77 Millionen",
+        "währung": "Ein Nachbarland ist Thailand",
+        "flagge": "img/history/34.png"
     },
     {
         "id": 35,
-        "image": "img/history/35.jpg",
-        "name" : "1984"
+        "image": "img/history/Jemen.mp4",
+        "name" : "Jemen",
+        "Entfernung": "Liegt 5100km südöstlich von Deutschland",
+        "population": "Population beträgt 33,7 Millionen",
+        "währung": "Ein Nachbarland ist Saudi Arabien",
+        "flagge": "img/history/35.png"
     },
     {
         "id": 36,
-        "image": "img/history/36.jpg",
-        "name" : "1997"
+        "image": "img/history/Japan.mp4",
+        "name" : "Japan",
+        "Entfernung": "Liegt 9100km östlich von Deutschland",
+        "population": "Population beträgt 125,1 Millionen",
+        "währung": "Präsident ist Fumio Kishida",
+        "flagge": "img/history/36.png"
     },
     {
         "id": 37,
-        "image": "img/history/37.jpg",
-        "name" : "1997"
+        "image": "img/history/Jamaika.mp4",
+        "name" : "Jamaika",
+        "Entfernung": "Liegt 8200km südwestlich von Deutschland",
+        "population": "Population beträgt 2,827 Millionen",
+        "währung": "Präsident ist Andrew Holness",
+        "flagge": "img/history/37.png"
     },
     {
         "id": 38,
-        "image": "img/history/38.jpg",
-        "name" : "1940"
+        "image": "img/history/Israel.mp4",
+        "name" : "Israel",
+        "Entfernung": "Liegt 2900km südöstlich von Deutschland",
+        "population": "Population beträgt 9,558 Millionen",
+        "währung": "Ein Nachbarland ist Syrien",
+        "flagge": "img/history/38.png"
     },
     {
         "id": 39,
-        "image": "img/history/39.jpg",
-        "name" : "1967"
+        "image": "img/history/Irland.mp4",
+        "name" : "Irland",
+        "Entfernung": "Liegt 1200km nordwestlich von Deutschland",
+        "population": "Population beträgt 5,127 Millionen",
+        "währung": "Präsident ist Michael D. Higgins",
+        "flagge": "img/history/39.png"
     },
     {
         "id": 40,
-        "image": "img/history/40.jpg",
-        "name" : "1998"
+        "image": "img/history/Iran.mp4",
+        "name" : "Iran",
+        "Entfernung": "Liegt 4000km südöstlich von Deutschland",
+        "population": "Population beträgt 88,55 Millionen",
+        "währung": "Ein Nachbarland ist Aserbaidschan",
+        "flagge": "img/history/40.png"
     },
     {
         "id": 41,
-        "image": "img/history/41.jpg",
-        "name" : "2.600 v. Chr."
+        "image": "img/history/Irak.mp4",
+        "name" : "Irak",
+        "Entfernung": "Liegt 3300km südöstlich von Deutschland",
+        "population": "Population beträgt 44,5 Millionen",
+        "währung": "Ein Nachbarland ist Türkei",
+        "flagge": "img/history/41.png"
     },
     {
         "id": 42,
-        "image": "img/history/42.jpg",
-        "name" : "1954"
+        "image": "img/history/Indien.mp4",
+        "name" : "Indien",
+        "Entfernung": "Liegt 6500km südöstlich von Deutschland",
+        "population": "Population beträgt 1,417 Milliarden",
+        "währung": "Ein Nachbarland ist Myanmar",
+        "flagge": "img/history/42.png"
+    },
+    {
+        "id": 43,
+        "image": "img/history/Haiti.mp4",
+        "name" : "Haiti",
+        "Entfernung": "Liegt 7800km südwestlich von Deutschland",
+        "population": "Population beträgt 11,58 Millionen",
+        "währung": "Ein Nachbarland ist Dominikanische Republik",
+        "flagge": "img/history/43.png"
+    },
+    {
+        "id": 44,
+        "image": "img/history/Großbritannien.mp4",
+        "name" : "Großbritannien",
+        "Entfernung": "Liegt 886km nordwestlich von Deutschland",
+        "population": "Population beträgt 66,97 Millionen",
+        "währung": "Ein Nachbarland ist Wales",
+        "flagge": "img/history/44.png"
+    },
+    {
+        "id": 45,
+        "image": "img/history/Griechenland.mp4",
+        "name" : "Griechenland",
+        "Entfernung": "Liegt 1500km südöstlich von Deutschland",
+        "population": "Population beträgt 10,43 Millionen",
+        "währung": "Ein Nachbarland ist Nordmazedonien",
+        "flagge": "img/history/45.png"
+    },
+    {
+        "id": 46,
+        "image": "img/history/Frankreich.mp4",
+        "name" : "Frankreich",
+        "Entfernung": "Liegt 670km südwestlich von Deutschland",
+        "population": "Population beträgt 67,97 Millionen",
+        "währung": "Ein Nachbarland ist Schweiz",
+        "flagge": "img/history/46.png"
+    },
+    {
+        "id": 47,
+        "image": "img/history/Deutschland.mp4",
+        "name" : "Deutschland",
+        "Entfernung": "Liegt 0km von Deutschland",
+        "population": "Population beträgt 83,8 Millionen",
+        "währung": "Ein Nachbarland ist Tschechien",
+        "flagge": "img/history/47.png"
+    },
+    {
+        "id": 48,
+        "image": "img/history/Dänemark.mp4",
+        "name" : "Dänemark",
+        "Entfernung": "Liegt 600km nördlich von Deutschland",
+        "population": "Population beträgt 5,903 Millionen",
+        "währung": "Präsident ist Mette Frederiksen",
+        "flagge": "img/history/48.png"
+    },
+    {
+        "id": 49,
+        "image": "img/history/China.mp4",
+        "name" : "China",
+        "Entfernung": "Liegt 7300km südöstlich von Deutschland",
+        "population": "Population beträgt 1,412 Milliarden",
+        "währung": "Ein Nachbarland ist Bhutan",
+        "flagge": "img/history/49.png"
+    },
+    {
+        "id": 50,
+        "image": "img/history/Chile.mp4",
+        "name" : "Chile",
+        "Entfernung": "Liegt 12200km südwestlich von Deutschland",
+        "population": "Population beträgt 19,6 Millionen",
+        "währung": "Ein Nachbarland ist Bolivien",
+        "flagge": "img/history/50.png"
+    },
+    {
+        "id": 51,
+        "image": "img/history/Brasilien.mp4",
+        "name" : "Brasilien",
+        "Entfernung": "Liegt 8800km südwestlich von Deutschland",
+        "population": "Population beträgt 215,3 Millionen",
+        "währung": "Ein Nachbarland ist Venezuela",
+        "flagge": "img/history/51.png"
+    },
+    {
+        "id": 52,
+        "image": "img/history/Belgien.mp4",
+        "name" : "Belgien",
+        "Entfernung": "Liegt 386km westlich von Deutschland",
+        "population": "Population beträgt 11,69 Millionen",
+        "währung": "Ein Nachbarland ist Deutschland",
+        "flagge": "img/history/52.png"
+    },
+    {
+        "id": 53,
+        "image": "img/history/Australien.mp4",
+        "name" : "Australien",
+        "Entfernung": "Liegt 14500km südöstlich von Deutschland",
+        "population": "Population beträgt 26,01 Millionen",
+        "währung": "Präsident ist Anthony Albanese",
+        "flagge": "img/history/53.png"
+    },
+    {
+        "id": 54,
+        "image": "img/history/Argentinien.mp4",
+        "name" : "Argentinien",
+        "Entfernung": "Liegt 12000km südwestlich von Deutschland",
+        "population": "Population beträgt 46,23 Millionen",
+        "währung": "Ein Nachbarland ist Brasilien",
+        "flagge": "img/history/54.png"
+    },
+    {
+        "id": 55,
+        "image": "img/history/Algerien.mp4",
+        "name" : "Algerien",
+        "Entfernung": "Liegt 2500km südlich von Deutschland",
+        "population": "Population beträgt 44,9 Millionen",
+        "währung": "Ein Nachbarland ist Niger",
+        "flagge": "img/history/55.png"
+    },
+    {
+        "id": 56,
+        "image": "img/history/Ägypten.mp4",
+        "name" : "Ägypten",
+        "Entfernung": "Liegt 3100km südöstlich von Deutschland",
+        "population": "Population beträgt 111 Millionen",
+        "währung": "Ein Nachbarland ist Israel",
+        "flagge": "img/history/56.png"
+    },
+    {
+        "id": 57,
+        "image": "img/history/Afghanistan.mp4",
+        "name" : "Afghanistan",
+        "Entfernung": "Liegt 4800km südöstlich von Deutschland",
+        "population": "Population beträgt 41,13 Millionen",
+        "währung": "Ein Nachbarland ist Iran",
+        "flagge": "img/history/57.png"
     }
-
 
 ]
