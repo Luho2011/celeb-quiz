@@ -5,10 +5,16 @@
         "name" : "Österreich",
         "Entfernung": "Liegt 500km südöstlich von Deutschland",
         "population": "Population beträgt 9,1 Millionen", 
-        "währung": "Ein Nachbarland ist Schweiz",
-        "flagge": "img/history/1.png"
+        "währung": "Der Zentralfriedhof ist einer der größten Friedhöfe Europas",
+        "flagge": "img/history/1.png",
+        "fact1": "Das Unternehmen Swarovski wurde dort gegründet",
+        "fact2": "Dort findet ein Grand Prix statt",
+        "fact3": "Das Weihnachtslied 'Stille Nacht, heilige Nacht' wurde dort komponiert",
+        "fact4": "Es hat den ESC 2 Mal gewonnen",
+        "fact5": "Es hat die größte Eishöhle der Welt",
+        "fact6": "Die Edelweiß ist Nationalblume"
     },
-
+    
     {
         "id": 2,
         "image": "img/history/2.mp4",
@@ -16,7 +22,13 @@
         "Entfernung": "Liegt 1300km südöstlich von Deutschland",
         "population": "Population beträgt 2,8 Millionen",
         "währung": "Ein Nachbarland ist Kosovo",
-        "flagge": "img/history/2.png"
+        "flagge": "img/history/2.png",
+        "fact1": "Skanderbeg ist Nationalheld",
+        "fact2": "Es grenzt an das Adriatische Meer",
+        "fact3": "Berat, auch bekannt als die 'Stadt der tausend Fenster', liegt dort",
+        "fact4": "Es erlangte 1912 seine Unabhängigkeit von der osmanischen Herrschaft",
+        "fact5": "Land der religiösen Harmonie",
+        "fact6": "Die Küste erstreckt sich über etwa 450 Kilometer"
     },
     {
         "id": 3,
@@ -24,17 +36,29 @@
         "name" : "Mexiko",
         "Entfernung": "Liegt 9400km südwestlich von Deutschland",
         "population": "Population beträgt 127,5 Millionen",
-        "währung": "Ein Nachbarland ist Belize",
-        "flagge": "img/history/3.png"
+        "währung": "Maríachi-Musik ist ein typisches Element der Kultur",
+        "flagge": "img/history/3.png",
+        "fact1": "Der Monarchfalter überwintert dort",
+        "fact2": "Es gehört zu den 17 megadiversen Ländern",
+        "fact3": "Es ist in 32 Bundesstaaten unterteilt",
+        "fact4": "Es gibt dort noch mehrere teils aktive Vulkane",
+        "fact5": "Es produziert mehr Avocados als jedes andere Land der Welt",
+        "fact6": "Am 2. November wird der Día de los Muertos gefeiert"
     },
-    {
+    { 
         "id": 4,
         "image": "img/history/Vietnam.mp4",
         "name" : "Vietnam",
         "Entfernung": "Liegt 8600km südöstlich von Deutschland",
         "population": "Population beträgt 98,19 Millionen",
-        "währung": "Ein Nachbarland ist Laos",
-        "flagge": "img/history/4.png"
+        "währung": "Die größte Stadt ist Ho-Chi-Minh-Stadt",
+        "flagge": "img/history/4.png",
+        "fact1": "Dort findet man die größte Höhle der Welt",
+        "fact2": "Es ist der zweitgrößte Kaffeeexporteur der Welt",
+        "fact3": "Das Wasserpuppentheater ist eine traditionelle Kunstform",
+        "fact4": "In den Schulen wird Verkehrsunterricht gegeben",
+        "fact5": "Motorräder sind das Hauptverkehrsmittel",
+        "fact6": "Das Neujahrsfest Tết ist der wichtigste Feiertag des Jahres"
     },
     {
         "id": 5,
@@ -42,8 +66,14 @@
         "name" : "USA",
         "Entfernung": "Liegt 7800km westlich von Deutschland",
         "population": "Population beträgt 333,3 Millionen",
-        "währung": "Ein Nachbarland ist Kanada",
-        "flagge": "img/history/5.png"
+        "währung": "Dort leben die meisten Milliardäre",
+        "flagge": "img/history/5.png",
+        "fact1": "Das größte Thermometer der Welt steht",
+        "fact2": "Eis am Stiel wurde dort erfunden",
+        "fact3": "Die Hauptstadt belegt Platz 17 der größten Städte im Land",
+        "fact4": "Es gibt keine offizielle Landessprache auf Bundesebene",
+        "fact5": "Die Appalachen ist eine Gebirgskette dort",
+        "fact6": "Es gibt insgesamt 63 Nationalparks"
     },
     {
         "id": 6,
@@ -51,8 +81,14 @@
         "name" : "Uruguay",
         "Entfernung": "Liegt 11300km südwestlich von Deutschland",
         "population": "Population beträgt 3,423 Millionen",
-        "währung": "Ein Nachbarland ist Brasilien",
-        "flagge": "img/history/6.png"
+        "währung": "Die Gaucho-Kultur ist ein bedeutender Teil der nationalen Identität",
+        "flagge": "img/history/6.png",
+        "fact1": "Das erste Land der Welt, das jedem Schulkind einen Laptop zur Verfügung stellte",
+        "fact2": "Mehr als ein Drittel der Einwohner lebt in der Hauptstadt",
+        "fact3": "Fast 98% der Stromproduktion stammen aus erneuerbaren Energiequellen",
+        "fact4": "Fußball ist die beliebteste Sportart",
+        "fact5": "Es gewann schon 2 mal die Fifa-WM",
+        "fact6": "Karneval dauert dort 6 Wochen und ist damit der längste"
     },
     {
         "id": 7,
@@ -60,8 +96,14 @@
         "name" : "Türkei",
         "Entfernung": "Liegt 2300km südöstlich von Deutschland",
         "population": "Population beträgt 84,98 Millionen",
-        "währung": "Ein Nachbarland ist Bulgarien",
-        "flagge": "img/history/7.png"
+        "währung": "Das moderne Staatsgebiet war einst das Zentrum des Byzantinischen Reiches",
+        "flagge": "img/history/7.png",
+        "fact1": "Es ist der weltweit größte Produzent von Feigen",
+        "fact2": "Pamukkale, eine natürliche Thermalquelle mit mineralhaltigen Becken und weißen Kalkterrassen liegt dort",
+        "fact3": "Dort befindet sich längste Hängebrücke der Welt",
+        "fact4": "Es ist bekannt für Heißluftballonfahrten",
+        "fact5": "Der höchste Berg ist der Ararat",
+        "fact6": "Es beherbergt mehrere unterirdische Städte, darunter Derinkuyu und Kaymakli"
     },
     {
         "id": 8,
@@ -69,8 +111,14 @@
         "name" : "Tunesien",
         "Entfernung": "Liegt 1800km südlich von Deutschland",
         "population": "Population beträgt 12,36 Millionen",
-        "währung": "Ein Nachbarland ist Libyen",
-        "flagge": "img/history/8.png"
+        "währung": "Es war der Ausgangspunkt des Arabischen Frühlings im Jahr 2010-2011",
+        "flagge": "img/history/8.png",
+        "fact1": "Star Wars wurde dort gedreht",
+        "fact2": "Es ist reich an Fossilien, darunter versteinerte Überreste von Dinosauriern und anderen prähistorischen Lebewesen",
+        "fact3": "Die Berber sind die Ureinwohner des Landes",
+        "fact4": "Die Salzseen von Chott el Djerid sind dort zu finden",
+        "fact5": "Die Insel Djerba ist dort zu finden",
+        "fact6": "Der Dinar ist die Währung"
     },
     {
         "id": 9,
@@ -78,8 +126,14 @@
         "name" : "Tschechien",
         "Entfernung": "Liegt 370km östlich von Deutschland",
         "population": "Population beträgt 10,67 Millionen",
-        "währung": "Ein Nachbarland ist Slowakei",
-        "flagge": "img/history/9.png"
+        "währung": "1998 wurde es Olympiasieger im Herren-Eishockey",
+        "flagge": "img/history/9.png",
+        "fact1": "Es beinhaltet das Krkonose-Gebirge",
+        "fact2": "Die Hauptstadt wird auch 'Goldene Stadt' genannt",
+        "fact3": "Nach Monaco/Vatikan hat es das dichteste Eisenbahnnetz der Welt",
+        "fact4": "Franz Kafka wurde dort geboren",
+        "fact5": "Es besteht aus drei Regionen: Böhmen, Mähren und Schlesien",
+        "fact6": "Es ist das Land mit dem höchsten Bierkonsum pro Kopf"
     },
     {
         "id": 10,
@@ -87,17 +141,29 @@
         "name" : "Tansania",
         "Entfernung": "Liegt 6700km südöstlich von Deutschland",
         "population": "Population beträgt 65,5 Millionen",
-        "währung": "Ein Nachbarland ist Ruanda",
-        "flagge": "img/history/10.png"
+        "währung": "Dort liegt der größte Berg Afrikas",
+        "flagge": "img/history/10.png",
+        "fact1": "Rote Bananen werden dort angebaut",
+        "fact2": "Die Baobab-Bäume sind dort weit verbreitet",
+        "fact3": "Die Amtssprache ist Swahili",
+        "fact4": "Es ist ein Schmelztiegel verschiedener Kulturen, darunter mehr als 120 verschiedene ethnische Gruppen",
+        "fact5": "Der Ngorongoro-Krater ist dort ein UNESCO-Weltkulturerbe",
+        "fact6": "Es umfasst auch die Inselgruppe Sansibar"
     },
     {
         "id": 11,
         "image": "img/history/Südkorea.mp4",
         "name" : "Südkorea",
         "Entfernung": "Liegt 8600km südöstlich von Deutschland",
-        "population": "Population beträgt 51,63 Millionen",
-        "währung": "Präsident ist Yoon Suk-yeol",
-        "flagge": "img/history/11.png"
+        "population": " Population beträgt 51,63 Millionen",
+        "währung": "Hyundai und Kia sind bekannte Automobilhersteller",
+        "flagge": "img/history/11.png",
+        "fact1": "Der Präsident ist das Staatsoberhaupt und wird alle fünf Jahre gewählt",
+        "fact2": "Rund 70% des Landes sind gebirgig",
+        "fact3": "Es hat eines der besten Bildungssysteme der Welt mit hoher Akademikerquote",
+        "fact4": "Es war Gastgeber der Olympischen Sommerspiele 1988 und der Olympischen Winterspiele 2018",
+        "fact5": "Es gibt spezielle Cafés und Restaurants für alleinstehende Menschen",
+        "fact6": "Es ist die Heimat des Taekwondo"
     },
     {
         "id": 12,
@@ -105,8 +171,14 @@
         "name" : "Sudan",
         "Entfernung": "Liegt 4300km südöstlich von Deutschland",
         "population": "Population beträgt 46,87 Millionen",
-        "währung": "Ein Nachbarland ist Ägypten",
-        "flagge": "img/history/12.png"
+        "währung": "Der blaue- und weiße Nil treffen sich in der Hauptstadt",
+        "flagge": "img/history/12.png",
+        "fact1": "Die Kerma-Kultur ist eine der ältesten Kulturen",
+        "fact2": "Es exportiert hauptsächlich Erdöl, Gold und landwirtschaftliche Produkte",
+        "fact3": "Es erlangte 1956 seine Unabhängigkeit von Großbritannien und Ägypten",
+        "fact4": "Der Islam ist die dominierende Religion",
+        "fact5": "Es ist das drittgrößte Land seines Kontinents",
+        "fact6": "Es hat mehr Pyramiden als Ägypten"
     },
     {
         "id": 13,
@@ -114,8 +186,14 @@
         "name" : "Südafrika",
         "Entfernung": "Liegt 9000km südlich von Deutschland",
         "population": "Population beträgt 59,89 Millionen",
-        "währung": "Ein Nachbarland ist Botswana",
-        "flagge": "img/history/13.png"
+        "währung": "Es ist Heimat des Tafelbergs",
+        "flagge": "img/history/13.png",
+        "fact1": "Es ist Mitglied der BRICS-Gruppe",
+        "fact2": "Es wird oft als Regenbogennation bezeichnet",
+        "fact3": "Es hat elf Amtssprachen",
+        "fact4": "Es ist ein führender Produzent von Straußenprodukten, einschließlich Fleisch und Leder",
+        "fact5": "Rugby ist dort ein sehr populärer Sport",
+        "fact6": "Die Zulu sind die größte Ethnie im Land"
     },
     {
         "id": 14,
@@ -123,8 +201,14 @@
         "name" : "Sri Lanka",
         "Entfernung": "Liegt 8000km südöstlich von Deutschland",
         "population": "Population beträgt 22,18 Millionen",
-        "währung": "Ein Nachbarland ist Indien",
-        "flagge": "img/history/14.png"
+        "währung": "Der Buddhismus spielt eine zentrale Rolle",
+        "flagge": "img/history/14.png",
+        "fact1": "Das Ceylon-Huhn ist der Nationalvogel des Landes",
+        "fact2": "Das Land ist bekannt für seine Edelsteine, insbesondere Saphire und Rubine",
+        "fact3": "Leichtes Kopfschütteln bedeutet dort Zustimmung",
+        "fact4": "Arugam Bay ist ein weltbekannter Surfspot, der Surfer aus aller Welt anzieht",
+        "fact5": "Der frühere Name des Landes war Ceylon",
+        "fact6": "Cricket ist der Nationalsport und wird überall im Land gespielt"
     },
     {
         "id": 15,
@@ -132,8 +216,14 @@
         "name" : "Spanien",
         "Entfernung": "Liegt 1500km südwestlich von Deutschland",
         "population": "Population beträgt 47,78 Millionen",
-        "währung": "Ein Nachbarland ist Frankreich",
-        "flagge": "img/history/15.png"
+        "flagge": "img/history/15.png",
+        "fact1": "Der höchste Berg ist der Teide",
+        "fact2": "hat eine der höchsten Zahlen an UNESCO-Welterbestätten der Welt",
+        "fact3": "Es ist der größte Produzent von Olivenöl weltweit",
+        "fact4": "Es ist eine parlamentarische Monarchie",
+        "fact5": "Es ist eines der größten Weinproduktionsländer der Welt",
+        "fact6": "Dort liegt der Park Güell",
+        "währung": "Flamenco-Musik und -Tanz stammen daher"
     },
     {
         "id": 16,
@@ -141,8 +231,14 @@
         "name" : "Schweiz",
         "Entfernung": "Liegt 437km südlich von Deutschland",
         "population": "Population beträgt 8,776 Millionen",
-        "währung": "Ein Nachbarland ist Liechtenstein",
-        "flagge": "img/history/16.png"
+        "währung": "Mit 57 km ist dort der längste Eisenbahntunnel der Welt zu finden",
+        "flagge": "img/history/16.png",
+        "fact1": "Das Land hat über 1.500 Seen",
+        "fact2": "Das World Wide Web entstand dort",
+        "fact3": "Es hat 4 Amtssprachen",
+        "fact4": "Es hat einen der höchsten Schokoladeverbräuche pro Kopf weltweit",
+        "fact5": "Es ist bekannt für ihre Uhrenindustrie und produziert etwa 30% der weltweiten Uhren",
+        "fact6": "Die Flagge ist neben der des Vatikans die einzige quadratische Nationalflagge der Welt"
     },
     {
         "id": 17,
@@ -150,8 +246,14 @@
         "name" : "Schweden",
         "Entfernung": "Liegt 1400km nördlich von Deutschland",
         "population": "Population beträgt 10,49 Millionen",
-        "währung": "Ein Nachbarland ist Finnland",
-        "flagge": "img/history/17.png"
+        "währung": "Dort werden die Nobelpreise verliehen",
+        "flagge": "img/history/17.png",
+        "fact1": "Es war eines der ersten Länder, das 1921 das Frauenwahlrecht einführte",
+        "fact2": "Das Land hat seit 1814 keine Kriege mehr geführt",
+        "fact3": "Es importiert Abfall aus anderen Ländern, um seine Müllverbrennungsanlagen zu betreiben und Energie zu erzeugen",
+        "fact4": "Etwa 69% der Landesfläche ist von Wäldern bedeckt",
+        "fact5": "Die Einwohner lieben ihre Fika, eine Kaffeepause",
+        "fact6": "Regierungsform ist die parlamentarische Monarchie"
     },
     {
         "id": 18,
@@ -159,8 +261,14 @@
         "name" : "Saudi Arabien",
         "Entfernung": "Liegt 4100km südöstlich von Deutschland",
         "population": "Population beträgt 36,41 Millionen",
-        "währung": "Ein Nachbarland ist Jordanien",
-        "flagge": "img/history/18.png"
+        "währung": "Kamelrennen sind ein beliebter Sport und eine wichtige Tradition",
+        "flagge": "img/history/18.png",
+        "fact1": "Rund 70% der Bevölkerung sind unter 30 Jahre alt",
+        "fact2": "Es ist eines der wenigen Länder der Welt ohne permanenten Fluss",
+        "fact3": "Dort liegt die größte Sandwüste der Welt",
+        "fact4": "Es wurde 1932 gegründet und ist das zwölftgrößte Land der Welt",
+        "fact5": "Öffentliche Kinos waren lange Zeit verboten",
+        "fact6": "Regierungsform ist die absolute Monarchie"
     },
     {
         "id": 19,
@@ -168,8 +276,14 @@
         "name" : "Rumänien",
         "Entfernung": "Liegt 1200km südöstlich von Deutschland",
         "population": "Population beträgt 19,05 Millionen",
-        "währung": "Ein Nachbarland ist Serbien",
-        "flagge": "img/history/19.png"
+        "währung": "Transsylvanien ist eine historische Region",
+        "flagge": "img/history/19.png",
+        "fact1": "In der Antike lebten dort die Daker",
+        "fact2": "Von den Nachbarstaaten ist keiner englischsprachig",
+        "fact3": "Von den Nachbarstaaten ist keiner spanischsprachig",
+        "fact4": "Von den Nachbarstaaten ist keiner französischsprachig",
+        "fact5": "Ein Großteil der Karpaten erstreckt sich durch das Land",
+        "fact6": "Wichtiger Hafen ist der Hafen von Constanța"
     },
     {
         "id": 20,
@@ -177,8 +291,15 @@
         "name" : "Portugal",
         "Entfernung": "Liegt 1900km südwestlich von Deutschland",
         "population": "Population beträgt 10,41 Millionen",
-        "währung": "Präsident ist Marcelo Rebelo de Sousa",
-        "flagge": "img/history/20.png"
+        "währung": "Es ist weltberühmt für seinen Portwein",
+        "flagge": "img/history/20.png",
+        "fact1": "Die Amtssprache wird weltweit von über 250 Millionen Menschen gesprochen wird",
+        "fact2": "Die Universität Coimbra, gegründet 1290, ist eine der ältesten Universitäten der Welt",
+        "fact3": "Am 25. April 1974 fand die Nelkenrevolution statt",
+        "fact4": "Der Tejo ist der längste Fluss des Landes",
+        "fact5": "Die Küste des Landes ist bekannt für ihre hervorragenden Surfbedingungen",
+        "fact6": "Die Azoren ist eine Inselgruppe des Landes"
+        
     },
     {
         "id": 21,
@@ -186,8 +307,14 @@
         "name" : "Polen",
         "Entfernung": "Liegt 640km westlich von Deutschland",
         "population": "Population beträgt 36,82 Millionen",
-        "währung": "Ein Nachbarland ist Litauen",
-        "flagge": "img/history/21.png"
+        "währung": "Am 8. Oktober wird der Nationale Pierogi-Tag gefeiert",
+        "flagge": "img/history/21.png",
+        "fact1": "Es ist das Heimatland des Bagels",
+        "fact2": "Heimat des Wisons",
+        "fact3": "Dort steht die größte Burg der Welt",
+        "fact4": "Heimat des Tatra-Gebirge",
+        "fact5": "Die Polonaise ist Nationaltanz",
+        "fact6": "Nikolaus Kopernikus wurde dort geboren"
     },
     {
         "id": 22,
@@ -195,8 +322,14 @@
         "name" : "Philippinen",
         "Entfernung": "Liegt 10200km südöstlich von Deutschland",
         "population": "Population beträgt 115,6 Millionen",
-        "währung": "Präsident ist Ferdinand Marcos Jr.",
-        "flagge": "img/history/22.png"
+        "währung": "Das Land ist unterteilt in Luzon, Visayas und Mindanao",
+        "flagge": "img/history/22.png",
+        "fact1": "Das Kulintang ist ein traditionelles Schlaginstrument",
+        "fact2": "Jeepneys ist ein Verkehrsmittel in vielen Städten",
+        "fact3": "Es war von 1521 bis 1898 eine spanische Kolonie",
+        "fact4": "Das Balut gilt als Delikatesse",
+        "fact5": "Am 15. Juni 1991 brach dort der Pinatubo aus",
+        "fact6": "Das Land ist einer der weltweit größten Produzenten von Kokosnüssen und Kokosnussprodukten"
     },
     {
         "id": 23,
@@ -204,8 +337,14 @@
         "name" : "Panama",
         "Entfernung": "Liegt 9100km südwestlich von Deutschland",
         "population": "Population beträgt 4,409 Millionen",
-        "währung": "Ein Nachbarland ist Kolumbien",
-        "flagge": "img/history/23.png"
+        "währung": "Es ist ein wichtiger internationaler Finanzplatz, vor allem dank seiner Offshore-Banking-Dienste",
+        "flagge": "img/history/23.png",
+        "fact1": "Nationaltier des Landes ist die Harpyie",
+        "fact2": "Baseball ist eine der beliebtesten Sportarten",
+        "fact3": "Man den Sonnenaufgang über dem Pazifik und den Sonnenuntergang über dem Atlantik sehen",
+        "fact4": "Es erlangte seine Unabhängigkeit am 3. November 1903",
+        "fact5": "Unabhängig wurde es von Kolumbien",
+        "fact6": "Es hat sich nur 1 mal für die Fifa WM qualifizieren können"
     },
     {
         "id": 24,
@@ -213,8 +352,14 @@
         "name" : "Norwegen",
         "Entfernung": "Liegt 1300km nördlich von Deutschland",
         "population": "Population beträgt 5,457 Millionen",
-        "währung": "Ein Nachbarland ist Russland",
-        "flagge": "img/history/24.png"
+        "währung": "Der Friedensnobelpreis wird jährlich dort verliehen",
+        "flagge": "img/history/24.png",
+        "fact1": "Der Konsum von Tiefkühlpizza pro Kopf ist der größte weltweit",
+        "fact2": "Trolle spielen in der Folklore eine wichtige Rolle",
+        "fact3": "Der Laerdalstunnel ist der längste Straßentunnel der Welt",
+        "fact4": "Es ist das Land mit den meisten E-Autos pro Kopf",
+        "fact5": "Berühmter Fotospot für Abenteurer ist der Kjeragbolten",
+        "fact6": "Es ist die Geburtsstätte von Edvard Munch"
     },
     {
         "id": 25,
@@ -222,8 +367,14 @@
         "name" : "Niederlande",
         "Entfernung": "Liegt 370km westlich von Deutschland",
         "population": "Population beträgt 17,7 Millionen",
-        "währung": "Ein Nachbarland ist Deutschland",
-        "flagge": "img/history/25.png"
+        "währung": "Die Grachten sind UNESCO-Weltkulturerbe",
+        "flagge": "img/history/25.png",
+        "fact1": "Es ist das Land mit den durchschnittlich größten Menschen der Welt",
+        "fact2": "Das Unternehmen Philips wurde dort gegründet",
+        "fact3": "Es exportiert etwa 75% der weltweit produzierten Blumenzwiebeln",
+        "fact4": "Das Land ist Gründungsmitglied der NATO",
+        "fact5": "Es gibt dort mehr Fahrräder als Einwohner",
+        "fact6": "Der Eisschnelllauf ist ein beliebter Sport"
     },
     {
         "id": 26,
@@ -231,8 +382,14 @@
         "name" : "Nepal",
         "Entfernung": "Liegt 6400km südöstlich von Deutschland",
         "population": "Population beträgt 30,55 Millionen",
-        "währung": "Ein Nachbarland ist Indien",
-        "flagge": "img/history/26.png"
+        "währung": "Es beherbergt acht der 14 höchsten Berge der Welt",
+        "flagge": "img/history/26.png",
+        "fact1": "Es hat einen ungewöhnlichen Zeitunterschied von UTC+ **:45 Stunden",
+        "fact2": "Die Nationalflagge ist die einzige Nationalflagge der Welt, die nicht rechteckig oder quadratisch ist",
+        "fact3": "Es ist bekannt für seine Gurkha-Soldaten, die für ihre Tapferkeit und Disziplin berühmt sind",
+        "fact4": "Es ist eines der wenigen Länder, die sowohl subtropische Ebenen als auch alpine Bergregionen beherbergen",
+        "fact5": "Es wird oft als das 'Dach der Welt' bezeichnet",
+        "fact6": "Der Pashupatinath-Tempel ist einer der bedeutendsten Hindu-Tempel weltweit"
     },
     {
         "id": 27,
@@ -240,8 +397,14 @@
         "name" : "Namibia",
         "Entfernung": "Liegt 8000km südlich von Deutschland",
         "population": "Population beträgt 2,567 Millionen",
-        "währung": "Ein Nachbarland ist Südafrika",
-        "flagge": "img/history/27.png"
+        "währung": "Es war von 1884 bis 1915 eine deutsche Kolonie",
+        "flagge": "img/history/27.png",
+        "fact1": "Welwitschie, eine einheimische Pflanze, kann bis zu 2.000 Jahre alt werden",
+        "fact2": "Es behimatet den Fish River Canyon, den zweitgrößen Canyon der Welt",
+        "fact3": "Es ist eines der am dünnsten besiedelten Länder der Welt",
+        "fact4": "Die größte ethnische Gruppe sind die Ovambo",
+        "fact5": "Es ist eines der wenigen Länder, in denen man Wüsten-Elefanten finden kann",
+        "fact6": "Es ist Heimat des Etosha-Nationalparks"
     },
     {
         "id": 28,
@@ -249,8 +412,14 @@
         "name" : "Mongolei",
         "Entfernung": "Liegt 6300km östlich von Deutschland",
         "population": "Population beträgt 3,398 Millionen",
-        "währung": "Ein Nachbarland ist Russland",
-        "flagge": "img/history/28.png"
+        "währung": "Berühmtester Herrscher war Dschingis Khan",
+        "flagge": "img/history/28.png",
+        "fact1": "Es ist einer der größten Produzenten von Kaschmirwolle weltweit",
+        "fact2": "In der Hauptstadt leben ca. 40% der Gesamtbevölkerung",
+        "fact3": "Das Naadam-Festival, das jährlich im Juli stattfindet, ist das wichtigste kulturelle Ereignis",
+        "fact4": "Es umfasst Wettkämpfe in Ringen, Bogenschießen und Pferderennen",
+        "fact5": "Die Landeswährung ist der Tögrög",
+        "fact6": "Es wird teilweise von der Wüste Gobi bedeckt"
     },
     {
         "id": 29,
@@ -258,8 +427,14 @@
         "name" : "Marokko",
         "Entfernung": "Liegt 2500km südwestlich von Deutschland",
         "population": "Population beträgt 37,46 Millionen",
-        "währung": "Ein Nachbarland ist Mauretanien",
-        "flagge": "img/history/29.png"
+        "währung": "Casablanca ist die größte Stadt des Landes",
+        "flagge": "img/history/29.png",
+        "fact1": "Es besitzt etwa 70% der weltweiten Phosphatreserven",
+        "fact2": "Der Toubkal ist der größte Berg des Landes",
+        "fact3": "Er ist auch der höchster Berg des Atlasgebirge",
+        "fact4": "Es erlangte am 2. März 1956 seine Unabhängigkeit von Frankreich",
+        "fact5": "Das Nationalgericht ist die Tajine",
+        "fact6": "Es wird teilweise von der Sahara-Wüste bedeckt"
     },
     {
         "id": 30,
@@ -267,8 +442,14 @@
         "name" : "Malta",
         "Entfernung": "Liegt 1700km südlich von Deutschland",
         "population": "Population beträgt 531.113 Tausend",
-        "währung": "Präsident ist Myriam Spiteri Debono",
-        "flagge": "img/history/30.png"
+        "währung": "Es ist das kleinste Land der Europäischen Union",
+        "flagge": "img/history/30.png",
+        "fact1": "Es herrscht Linksverkehr",
+        "fact2": "Es ist ein beliebter Drehort für internationale Filme und Serien, darunter 'Gladiator' und 'Game of Thrones'",
+        "fact3": "Die Megalithtempel sind die ältesten freistehenden Steinbauten der Welt",
+        "fact4": "Es ist bekannt für seine langen Sonnenscheinperioden",
+        "fact5": "Die Luzzus sind traditionell bunt bemnalte Fischerboote",
+        "fact6": "Die Johanniter, regierten Malta von 1530 bis 1798"
     },
     {
         "id": 31,
@@ -276,8 +457,14 @@
         "name" : "Madagaskar",
         "Entfernung": "Liegt 8600km südöstlich von Deutschland",
         "population": "Population beträgt 29,61 Millionen",
-        "währung": "Präsident ist Andry Rajoelina",
-        "flagge": "img/history/31.png"
+        "währung": "Es ist die viertgrößte Insel der Welt",
+        "flagge": "img/history/31.png",
+        "fact1": "Es ist Heimat des Ringelschwanzmungos",
+        "fact2": "Der Baum der Reisenden gilt als Wappenbaum",
+        "fact3": "Es ist der weltweit größte Produzent von Vanille",
+        "fact4": "Es war von 1896 bis 1960 eine französische Kolonie",
+        "fact5": "Es ist bekannt für seine einzigartige Flora und Fauna",
+        "fact6": "Über 90% der Arten, die dort vorkommen, sind endemisch"
     },
     {
         "id": 32,
@@ -285,8 +472,14 @@
         "name" : "Kroatien",
         "Entfernung": "Liegt 725km südöstlich von Deutschland",
         "population": "Population beträgt 3,856 Millionen",
-        "währung": "Ein Nachbarland ist Ungarn",
-        "flagge": "img/history/32.png"
+        "währung": "Die Altstadt von Dubrovnik ist eine UNESCO-Welterbestätte",
+        "flagge": "img/history/32.png",
+        "fact1": "Die Krawatte hat dort ihren Ursprung",
+        "fact2": "Es ist Heimat der weltbeliebten Hunderasse Dalmatiner",
+        "fact3": "Fast 10% des Landes besteht aus 11 Naturparks, 8 Nationalparks und 2 Naturreservaten",
+        "fact4": "Am 25. Juni 1991 erlangte es die Unabhängigkeit",
+        "fact5": "Die beliebteste Sportart ist Fußball",
+        "fact6": "Die Glagolitische Schrift, das älteste bekannte slawische Alphabet, wurde dort entwickelt"
     },
     {
         "id": 33,
@@ -294,8 +487,14 @@
         "name" : "Kasachstan",
         "Entfernung": "Liegt 4000km östlich von Deutschland",
         "population": "Population beträgt 19,62 Millionen",
-        "währung": "Ein Nachbarland ist Usbekistan",
-        "flagge": "img/history/33.png"
+        "währung": "Es grenzt an das Kaspische Meer",
+        "flagge": "img/history/33.png",
+        "fact1": "Der Name der Hauptstadt heißt übersetzte 'Hauptstadt'",
+        "fact2": "Die Dombra ist ein klassischen Musikinstrument",
+        "fact3": "Der weltweit erste und größte Weltraumbahnhof befindet sich dort",
+        "fact4": "Es war ein wichtiger Teil der historischen Seidenstraße",
+        "fact5": "Der dort liegende Aralsee gilt als fast vollständig ausgetrocknet",
+        "fact6": "Es ist flächenmäßig der größte Binnenstaat der Welt"
     },
     {
         "id": 34,
@@ -303,8 +502,14 @@
         "name" : "Kambodscha",
         "Entfernung": "Liegt 9200km südöstlich von Deutschland",
         "population": "Population beträgt 16,77 Millionen",
-        "währung": "Ein Nachbarland ist Thailand",
-        "flagge": "img/history/34.png"
+        "währung": "Der Name der Tempelanlage ist Angkor Wat",
+        "flagge": "img/history/34.png",
+        "fact1": "Der Apsara-Tanz, ein klassischer Tanzstil, ist ein wesentlicher Teil der Kultur",
+        "fact2": "Die Sprache hat die größte Anzahl von Buchstaben, 72, von denen 32 Vokale sind",
+        "fact3": "Cyclo ist eine traditionelle Fahrradrikscha",
+        "fact4": "Es ist das einzige Land, dessen Nationalflagge ein Gebäude",
+        "fact5": "Es ist eines der am stärksten durch Landminen verseuchten Länder der Welt",
+        "fact6": "Es ist die Heimat der größten Tempelanlage der Welt"
     },
     {
         "id": 35,
@@ -312,8 +517,14 @@
         "name" : "Jemen",
         "Entfernung": "Liegt 5100km südöstlich von Deutschland",
         "population": "Population beträgt 33,7 Millionen",
-        "währung": "Ein Nachbarland ist Saudi Arabien",
-        "flagge": "img/history/35.png"
+        "währung": "Es grenzt an das rote Meer",
+        "flagge": "img/history/35.png",
+        "fact1": "Socotra ist Heimat des Drachenblutbaumes",
+        "fact2": "Der Jambia, ein kurzer Dolch, ist Teil der traditionellen Bekleidung des Mannes",
+        "fact3": "Früher war das Land in Nord und Süd unterteilt",
+        "fact4": "Traditionelle Hochzeiten sind große gesellschaftliche Ereignisse, die mehrere Tage dauern können",
+        "fact5": "Öl und Gas sind wichtige Wirtschaftszweige, obwohl die Produktion durch politische Instabilität beeinträchtigt ist",
+        "fact6": "Dort herrscht laut den Vereinten Nationen die größte humanitäre Krise weltweit"
     },
     {
         "id": 36,
@@ -321,8 +532,14 @@
         "name" : "Japan",
         "Entfernung": "Liegt 9100km östlich von Deutschland",
         "population": "Population beträgt 125,1 Millionen",
-        "währung": "Präsident ist Fumio Kishida",
-        "flagge": "img/history/36.png"
+        "währung": "Die Landeswährung ist der Yen",
+        "flagge": "img/history/36.png",
+        "fact1": "Es hat die höchste Dichte an Verkaufsautomaten",
+        "fact2": "Heiße Quellen, bekannt als Onsen, sind ein wichtiger Bestandteil der Kultur",
+        "fact3": "11 Städte haben mehr als 1 Mio. Einwohner",
+        "fact4": "Die Kirschblüte ist ein nationales Symbol",
+        "fact5": "In den 1970er Jahren wurde dort Karaoke erfunden",
+        "fact6": "Die zahlenmäßig größte Minderheit sind die Koreaner"
     },
     {
         "id": 37,
@@ -330,8 +547,14 @@
         "name" : "Jamaika",
         "Entfernung": "Liegt 8200km südwestlich von Deutschland",
         "population": "Population beträgt 2,827 Millionen",
-        "währung": "Präsident ist Andrew Holness",
-        "flagge": "img/history/37.png"
+        "währung": "Es liegt in der Karibik",
+        "flagge": "img/history/37.png",
+        "fact1": "Die Hauptstadt gilt als eine der blitzreichsten Städte der Welt",
+        "fact2": "Die ersten Bewohner gehörten zu den Saladoiden",
+        "fact3": "Englisch ist die Amtssprache, aber Patois wird weit verbreitet gesprochen",
+        "fact4": "Man findet dort die meisten Kirchen pro km² weltweit",
+        "fact5": "Der Nationalvogel ist der Rotschnabelkolibri, auch 'Doctor Bird' genannt",
+        "fact6": "Es hat die höchste Anzahl an olympischen Medaillen pro Kopf in der Leichtathletik"
     },
     {
         "id": 38,
@@ -339,8 +562,14 @@
         "name" : "Israel",
         "Entfernung": "Liegt 2900km südöstlich von Deutschland",
         "population": "Population beträgt 9,558 Millionen",
-        "währung": "Ein Nachbarland ist Syrien",
-        "flagge": "img/history/38.png"
+        "währung": "Es grenzt an das tote Meer",
+        "flagge": "img/history/38.png",
+        "fact1": "Es hat die höchste Dichte an Startups pro Kopf weltweit",
+        "fact2": "Es hat eine der höchsten Raten von Vegetariern und Veganern weltweit",
+        "fact3": "Es hat eine hohe Anzahl an Schachmeistern",
+        "fact4": "Die Wüste Negev nimmt mit etwa 12.000 km² rund 60 Prozent des Landes ein",
+        "fact5": "Das Land wurde am 14. Mai 1948 gegründet",
+        "fact6": "Es gibt eine Wehrpflicht. Männer dienen in der Regel drei Jahre und Frauen zwei Jahre"
     },
     {
         "id": 39,

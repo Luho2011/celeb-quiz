@@ -5,7 +5,7 @@ import questionmark from "./img/question.png";
 import rewindlogo from "./img/rewind.png";
 import geo from "./img/geo.png";
 import Sort from "./img/sort.png";
-import Sanduhr from "./img/sanduhr.png";
+import Globe from "./img/globe.png";
 import Movie from "./img/movie.png";
 import belong from "./img/belong.png";
 import theme from "./img/theme.png";
@@ -28,7 +28,7 @@ function Content() {
           <button className='game_button'><img className='sort_logo' src={Sort} alt="" onClick={""}/></button>
         </Link>
         <Link to='/history' target="_blank">
-          <button className='game_button'><img className='sanduhr_logo' src={Sanduhr} alt="" onClick={""}/></button>
+          <button className='game_button'><img className='sort_logo' src={Globe} alt="" onClick={""}/></button>
         </Link>
         <Link to='/movies' target="_blank">
           <button className='game_button'><img className='movie_logo' src={Movie} alt="" onClick={""}/></button>
