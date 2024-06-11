@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import Counter from "../Counter";
 import "./Zoom.css";
 import list from "../Sort.json";
 import {useState} from "react";
@@ -149,7 +150,10 @@ function Zoom() {
                     </div>                                                             
             ))}  
        <DragDropContext onDragEnd={onDragEnd}>           
-                          <div className='boxes'>                                                          
+                          <div className='boxes'>
+                            <div className='zoom__counter'>
+                               <Counter/> 
+                            </div>                                                         
                             <Droppable droppableId="a" type="droppableItem">
                               {(provided) => (
                                 <div ref={provided.innerRef}>

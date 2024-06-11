@@ -2,6 +2,7 @@ import React from 'react'
 import {useState} from "react";
 import "./History.css"
 import images from "../History.json"
+import Counter from "../Counter";
 
 
 function History() {
@@ -59,6 +60,9 @@ function History() {
 
   return (
     <div className='history'>
+        <div className='history__counter'>
+           <Counter/> 
+        </div> 
       <div className='headline__history'>
         <h2>Guess the Country</h2>
       </div>

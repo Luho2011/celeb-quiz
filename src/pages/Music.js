@@ -1,4 +1,5 @@
 import React from 'react'
+import Counter from "../Counter"
 import songs from "../Songs.json";
 import songs2 from "../Songs2.json";
 import {useState} from "react";
@@ -34,6 +35,9 @@ function Music() {
   return (
     <>
     <div className='songpage'>
+      <div className='history__counter'>
+            <Counter/> 
+          </div> 
       <h1>Guess the Song</h1>
       <div className='song_buttons'>
         <button className='reverse_button' onClick={nextSong}>next song</button>

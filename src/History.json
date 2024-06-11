@@ -67,8 +67,8 @@
         "Entfernung": "Liegt 7800km westlich von Deutschland",
         "population": "Population beträgt 333,3 Millionen",
         "währung": "Dort leben die meisten Milliardäre",
-        "flagge": "img/history/5.png",
-        "fact1": "Das größte Thermometer der Welt steht",
+        "flagge": "img/history/5.PNG",
+        "fact1": "Das größte Thermometer der Welt steht dort",
         "fact2": "Eis am Stiel wurde dort erfunden",
         "fact3": "Die Hauptstadt belegt Platz 17 der größten Städte im Land",
         "fact4": "Es gibt keine offizielle Landessprache auf Bundesebene",
@@ -97,7 +97,7 @@
         "Entfernung": "Liegt 2300km südöstlich von Deutschland",
         "population": "Population beträgt 84,98 Millionen",
         "währung": "Das moderne Staatsgebiet war einst das Zentrum des Byzantinischen Reiches",
-        "flagge": "img/history/7.png",
+        "flagge": "img/history/7.PNG",
         "fact1": "Es ist der weltweit größte Produzent von Feigen",
         "fact2": "Pamukkale, eine natürliche Thermalquelle mit mineralhaltigen Becken und weißen Kalkterrassen liegt dort",
         "fact3": "Dort befindet sich längste Hängebrücke der Welt",
@@ -571,14 +571,20 @@
         "fact5": "Das Land wurde am 14. Mai 1948 gegründet",
         "fact6": "Es gibt eine Wehrpflicht. Männer dienen in der Regel drei Jahre und Frauen zwei Jahre"
     },
-    {
+    { 
         "id": 39,
         "image": "img/history/Irland.mp4",
         "name" : "Irland",
         "Entfernung": "Liegt 1200km nordwestlich von Deutschland",
         "population": "Population beträgt 5,127 Millionen",
-        "währung": "Präsident ist Michael D. Higgins",
-        "flagge": "img/history/39.png"
+        "währung": "Halloween hat dort seinen Ursprung",
+        "flagge": "img/history/39.png",
+        "fact1": "Die Nationalhymne heißt 'Amhrán na bhFiann'",
+        "fact2": "Außerhalb der Hauptstadt, gibt es dort traditionell keine flächendeckenden Postleitzahlen",
+        "fact3": "Der Leprechaun ist ein Wesen der heimischen Mythologie",
+        "fact4": "Präsident ist derzeit Michael D. Higgins",
+        "fact5": "Die Währung des Landes ist der Euro",
+        "fact6": "Das Nationalemblem ist die Harfe"
     },
     {
         "id": 40,
@@ -586,8 +592,14 @@
         "name" : "Iran",
         "Entfernung": "Liegt 4000km südöstlich von Deutschland",
         "population": "Population beträgt 88,55 Millionen",
-        "währung": "Ein Nachbarland ist Aserbaidschan",
-        "flagge": "img/history/40.png"
+        "währung": "Es ist die größte schiitisch-islamische Nation der Welt",
+        "flagge": "img/history/40.png",
+        "fact1": "Das Wochenende ist am Donnerstag und Freitag",
+        "fact2": "Fast alle Autos im Straßenverkehr sind weiß",
+        "fact3": "Es ist der größte Produzent und Exporteur von Safran",
+        "fact4": "Es ist Mitglied der OPEC",
+        "fact5": "Die Teppichknüpferei ist eine der ältesten Künste dort",
+        "fact6": "Es hat ein umfangreiches Nuklearprogramm"
     },
     {
         "id": 41,
@@ -595,17 +607,29 @@
         "name" : "Irak",
         "Entfernung": "Liegt 3300km südöstlich von Deutschland",
         "population": "Population beträgt 44,5 Millionen",
-        "währung": "Ein Nachbarland ist Türkei",
-        "flagge": "img/history/41.png"
+        "währung": "Es war die Heimat der hängenden Gärten von Babylon",
+        "flagge": "img/history/41.png",
+        "fact1": "Es ist Heimat des Zagros-Gebirges",
+        "fact2": "Das Land grenzt an 6 Länder",
+        "fact3": "Das Durchschnittsalter beträgt 28 Jahre",
+        "fact4": "Exportgüter sind unter anderem Erdöl, Datteln, Wolle und Zement",
+        "fact5": "Die antike Stadt Uruk gilt als eine der ersten Städte der Welt",
+        "fact6": "Es beherbergte eines der antiken Weltwunder"
     },
     {
         "id": 42,
         "image": "img/history/Indien.mp4",
         "name" : "Indien",
         "Entfernung": "Liegt 6500km südöstlich von Deutschland",
-        "population": "Population beträgt 1,417 Milliarden",
-        "währung": "Ein Nachbarland ist Myanmar",
-        "flagge": "img/history/42.png"
+        "population": "Population beträgt 1,451 Milliarden",
+        "währung": "Es ist das zweitbevölkerungsreichste Land der Welt",
+        "flagge": "img/history/42.png",
+        "fact1": "Es hat das längste elektrisch betriebene Eisenbahnnetz der Welt",
+        "fact2": "Es gibt 22 offiziell anerkannte Sprachen und Hunderte von Dialekten",
+        "fact3": "Es erlange am 15. August 1947 die Unabhängigkeit von Großbritannien",
+        "fact4": "Das Dezimalsystem und die Zahl Null wurden von einheimischen Mathematikern entwickelt",
+        "fact5": "Es ist der größte Produzent von Milch weltweit",
+        "fact6": "Cricket ist die beliebteste Sportart"
     },
     {
         "id": 43,
@@ -613,8 +637,14 @@
         "name" : "Haiti",
         "Entfernung": "Liegt 7800km südwestlich von Deutschland",
         "population": "Population beträgt 11,58 Millionen",
-        "währung": "Ein Nachbarland ist Dominikanische Republik",
-        "flagge": "img/history/43.png"
+        "währung": "Bei einem Erdbeben 2010 kamen etwa 316.000 ums Leben",
+        "flagge": "img/history/43.png",
+        "fact1": "Kompa und Rara sind zwei traditionelle Musik- und Tanzstile, die dort populär sind",
+        "fact2": "Französisch ist neben der einheimischen, die zweite Amtssprache",
+        "fact3": "Die Vodou-Religion spielt eine wichtige Rolle im kulturellen Leben",
+        "fact4": "Es ist das ärmste Land der westlichen Hemisphäre",
+        "fact5": "Es teilt sich die Insel Hispaniola mit der Dominikanischen Republik",
+        "fact6": "Aufgrund seiner geografischen Lage ist es anfällig für Naturkatastrophen wie Hurrikane und Erdbeben"
     },
     {
         "id": 44,
@@ -622,8 +652,14 @@
         "name" : "Großbritannien",
         "Entfernung": "Liegt 886km nordwestlich von Deutschland",
         "population": "Population beträgt 66,97 Millionen",
-        "währung": "Ein Nachbarland ist Wales",
-        "flagge": "img/history/44.png"
+        "währung": "Taxis haben die Farbe schwarz",
+        "flagge": "img/history/44.png",
+        "fact1": "Es war am kürzesten Krieg der Welt beteiligt, welcher nur 38 Minuten dauerte",
+        "fact2": "1863 wurde die älteste U-Bahn der Welt eröffnet",
+        "fact3": "Die Hauptstadt ist die dritt meistbesuchte Stadt der Welt",
+        "fact4": "Es war der Geburtsort der industriellen Revolution",
+        "fact5": "Regierungsform ist die parlamentarische Monarchie",
+        "fact6": "Roten Doppeldeckerbusse sind weltweit berühmt"
     },
     {
         "id": 45,
@@ -650,7 +686,7 @@
         "Entfernung": "Liegt 0km von Deutschland",
         "population": "Population beträgt 83,8 Millionen",
         "währung": "Ein Nachbarland ist Tschechien",
-        "flagge": "img/history/47.png"
+        "flagge": "img/history/47.PNG"
     },
     {
         "id": 48,
@@ -666,7 +702,7 @@
         "image": "img/history/China.mp4",
         "name" : "China",
         "Entfernung": "Liegt 7300km südöstlich von Deutschland",
-        "population": "Population beträgt 1,412 Milliarden",
+        "population": "Population beträgt 1,469 Milliarden",
         "währung": "Ein Nachbarland ist Bhutan",
         "flagge": "img/history/49.png"
     },

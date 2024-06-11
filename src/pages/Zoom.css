@@ -18,6 +18,12 @@ h1 {
     padding: 30px;
 }
 
+.zoom__counter {
+    position: absolute;
+    left: 5px;
+    top: 3px;
+}
+
 .zoom__buttons {
     display: flex;
     justify-content: center;
