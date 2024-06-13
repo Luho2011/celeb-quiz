@@ -310,9 +310,9 @@
         "währung": "Am 8. Oktober wird der Nationale Pierogi-Tag gefeiert",
         "flagge": "img/history/21.png",
         "fact1": "Es ist das Heimatland des Bagels",
-        "fact2": "Heimat des Wisons",
+        "fact2": "Es ist die Heimat des Wisons",
         "fact3": "Dort steht die größte Burg der Welt",
-        "fact4": "Heimat des Tatra-Gebirge",
+        "fact4": "Es beheimatet das Tatra-Gebirge",
         "fact5": "Die Polonaise ist Nationaltanz",
         "fact6": "Nikolaus Kopernikus wurde dort geboren"
     },
@@ -449,7 +449,7 @@
         "fact3": "Die Megalithtempel sind die ältesten freistehenden Steinbauten der Welt",
         "fact4": "Es ist bekannt für seine langen Sonnenscheinperioden",
         "fact5": "Die Luzzus sind traditionell bunt bemnalte Fischerboote",
-        "fact6": "Die Johanniter, regierten Malta von 1530 bis 1798"
+        "fact6": "Die Johanniter regierten Malta von 1530 bis 1798"
     },
     {
         "id": 31,
@@ -490,7 +490,7 @@
         "währung": "Es grenzt an das Kaspische Meer",
         "flagge": "img/history/33.png",
         "fact1": "Der Name der Hauptstadt heißt übersetzte 'Hauptstadt'",
-        "fact2": "Die Dombra ist ein klassischen Musikinstrument",
+        "fact2": "Die Dombra ist ein klassisches Musikinstrument",
         "fact3": "Der weltweit erste und größte Weltraumbahnhof befindet sich dort",
         "fact4": "Es war ein wichtiger Teil der historischen Seidenstraße",
         "fact5": "Der dort liegende Aralsee gilt als fast vollständig ausgetrocknet",
@@ -684,7 +684,7 @@
         "population": "Die Population beträgt 67,9 Millionen",
         "währung": "Es ist das Heimatland des Electro-Duos Daft Punk",
         "flagge": "img/history/46.png",
-        "fact1": "Es ist berühmt für die Kykladische Architektur",
+        "fact1": "Es wurde 3 mal Vizeweltmeister im Rugby",
         "fact2": "1783 wurde dort der Heißluftballon erfunden",
         "fact3": "Es ist das meistbesuchte Land der Welt",
         "fact4": "Ca. 50% sind landwirtschaftliche Nutzfläche",
@@ -847,7 +847,7 @@
         "name" : "Afghanistan",
         "Entfernung": "Es liegt etwa 4800km südöstlich von Deutschland",
         "population": "Die Population beträgt 41,13 Millionen",
-        "währung": "Laut Women Peace and Security Index 2023/24 leben Frauen in dort am gefährlichsten",
+        "währung": "Laut Women Peace and Security Index 2023/24 leben Frauen dort am gefährlichsten",
         "flagge": "img/history/57.png",
         "fact1": "Ein traditionelles Spiel ist Buzkashi",
         "fact2": "Es ist der größte Opiumproduzent der Welt",
