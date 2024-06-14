@@ -67,7 +67,7 @@
     text-align: center;
     border-color: rgb(26, 26, 26);
     padding: 2px; 
-    width: 630px; 
+    width: 630px;
 }
 
 .history__solution {
@@ -83,7 +83,8 @@
 }
 
 .history__hintBox.show {
-    display: block; /* Sichtbar, wenn die Klasse 'show' hinzugefügt wird */
+    display: block; /* Make it visible */
+    animation: fadeIn 4s forwards; /* Apply fadeIn animation */
   }
 
 .history__hints > img {
@@ -121,3 +122,12 @@
     display: flex;
     flex-direction: row;
 }
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
