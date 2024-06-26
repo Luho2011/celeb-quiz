@@ -9,6 +9,7 @@ import Globe from "./img/globe.png";
 import Movie from "./img/movie.png";
 import belong from "./img/belong.png";
 import theme from "./img/theme.png";
+import Movie2 from "./img/movie2.png";
 
 
 function Content() {
@@ -35,6 +36,9 @@ function Content() {
         </Link>
         <Link to='/theme' target="_blank">
           <button className='game_button'><img className='rewind_logo' src={theme} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/movies2' target="_blank">
+          <button className='game_button'><img className='movie2_logo' src={Movie2} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>

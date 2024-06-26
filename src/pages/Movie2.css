@@ -1,0 +1,58 @@
+.movie2 {
+    background-color: rgb(51, 51, 51);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.movie2__counter {
+    position: absolute;
+    left: 5px;
+    top: 3px;
+}
+
+.movies2__all {
+    border-radius: 10px;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    background-color: rgb(172, 172, 172);
+    height: 825px;
+    width: 1100px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movies2__all > a {
+    height: 110px;
+}
+
+.movie2Btns {
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: rgb(94, 94, 94);
+    border: solid;
+}
+
+.movie2Btns:hover {
+    background-color: rgb(119, 119, 119);
+    transition: all 0.1s;
+}
+
+
+.movie2Btns > p {
+    color: rgb(235, 235, 81);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.movie2Btns.clicked {
+    background-color: rgb(167, 0, 0);
+}
+
