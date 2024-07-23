@@ -22,10 +22,10 @@ function MovieDetails() {
         {movie.items.map((item) => (
           <button
             key={item.id}
-            className={`movieDetails__itemBtn ${item.audio1 || item.audio2 ? 'movieDetails__itemBtnmp3' : ''} ${activeButtons.includes(item.id) ? 'active' : ''} ${item.id.endsWith('7') ? 'movieDetails__itemBtnBg' : ''}`}
+            className={`movieDetails__itemBtn ${item.audio1 || item.audio2 ? 'movieDetails__itemBtnmp3' : ''} ${activeButtons.includes(item.id) ? 'active' : ''} ${item.id.endsWith('7') || item.id.endsWith('14')  ? 'movieDetails__itemBtnBg' : ''}`}
             onClick={() =>  handleButtonClick(item)}
           >
-            {item.id.endsWith('7') ? null : <p>-{item.id}</p>}
+            {item.id.endsWith('7') || item.id.endsWith('14') ? null : <p>-{item.id}</p>}
           </button>
         ))}
       </div>

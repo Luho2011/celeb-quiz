@@ -1,0 +1,255 @@
+[
+    {
+        "ids": 1,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin eine Hauptstadt in Südamerika"},
+            {"id": "1", "answer": "Sucre"},
+            {"id": "1", "answer": "Quito"},
+            {"id": "1", "answer": "Cayenne"},
+            {"id": "1", "answer": "Asunción"},
+            {"id": "1", "answer": "Lima"},
+            {"id": "1", "answer": "Caracas"},
+            {"id": "1", "answer": "Georgetown"},
+            {"id": "2", "answer": "Freetown"},
+            {"id": "2", "answer": "Kigali"},
+            {"id": "2", "answer": "Lomé"}
+        ]
+    
+    },
+    {
+        "ids": 2,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein James Bond Film"},
+            {"id": "1", "answer": "Feuerball"},
+            {"id": "1", "answer": "Man lebt nur zweimal"},
+            {"id": "1", "answer": "Octopussy"},
+            {"id": "1", "answer": "Der Morgen stirbt nie"},
+            {"id": "1", "answer": "Spectre"},
+            {"id": "1", "answer": "Leben und sterben lassen"},
+            {"id": "1", "answer": "Der Hauch des Todes"},
+            {"id": "2", "answer": "Wahre Lügen"},
+            {"id": "2", "answer": "Nacht ohne Morgen"},
+            {"id": "2", "answer": "Phantom Protokoll"}
+        ]
+    
+    },
+    {
+        "ids": 3,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 4,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich war deutscher Bundespräsident"},
+            {"id": "1", "answer": "Gustav Heinemann"},
+            {"id": "1", "answer": "Richard von Weizsäcker"},
+            {"id": "1", "answer": "Johannes Rau"},
+            {"id": "1", "answer": "Karl Carstens"},
+            {"id": "1", "answer": "Christian Wulff"},
+            {"id": "1", "answer": "Theodor Heuss"},
+            {"id": "1", "answer": "Walter Scheel"},
+            {"id": "2", "answer": "Frank-Walter Steinmeier"},
+            {"id": "2", "answer": "Hans-Dietrich Genscher"},
+            {"id": "2", "answer": "Klaus Töpfer"}
+        ]
+    
+    },
+    {
+        "ids": 5,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 6,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 7,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 8,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 9,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 10,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 11,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 12,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 13,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    },
+    {
+        "ids": 14,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Horus"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
+    
+    }
+
+]

@@ -10,6 +10,7 @@ import Movie from "./img/movie.png";
 import belong from "./img/belong.png";
 import theme from "./img/theme.png";
 import Movie2 from "./img/movie2.png";
+import Claim from "./img/claim.png";
 
 
 function Content() {
@@ -39,6 +40,9 @@ function Content() {
         </Link>
         <Link to='/movies2' target="_blank">
           <button className='game_button'><img className='movie2_logo' src={Movie2} alt="" onClick={""}/></button>
+        </Link>
+        <Link to='/Claim' target="_blank">
+          <button className='game_button'><img className='claim_logo' src={Claim} alt="" onClick={""}/></button>
         </Link>
        </div>
     </div>

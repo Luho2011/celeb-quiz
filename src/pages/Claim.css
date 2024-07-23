@@ -1,0 +1,119 @@
+.claim {
+    background-color: rgb(51, 51, 51);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.claim__counter {
+    position: absolute;
+    left: 5px;
+    top: 3px;
+}
+
+.claim__claim {
+    background-color: rgb(235, 235, 81);
+    margin-bottom: 30px;
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(26, 26, 26);
+    height: 70px;
+    width: 1000px;
+}
+
+.claim__claim > h2 {
+   text-align: center;
+   margin-top: 12px;
+   font-size: 30px;
+}
+
+.claim__answer {
+    position: relative;
+    background-color: rgb(189, 189, 189);
+    margin-bottom: 15px;
+    border-color: rgb(26, 26, 26);
+    height: 60px;
+    width: 750px;
+    margin-left: 115px;
+    overflow: hidden;
+}
+
+.claim__answer > h2 {
+    text-align: center;
+    margin-top: 11px;
+    font-size: 28px;
+    position: relative;
+    z-index: 1;
+}
+
+.claim__answer-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0;
+    background-color: rgb(0, 175, 0);
+    z-index: 0;
+    transition: width 8s linear;
+}
+
+.claim__answer.animate .claim__answer-bar {
+    width: 100%;
+}
+
+.claim__answer.reset .claim__answer-bar {
+    width: 0;
+    transition: none;
+}
+
+.claim__startBtn {
+    margin-bottom: 40px;
+    margin-top: 115px;
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.claim__startBtn:hover {
+    background-color: rgb(83, 83, 83);
+}
+
+.claim__buttons {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 55px;
+}
+
+.claim__button {
+    margin-bottom: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(128, 128, 128);
+    color: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+    
+}
+
+.claim__button:hover {
+    background-color: rgb(83, 83, 83);
+}
+
+.claim__title {
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+}
