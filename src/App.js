@@ -10,6 +10,7 @@ import Theme from './pages/Theme';
 import Movie2 from './pages/Movie2';
 import MovieDetails from './pages/MovieDetails';
 import Claim from './pages/Claim';
+import WhoKnowsMore from './pages/WhoKnowsMore';
 import Nav from './Nav';
 import History from './pages/History';
 import { Route, Routes } from "react-router-dom"; 
@@ -32,6 +33,7 @@ function App() {
             <Route path='/movies2' element={<Movie2 />} />
             <Route path="/:id" element={<MovieDetails />} />
             <Route path="/claim" element={<Claim />} />
+            <Route path="/whoKnowsMore" element={<WhoKnowsMore />} />
           </Routes>
         </div>
        

@@ -70,7 +70,7 @@
 
 .claim__startBtn {
     margin-bottom: 40px;
-    margin-top: 115px;
+    margin-top: 85px;
     cursor: pointer;
     height: 35px;
     width: 80px;
@@ -113,7 +113,19 @@
 }
 
 .claim__title {
+    margin-bottom: 30px;
+    border: solid;
+    border-radius: 50px;
+    border-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    padding: 5px;
+}
+
+.claim__title > h1 {
     color: white;
-    font-size: 50px;
-    margin-top: 20px;
+    font-size: 40px;
 }

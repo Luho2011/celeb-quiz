@@ -160,8 +160,9 @@ function Claim() {
       <div className='claim__counter'>
         <Counter />
       </div>
-
-      <h1 className='claim__title'>Wer lügt?</h1>
+    <div className='claim__title'>
+       <h1>Wer lügt?</h1>
+    </div>
        <button className='claim__startBtn' onClick={handleStart}>Start</button>
 
       {currentClaim && (
