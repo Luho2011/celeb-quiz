@@ -65,7 +65,7 @@
             {"id": "1", "answer": "Christian Wulff"},
             {"id": "1", "answer": "Theodor Heuss"},
             {"id": "1", "answer": "Walter Scheel"},
-            {"id": "2", "answer": "Frank-Walter Steinmeier"},
+            {"id": "2", "answer": "Wolfgang Schäuble"},
             {"id": "2", "answer": "Hans-Dietrich Genscher"},
             {"id": "2", "answer": "Klaus Töpfer"}
         ]
@@ -75,17 +75,17 @@
         "ids": 5,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich kann fliegen"},
+            {"id": "1", "answer": "Kranich"},
+            {"id": "1", "answer": "Sikorsky CH-53"},
+            {"id": "1", "answer": "Goldregenpfeifer"},
+            {"id": "1", "answer": "Flughund"},
+            {"id": "1", "answer": "Stieglitz"},
+            {"id": "1", "answer": "Sperber"},
+            {"id": "1", "answer": "Schuhschnabel"},
+            {"id": "2", "answer": "Galapagos-Kormoran"},
+            {"id": "2", "answer": "Lipizzaner"},
+            {"id": "2", "answer": "Kiwi"}
         ]
     
     },
@@ -93,17 +93,17 @@
         "ids": 6,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin ein Musikinstrument"},
+            {"id": "1", "answer": "Oboe"},
+            {"id": "1", "answer": "Fagott"},
+            {"id": "1", "answer": "Djembe"},
+            {"id": "1", "answer": "Cembalo"},
+            {"id": "1", "answer": "Akkordeon"},
+            {"id": "1", "answer": "Marimba"},
+            {"id": "1", "answer": "Vihuela"},
+            {"id": "2", "answer": "Octavia"},
+            {"id": "2", "answer": "Trillium"},
+            {"id": "2", "answer": "Octophon"}
         ]
     
     },
@@ -111,17 +111,17 @@
         "ids": 7,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin ein Metall"},
+            {"id": "1", "answer": "Nickel"},
+            {"id": "1", "answer": "Mangan"},
+            {"id": "1", "answer": "Quecksilber"},
+            {"id": "1", "answer": "Wolfram"},
+            {"id": "1", "answer": "Cobalt"},
+            {"id": "1", "answer": "Palladium"},
+            {"id": "1", "answer": "Gallium"},
+            {"id": "2", "answer": "Eternit"},
+            {"id": "2", "answer": "Elysium"},
+            {"id": "2", "answer": "Fango"}
         ]
     
     },
@@ -129,17 +129,17 @@
         "ids": 8,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin eine asiatische Kampkunst"},
+            {"id": "1", "answer": "Ju-Jutsu"},
+            {"id": "1", "answer": "Sumō"},
+            {"id": "1", "answer": "Judo"},
+            {"id": "1", "answer": "Krabi-Krabong"},
+            {"id": "1", "answer": "Shotokan"},
+            {"id": "1", "answer": "Wushu"},
+            {"id": "1", "answer": "Kendo"},
+            {"id": "2", "answer": "Sambo"},
+            {"id": "2", "answer": "Takanakuy"},
+            {"id": "2", "answer": "Vale Tudo"}
         ]
     
     },
@@ -147,17 +147,17 @@
         "ids": 9,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin ein Fisch"},
+            {"id": "1", "answer": "Knurrhahn"},
+            {"id": "1", "answer": "Pangasius"},
+            {"id": "1", "answer": "Steinbeißer"},
+            {"id": "1", "answer": "Karausche"},
+            {"id": "1", "answer": "Schnäpel"},
+            {"id": "1", "answer": "Glattdick"},
+            {"id": "1", "answer": "Gelbstrieme"},
+            {"id": "2", "answer": "Bläuling"},
+            {"id": "2", "answer": "Admiral"},
+            {"id": "2", "answer": "Ochsenauge"}
         ]
     
     },
@@ -165,17 +165,17 @@
         "ids": 10,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich trage eine rote Hose"},
+            {"id": "1", "answer": "Mickey Mouse"},
+            {"id": "1", "answer": "Stewie Griffin"},
+            {"id": "1", "answer": "Asterix"},
+            {"id": "1", "answer": "Pinocchio"},
+            {"id": "1", "answer": "Superman"},
+            {"id": "1", "answer": "Mogli"},
+            {"id": "1", "answer": "Flash"},
+            {"id": "2", "answer": "Charlie Brown"},
+            {"id": "2", "answer": "Bart Simpson"},
+            {"id": "2", "answer": "Goofy"}
         ]
     
     },
@@ -183,17 +183,17 @@
         "ids": 11,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich wurde ermordet"},
+            {"id": "1", "answer": "Franz Ferdinand"},
+            {"id": "1", "answer": "Abraham Lincoln"},
+            {"id": "1", "answer": "Sokrates"},
+            {"id": "1", "answer": "Julius Caesar"},
+            {"id": "1", "answer": "Leon Trotsky"},
+            {"id": "1", "answer": "Grigori Rasputin"},
+            {"id": "1", "answer": "Alexander II."},
+            {"id": "2", "answer": "George Washington"},
+            {"id": "2", "answer": "Isaac Newton"},
+            {"id": "2", "answer": "Friedrich Engels"}
         ]
     
     },
@@ -201,17 +201,17 @@
         "ids": 12,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin ein Teil des menschlichen Körpers"},
+            {"id": "1", "answer": "Thorax"},
+            {"id": "1", "answer": "Aorta"},
+            {"id": "1", "answer": "Langerhanssche Inseln"},
+            {"id": "1", "answer": "Epidermis"},
+            {"id": "1", "answer": "Hypophyse"},
+            {"id": "1", "answer": "Cerebrum"},
+            {"id": "1", "answer": "Humerus"},
+            {"id": "2", "answer": "Chordale"},
+            {"id": "2", "answer": "Parzen"},
+            {"id": "2", "answer": "Uster"}
         ]
     
     },
@@ -219,17 +219,17 @@
         "ids": 13,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin ein Werk von Stephen King"},
+            {"id": "1", "answer": "Friedhof der Kuscheltiere"},
+            {"id": "1", "answer": "Shining"},
+            {"id": "1", "answer": "Es"},
+            {"id": "1", "answer": "Carrie"},
+            {"id": "1", "answer": "The Green Mile"},
+            {"id": "1", "answer": "Langoliers"},
+            {"id": "1", "answer": "Schlaflos"},
+            {"id": "2", "answer": "American Psycho"},
+            {"id": "2", "answer": "Das Schweigen der Lämmer"},
+            {"id": "2", "answer": "Der Exorzist"}
         ]
     
     },
