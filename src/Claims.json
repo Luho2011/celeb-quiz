@@ -237,6 +237,78 @@
         "ids": 14,
         "items" :
         [   
+            {"id": "0", "claim": "Ich bin eine Primzahl"},
+            {"id": "1", "answer": "13"},
+            {"id": "1", "answer": "43"},
+            {"id": "1", "answer": "59"},
+            {"id": "1", "answer": "89"},
+            {"id": "1", "answer": "71"},
+            {"id": "1", "answer": "97"},
+            {"id": "1", "answer": "19"},
+            {"id": "2", "answer": "57"},
+            {"id": "2", "answer": "87"},
+            {"id": "2", "answer": "51"}
+        ]
+    
+    },
+    {
+        "ids": 15,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin vor 0 geboren"},
+            {"id": "1", "answer": "Julius Caesar"},
+            {"id": "1", "answer": "Konfuzius"},
+            {"id": "1", "answer": "Hannibal Barca"},
+            {"id": "1", "answer": "Tutanchamun"},
+            {"id": "1", "answer": "Archimedes"},
+            {"id": "1", "answer": "Homer"},
+            {"id": "1", "answer": "Qin Shi Huang Di"},
+            {"id": "2", "answer": "Attila der Hunne"},
+            {"id": "2", "answer": "Nero"},
+            {"id": "2", "answer": "Karl der Große"}
+        ]
+    
+    },
+    {
+        "ids": 16,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Vulkan"},
+            {"id": "1", "answer": "Kīlauea"},
+            {"id": "1", "answer": "Arenal"},
+            {"id": "1", "answer": "Nyiragongo"},
+            {"id": "1", "answer": "Osorno"},
+            {"id": "1", "answer": "Irazú"},
+            {"id": "1", "answer": "Eyjafjallajökull"},
+            {"id": "1", "answer": "Popocatépetl"},
+            {"id": "2", "answer": "Aconcagua"},
+            {"id": "2", "answer": "Annapurna"},
+            {"id": "2", "answer": "Denali"}
+        ]
+    
+    },
+    {
+        "ids": 17,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin in Deutschland geboren"},
+            {"id": "1", "answer": "Karl Marx"},
+            {"id": "1", "answer": "Martin Luther"},
+            {"id": "1", "answer": "Diane Kruger"},
+            {"id": "1", "answer": "Hans Zimmer"},
+            {"id": "1", "answer": "Albert Einstein"},
+            {"id": "1", "answer": "Friedrich Nietzsche"},
+            {"id": "1", "answer": "Anne Frank"},
+            {"id": "2", "answer": "Sigmund Freud"},
+            {"id": "2", "answer": "Leonardo DiCaprio"},
+            {"id": "2", "answer": "David Hasselhoff"}
+        ]
+    
+    },
+    {
+        "ids": 18,
+        "items" :
+        [   
             {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
             {"id": "1", "answer": "Ares"},
             {"id": "1", "answer": "Demeter"},
