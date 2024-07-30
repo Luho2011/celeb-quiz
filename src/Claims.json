@@ -309,7 +309,58 @@
         "ids": 18,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "0", "claim": "Ich war ein 'Spiel des Jahres'"},
+            {"id": "1", "answer": "Scotland Yard"},
+            {"id": "1", "answer": "Codenames"},
+            {"id": "1", "answer": "Dampfross"},
+            {"id": "1", "answer": "Hase und Igel"},
+            {"id": "2", "answer": "Monopoly"},
+            {"id": "2", "answer": "Trivial Pursuit"},
+            {"id": "2", "answer": "Risiko"},
+            {"id": "2", "answer": "Mensch ärgere Dich nicht"},
+            {"id": "2", "answer": "Scrabble"},
+            {"id": "1", "answer": "Die Siedler von Catan"}
+        ]
+    },
+    {
+        "ids": 19,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich spiele einen Tatort-Kommissar"},
+            {"id": "1", "answer": "Til Schweiger"},
+            {"id": "1", "answer": "Axel Prahl"},
+            {"id": "1", "answer": "Wotan Wilke Möhring"},
+            {"id": "1", "answer": "Ulrich Tukur"},
+            {"id": "1", "answer": "Christian Ulmen"},
+            {"id": "1", "answer": "Maximilian Brückner"},
+            {"id": "1", "answer": "Nora Tschirner"},
+            {"id": "2", "answer": "Ulrich Noethen"},
+            {"id": "2", "answer": "Katja Riemann"},
+            {"id": "2", "answer": "Matthias Schweighöfer"}
+        ]
+    },
+    {
+        "ids": 20,
+        "items" :
+        [   
+            {"id": "0", "claim": "Meine Hauptstadt ist nicht meine größte Stadt"},
+            {"id": "1", "answer": "USA"},
+            {"id": "1", "answer": "Brasilien"},
+            {"id": "1", "answer": "Südafrika"},
+            {"id": "1", "answer": "Australien"},
+            {"id": "1", "answer": "Marokko"},
+            {"id": "1", "answer": "Türkei"},
+            {"id": "1", "answer": "Bolivien"},
+            {"id": "2", "answer": "Kolumbien"},
+            {"id": "2", "answer": "Indonesien"},
+            {"id": "2", "answer": "Südkorea"}
+        ]
+    },
+    {
+        "ids": 21,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin eine Figur aus Southpark"},
             {"id": "1", "answer": "Ares"},
             {"id": "1", "answer": "Demeter"},
             {"id": "1", "answer": "Hades"},
@@ -321,7 +372,125 @@
             {"id": "2", "answer": "Fortuna"},
             {"id": "2", "answer": "Taweret"}
         ]
-    
+    },
+    {
+        "ids": 22,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein asiatisches Gericht"},
+            {"id": "1", "answer": "Adobo"},
+            {"id": "1", "answer": "Okonomiyaki"},
+            {"id": "1", "answer": "Mochi"},
+            {"id": "1", "answer": "Zongzi"},
+            {"id": "1", "answer": "Rojak"},
+            {"id": "1", "answer": "Japchae"},
+            {"id": "1", "answer": "Kimchi"},
+            {"id": "2", "answer": "Borschtsch"},
+            {"id": "2", "answer": "Jambalaya"},
+            {"id": "2", "answer": "Bouillabaisse"}
+        ]
+    },
+    {
+        "ids": 23,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Stadion der ersten Bundesliga"},
+            {"id": "1", "answer": "Millerntor-Stadion"},
+            {"id": "1", "answer": "Voith-Arena"},
+            {"id": "1", "answer": "Europa-Park Stadion"},
+            {"id": "1", "answer": "Deutsche Bank Park"},
+            {"id": "1", "answer": "Weserstadion"},
+            {"id": "1", "answer": "Vonovia Ruhrstadion"},
+            {"id": "2", "answer": "Avnet-Arena"},
+            {"id": "2", "answer": "RheinEnergieSTADION"},
+            {"id": "2", "answer": "Max-Morlock-Stadion"},
+            {"id": "2", "answer": "Merkur Spiel-Arena"}
+        ]
+    },
+    {
+        "ids": 24,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich war schon mal deutscher Fußballmeister"},
+            {"id": "1", "answer": "VfB Stuttgart"},
+            {"id": "1", "answer": "1. FC Köln"},
+            {"id": "1", "answer": "Eintracht Braunschweig"},
+            {"id": "1", "answer": "Rot-Weiss Essen"},
+            {"id": "1", "answer": "VfR Mannheim"},
+            {"id": "1", "answer": "1. FC Nürnberg"},
+            {"id": "1", "answer": "Hamburger SV"},
+            {"id": "1", "answer": "Hertha BSC Berlin"},
+            {"id": "1", "answer": "Eintracht Frankfurt"},
+            {"id": "2", "answer": "1. FSV Mainz 05"}
+        ]
+    },
+    {
+        "ids": 25,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin größer als Deutschland"},
+            {"id": "1", "answer": "Wüste Gobi"},
+            {"id": "1", "answer": "Peru"},
+            {"id": "1", "answer": "Schweden"},
+            {"id": "1", "answer": "Angola"},
+            {"id": "1", "answer": "Pakistan"},
+            {"id": "1", "answer": "Madagaskar"},
+            {"id": "1", "answer": "Schwarzes Meer"},
+            {"id": "2", "answer": "Atacama-Wüste"},
+            {"id": "2", "answer": "Rumänien"},
+            {"id": "2", "answer": "Vietnam"}
+        ]
+    },
+    {
+        "ids": 26,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich meiner Sportart gibt es Unentschieden"},
+            {"id": "1", "answer": "Basketball"},
+            {"id": "1", "answer": "Eishockey"},
+            {"id": "1", "answer": "Schach"},
+            {"id": "1", "answer": "Cricket"},
+            {"id": "1", "answer": "Curling"},
+            {"id": "1", "answer": "Lacrosse"},
+            {"id": "1", "answer": "Rugby"},
+            {"id": "2", "answer": "Badminton"},
+            {"id": "2", "answer": "Ringen"},
+            {"id": "2", "answer": "Fechten"}
+        ]
+    },
+    {
+        "ids": 27,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Song von ABBA"},
+            {"id": "1", "answer": "The Winner Takes It All"},
+            {"id": "1", "answer": "Gimme! Gimme! Gimme!"},
+            {"id": "1", "answer": "Knowing Me, Knowing You"},
+            {"id": "1", "answer": "S.O.S."},
+            {"id": "1", "answer": "Chiquitita"},
+            {"id": "1", "answer": "I Have a Dream"},
+            {"id": "1", "answer": "Thank You for the Music"},
+            {"id": "2", "answer": "Watermark"},
+            {"id": "2", "answer": "Stormy Weather"},
+            {"id": "2", "answer": "All I Want"}
+        ]
+    },
+    {
+        "ids": 28,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
+            {"id": "1", "answer": "Ares"},
+            {"id": "1", "answer": "Demeter"},
+            {"id": "1", "answer": "Hades"},
+            {"id": "1", "answer": "Eros"},
+            {"id": "1", "answer": "Nemesis"},
+            {"id": "1", "answer": "Thanatos"},
+            {"id": "1", "answer": "Pan"},
+            {"id": "2", "answer": "Watermark"},
+            {"id": "2", "answer": "Fortuna"},
+            {"id": "2", "answer": "Taweret"}
+        ]
     }
 
 ]
