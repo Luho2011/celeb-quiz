@@ -360,17 +360,17 @@
         "ids": 21,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin eine Figur aus Southpark"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Horus"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin eine Figur aus dem Marvel Universum"},
+            {"id": "1", "answer": "Doctor Strange"},
+            {"id": "1", "answer": "Scarlet Witch"},
+            {"id": "1", "answer": "Silver Surfer"},
+            {"id": "1", "answer": "Wolverine"},
+            {"id": "1", "answer": "Ant-Man"},
+            {"id": "1", "answer": "Vision"},
+            {"id": "1", "answer": "Doctor Strange"},
+            {"id": "2", "answer": "Green Lantern"},
+            {"id": "2", "answer": "Catwoman"},
+            {"id": "2", "answer": "Nightwing"}
         ]
     },
     {
@@ -445,7 +445,7 @@
         "ids": 26,
         "items" :
         [   
-            {"id": "0", "claim": "Ich meiner Sportart gibt es Unentschieden"},
+            {"id": "0", "claim": "In meiner Sportart gibt es Unentschieden"},
             {"id": "1", "answer": "Basketball"},
             {"id": "1", "answer": "Eishockey"},
             {"id": "1", "answer": "Schach"},
@@ -479,17 +479,17 @@
         "ids": 28,
         "items" :
         [   
-            {"id": "0", "claim": "Ich bin ein Gott der griechischen Mythologie"},
-            {"id": "1", "answer": "Ares"},
-            {"id": "1", "answer": "Demeter"},
-            {"id": "1", "answer": "Hades"},
-            {"id": "1", "answer": "Eros"},
-            {"id": "1", "answer": "Nemesis"},
-            {"id": "1", "answer": "Thanatos"},
-            {"id": "1", "answer": "Pan"},
-            {"id": "2", "answer": "Watermark"},
-            {"id": "2", "answer": "Fortuna"},
-            {"id": "2", "answer": "Taweret"}
+            {"id": "0", "claim": "Ich bin grün"},
+            {"id": "1", "answer": "Shrek"},
+            {"id": "1", "answer": "Kermit"},
+            {"id": "1", "answer": "Hulk"},
+            {"id": "1", "answer": "Dipsy"},
+            {"id": "1", "answer": "Flip"},
+            {"id": "1", "answer": "Gamora"},
+            {"id": "1", "answer": "Yoda"},
+            {"id": "2", "answer": "Fuchur"},
+            {"id": "2", "answer": "Raven"},
+            {"id": "2", "answer": "Rantanplan"}
         ]
     }
 
