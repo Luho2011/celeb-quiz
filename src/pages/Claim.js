@@ -13,6 +13,7 @@ function Claim() {
   const [isAnimating, setIsAnimating] = useState(false);
 
   const stopButtonRef = useRef(null);
+  const intervalTime = 6000;
 
   useEffect(() => {
     const handleKeyDown = (event) => {
@@ -44,7 +45,7 @@ function Claim() {
             return prevIndex;
           }
         });
-      }, 8000);
+      }, intervalTime);
 
       setIntervalId(id);
       startBarAnimation();
@@ -76,7 +77,7 @@ function Claim() {
     if (bar) {
       setIsAnimating(true);
       setTimeout(() => {
-        bar.style.transition = 'width 8s linear';
+        bar.style.transition = 'width 6s linear';
         bar.style.width = '100%';
       }, 50);
     }
