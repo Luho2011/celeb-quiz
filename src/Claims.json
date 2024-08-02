@@ -488,8 +488,8 @@
             {"id": "1", "answer": "Gamora"},
             {"id": "1", "answer": "Yoda"},
             {"id": "2", "answer": "Fuchur"},
-            {"id": "2", "answer": "Raven"},
-            {"id": "2", "answer": "Rantanplan"}
+            {"id": "2", "answer": "Ohnezahn"},
+            {"id": "2", "answer": "Elise"}
         ]
     },
     {
@@ -507,6 +507,40 @@
             {"id": "2", "answer": "Zeder"},
             {"id": "2", "answer": "Yucca"},
             {"id": "2", "answer": "Rattan"}
+        ]
+    },
+    {
+        "ids": 30,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich stehe im Alphabet direkt vor oder hinter einem Vokal"},
+            {"id": "1", "answer": "J"},
+            {"id": "1", "answer": "P"},
+            {"id": "1", "answer": "N"},
+            {"id": "1", "answer": "T"},
+            {"id": "1", "answer": "F"},
+            {"id": "1", "answer": "V"},
+            {"id": "1", "answer": "B"},
+            {"id": "2", "answer": "L"},
+            {"id": "2", "answer": "G"},
+            {"id": "2", "answer": "R"}
+        ]
+    },
+    {
+        "ids": 31,
+        "items" :
+        [   
+            {"id": "0", "claim": "Ich wurde vor 1900 erfunden/entdeckt"},
+            {"id": "1", "answer": "Glühbirne"},
+            {"id": "1", "answer": "Nähmaschine"},
+            {"id": "1", "answer": "Dynamit"},
+            {"id": "1", "answer": "Röntgenstrahlen"},
+            {"id": "1", "answer": "Telefon"},
+            {"id": "1", "answer": "Rasenmäher"},
+            {"id": "1", "answer": "Erste elektrische U-Bahn"},
+            {"id": "2", "answer": "Neonbeleuchtung"},
+            {"id": "2", "answer": "Penicillin"},
+            {"id": "2", "answer": "Insulin"}
         ]
     }
 
