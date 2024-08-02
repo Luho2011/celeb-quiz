@@ -44,7 +44,7 @@ function Claim() {
             return prevIndex;
           }
         });
-      }, 7000);
+      }, 8000);
 
       setIntervalId(id);
       startBarAnimation();
