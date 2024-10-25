@@ -101,12 +101,13 @@
         "ids": 8,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "audio1": "img/movies/BladeRunner/1.mp3", "scale": "1"},
+            {"id": "2", "audio2": "img/movies/BladeRunner/2.mp3", "scale": "1"},
+            {"id": "3", "image": "img/movies/BladeRunner/1.JPG", "difficulty": "2"},
+            {"id": "4", "image2": "img/movies/BladeRunner/2.JPG"},
+            {"id": "5", "image3": "img/movies/BladeRunner/3.JPG"},
+            {"id": "6", "image4": "img/movies/BladeRunner/4.JPG"},
+            {"id": "7", "cover": "img/movies/BladeRunner/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -114,12 +115,13 @@
         "ids": 9,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/Fargo/1.JPG", "difficulty": "1"},
+            {"id": "4", "image2": "img/movies/Fargo/2.JPG"},
+            {"id": "6", "audio1": "img/movies/Fargo/1.mp3", "scale": "1"},
+            {"id": "8", "image3": "img/movies/Fargo/3.JPG"},
+            {"id": "10", "image4": "img/movies/Fargo/4.JPG"},
+            {"id": "12", "audio2": "img/movies/Fargo/2.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/Fargo/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -127,12 +129,13 @@
         "ids": 10,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/GOT/1.JPG", "difficulty": "1"},
+            {"id": "4", "image2": "img/movies/GOT/2.JPG"},
+            {"id": "6", "image3": "img/movies/GOT/3.JPG"},
+            {"id": "8", "audio1": "img/movies/GOT/1.mp3", "scale": "1"},
+            {"id": "10", "image4": "img/movies/GOT/4.JPG"},
+            {"id": "12", "audio2": "img/movies/GOT/2.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/GOT/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -140,12 +143,13 @@
         "ids": 11,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Jumanji/1.JPG", "difficulty": "2"},
+            {"id": "2", "audio1": "img/movies/Jumanji/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/Jumanji/2.JPG"},
+            {"id": "4", "image3": "img/movies/Jumanji/3.JPG"},
+            {"id": "5", "audio2": "img/movies/Jumanji/2.mp3", "scale": "1"},
+            {"id": "6", "image4": "img/movies/Jumanji/4.JPG"},
+            {"id": "7", "cover": "img/movies/Jumanji/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -153,12 +157,13 @@
         "ids": 12,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/LastOfUs/1.JPG", "difficulty": "2"},
+            {"id": "2", "audio1": "img/movies/LastOfUs/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/LastOfUs/2.JPG"},
+            {"id": "4", "image3": "img/movies/LastOfUs/3.JPG"},
+            {"id": "5", "image4": "img/movies/LastOfUs/4.JPG"},
+            {"id": "6", "audio2": "img/movies/LastOfUs/2.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/LastOfUs/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -166,12 +171,13 @@
         "ids": 13,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Moneyball/1.JPG", "difficulty": "1"},
+            {"id": "2", "audio1": "img/movies/Moneyball/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/Moneyball/2.JPG"},
+            {"id": "4", "image3": "img/movies/Moneyball/3.JPG"},
+            {"id": "5", "audio2": "img/movies/Moneyball/2.mp3"},
+            {"id": "6", "audio3": "img/movies/Moneyball/3.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/Moneyball/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -179,12 +185,13 @@
         "ids": 14,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Nope/1.JPG", "difficulty": "2"},
+            {"id": "2", "audio1": "img/movies/Nope/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/Nope/2.JPG"},
+            {"id": "4", "image4": "img/movies/Nope/4.JPG"},
+            {"id": "5", "audio2": "img/movies/Nope/2.mp3", "scale": "1"},
+            {"id": "6", "image3": "img/movies/Nope/3.JPG"},
+            {"id": "7", "cover": "img/movies/Nope/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -192,12 +199,13 @@
         "ids": 15,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/Ocean11/1.JPG", "difficulty": "1"},
+            {"id": "4", "image2": "img/movies/Ocean11/2.JPG"},
+            {"id": "6", "audio1": "img/movies/Ocean11/1.mp3", "scale": "1"},
+            {"id": "8", "image3": "img/movies/Ocean11/3.JPG"},
+            {"id": "10", "audio2": "img/movies/Ocean11/2.mp3", "scale": "1"},
+            {"id": "12", "image4": "img/movies/Ocean11/4.JPG"},
+            {"id": "7", "cover": "img/movies/Ocean11/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -205,12 +213,13 @@
         "ids": 16,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/Saul/1.JPG", "difficulty": "1"},
+            {"id": "4", "audio1": "img/movies/Saul/1.mp3", "scale": "1"},
+            {"id": "6", "image2": "img/movies/Saul/2.JPG"},
+            {"id": "8", "image3": "img/movies/Saul/3.JPG"},
+            {"id": "10", "image4": "img/movies/Saul/4.JPG"},
+            {"id": "12", "audio2": "img/movies/Saul/2.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/Saul/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -218,12 +227,13 @@
         "ids": 17,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/Sicario/1.JPG", "difficulty": "1"},
+            {"id": "4", "audio1": "img/movies/Sicario/1.mp3", "scale": "1"},
+            {"id": "6", "image2": "img/movies/Sicario/2.JPG"},
+            {"id": "8", "audio2": "img/movies/Sicario/2.mp3", "scale": "1"},
+            {"id": "10", "image3": "img/movies/Sicario/3.JPG"},
+            {"id": "12", "image4": "img/movies/Sicario/4.JPG"},
+            {"id": "7", "cover": "img/movies/Sicario/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -231,12 +241,13 @@
         "ids": 18,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "2", "image": "img/movies/Tierwesen/1.JPG", "difficulty": "1"},
+            {"id": "4", "audio1": "img/movies/Tierwesen/1.mp3", "scale": "1"},
+            {"id": "6", "image2": "img/movies/Tierwesen/2.JPG"},
+            {"id": "8", "audio2": "img/movies/Tierwesen/2.mp3", "scale": "1"},
+            {"id": "10", "image3": "img/movies/Tierwesen/3.JPG"},
+            {"id": "12", "image4": "img/movies/Tierwesen/4.JPG"},
+            {"id": "7", "cover": "img/movies/Tierwesen/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -244,12 +255,13 @@
         "ids": 19,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Titanic/1.JPG", "difficulty": "2"},
+            {"id": "2", "audio1": "img/movies/Titanic/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/Titanic/2.JPG"},
+            {"id": "4", "image3": "img/movies/Titanic/3.JPG"},
+            {"id": "5", "audio2": "img/movies/Titanic/2.mp3", "scale": "1"},
+            {"id": "6", "image4": "img/movies/Titanic/4.JPG"},
+            {"id": "7", "cover": "img/movies/Titanic/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -257,12 +269,13 @@
         "ids": 20,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Tschernobyl/1.JPG", "difficulty": "2"},
+            {"id": "2", "image2": "img/movies/Tschernobyl/2.JPG"},
+            {"id": "3", "audio1": "img/movies/Tschernobyl/1.mp3", "scale": "1"},
+            {"id": "4", "image3": "img/movies/Tschernobyl/3.JPG"},
+            {"id": "5", "audio2": "img/movies/Tschernobyl/2.mp3", "scale": "1"},
+            {"id": "6", "image4": "img/movies/Tschernobyl/4.JPG"},
+            {"id": "7", "cover": "img/movies/Tschernobyl/cover.jpg", "scale": "1"}
         ]
     
     },
@@ -270,12 +283,13 @@
         "ids": 21,
         "items" :
         [   
-            {"id": "1", "image": "img/movies/Country/1.JPG", "cover": "img/batman begins/cover.JPG"},
-            {"id": "2", "image2": "img/movies/Country/2.JPG"},
-            {"id": "3", "image3": "img/movies/Country/3.JPG"},
-            {"id": "4", "audio1": "img/movies/Country/1.mp3", "scale": "1"},
-            {"id": "5", "image4": "img/movies/Country/4.JPG"},
-            {"id": "6", "audio2": "img/movies/Country/2.mp3", "scale": "1"}
+            {"id": "1", "image": "img/movies/Terminator/1.JPG", "difficulty": "2"},
+            {"id": "2", "audio1": "img/movies/Terminator/1.mp3", "scale": "1"},
+            {"id": "3", "image2": "img/movies/Terminator/2.JPG"},
+            {"id": "4", "image3": "img/movies/Terminator/3.JPG"},
+            {"id": "5", "image4": "img/movies/Terminator/4.JPG"},
+            {"id": "6", "audio2": "img/movies/Terminator/2.mp3", "scale": "1"},
+            {"id": "7", "cover": "img/movies/Terminator/cover.jpg", "scale": "1"}
         ]
     
     },

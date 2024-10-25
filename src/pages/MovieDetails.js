@@ -22,7 +22,7 @@ function MovieDetails() {
         {movie.items.map((item) => (
           <button
             key={item.id}
-            className={`movieDetails__itemBtn ${item.audio1 || item.audio2 ? 'movieDetails__itemBtnmp3' : ''} ${activeButtons.includes(item.id) ? 'active' : ''} ${item.id.endsWith('7') || item.id.endsWith('14')  ? 'movieDetails__itemBtnBg' : ''}`}
+            className={`movieDetails__itemBtn ${item.audio1 || item.audio2 || item.audio3 ? 'movieDetails__itemBtnmp3' : ''} ${activeButtons.includes(item.id) ? 'active' : ''} ${item.id.endsWith('7') || item.id.endsWith('14')  ? 'movieDetails__itemBtnBg' : ''}`}
             onClick={() =>  handleButtonClick(item)}
           >
             {item.id.endsWith('7') || item.id.endsWith('14') ? null : <p>-{item.id}</p>}
@@ -52,6 +52,12 @@ function MovieDetails() {
         {selectedItem && selectedItem.audio2 && (
           <audio controls>
             <source src={selectedItem.audio2} type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+        )}
+        {selectedItem && selectedItem.audio3 && (
+          <audio controls>
+            <source src={selectedItem.audio3} type="audio/mpeg" />
             Your browser does not support the audio element.
           </audio>
         )}
